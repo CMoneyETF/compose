@@ -1,0 +1,175 @@
+/* 通用樣式 */
+.data-time {
+    width: 50%;
+    max-width: 1200px;
+    text-align: right;
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.chose {
+  margin-top: 15px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: top;
+    min-height: 100vh;
+    margin: 0,5%,0,5%;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+/* 控制區域樣式 */
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.controls label, .controls select, .controls button {
+    margin: 5px;
+}
+
+/* 內容區域樣式 */
+.container {
+    width: 100%;
+    max-width: 1200px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+.total-row {
+    font-weight: bold;
+    background-color: #f2f2f2;
+}
+
+.footer-wrapper {
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 30px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    margin-top: 100px;
+    bottom: 0;
+}
+
+.footer-wrapper footer {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-wrapper p {
+    margin: 0;
+}
+
+/* 響應式設計 */
+@media (max-width: 768px) {
+    .controls {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .controls label, .controls select, .controls button {
+        margin: 10px 0;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 24px;
+    }
+
+    table {
+        font-size: 10px;
+    }
+
+    th, td {
+        padding: 6px;
+    }
+}
+
+.fixed-banner {
+  position: fixed;
+  z-index: 9999;
+  display: flex;
+  align-items: flex-end;
+  /* 預設 PC 版左下角 */
+  left: 0px;
+  bottom: 50px;
+  /* 無底色、無邊框 */
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+.banner-img-pc {
+  display: block;
+  width: 100%; /* 可根據實際需求調整 */
+  height: auto;
+}
+.banner-img-mobile {
+  display: none;
+}
+
+/* Mobile 響應式：底部置中，顯示 mobile 圖 */
+@media (max-width: 768px) {
+  body {
+    padding-bottom: 150px;
+  }
+  .fixed-banner {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    justify-content: center;
+    width: 100vw;
+    padding: 0;
+  }
+  .banner-img-pc {
+    display: none;
+  }
+  .banner-img-mobile {
+    display: block;
+    width: 100vw;
+    max-width: 100%;
+    height: auto;
+  }
+}
