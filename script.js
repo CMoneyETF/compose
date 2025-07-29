@@ -2,19 +2,19 @@ const etfData = {
     "元大台灣50(0050)": [
         {
             "code": "台泥",
-            "weight": 0.38
+            "weight": 0.34
         },
         {
             "code": "統一",
-            "weight": 0.87
+            "weight": 0.88
         },
         {
             "code": "台塑",
-            "weight": 0.33
+            "weight": 0.35
         },
         {
             "code": "南亞",
-            "weight": 0.31
+            "weight": 0.35
         },
         {
             "code": "中鋼",
@@ -22,75 +22,75 @@ const etfData = {
         },
         {
             "code": "和泰車",
-            "weight": 0.35
+            "weight": 0.33
         },
         {
             "code": "光寶科",
-            "weight": 0.48
+            "weight": 0.49
         },
         {
             "code": "聯電",
-            "weight": 1.15
-        },
-        {
-            "code": "台達電",
-            "weight": 1.84
-        },
-        {
-            "code": "鴻海",
-            "weight": 4.41
-        },
-        {
-            "code": "國巨",
-            "weight": 0.41
-        },
-        {
-            "code": "台積電",
-            "weight": 58.36
-        },
-        {
-            "code": "智邦",
-            "weight": 0.82
-        },
-        {
-            "code": "華碩",
             "weight": 1.07
         },
         {
+            "code": "台達電",
+            "weight": 2.12
+        },
+        {
+            "code": "鴻海",
+            "weight": 4.51
+        },
+        {
+            "code": "國巨",
+            "weight": 0.43
+        },
+        {
+            "code": "台積電",
+            "weight": 59.21
+        },
+        {
+            "code": "智邦",
+            "weight": 0.83
+        },
+        {
+            "code": "華碩",
+            "weight": 0.95
+        },
+        {
             "code": "瑞昱",
-            "weight": 0.61
+            "weight": 0.59
         },
         {
             "code": "廣達",
-            "weight": 1.73
+            "weight": 1.5
         },
         {
             "code": "台光電",
-            "weight": 0.54
+            "weight": 0.59
         },
         {
             "code": "研華",
-            "weight": 0.34
+            "weight": 0.33
         },
         {
             "code": "中華電",
-            "weight": 1.17
+            "weight": 1.04
         },
         {
             "code": "聯發科",
-            "weight": 4.25
+            "weight": 4.46
         },
         {
             "code": "長榮",
-            "weight": 0.5
+            "weight": 0.46
         },
         {
             "code": "陽明",
-            "weight": 0.28
+            "weight": 0.23
         },
         {
             "code": "萬海",
-            "weight": 0.3
+            "weight": 0.27
         },
         {
             "code": "華南金",
@@ -98,83 +98,83 @@ const etfData = {
         },
         {
             "code": "富邦金",
-            "weight": 1.56
+            "weight": 1.43
         },
         {
             "code": "國泰金",
-            "weight": 1.39
+            "weight": 1.24
         },
         {
             "code": "凱基金",
-            "weight": 0.56
+            "weight": 0.5
         },
         {
             "code": "玉山金",
-            "weight": 1.1
+            "weight": 1.06
         },
         {
             "code": "元大金",
-            "weight": 0.81
+            "weight": 0.72
         },
         {
             "code": "兆豐金",
-            "weight": 1.08
+            "weight": 1.07
         },
         {
             "code": "台新金",
-            "weight": 0.42
+            "weight": 0.75
         },
         {
             "code": "永豐金",
-            "weight": 0.58
+            "weight": 0.57
         },
         {
             "code": "中信金",
-            "weight": 1.57
+            "weight": 1.43
         },
         {
             "code": "第一金",
-            "weight": 0.68
+            "weight": 0.67
         },
         {
             "code": "統一超",
-            "weight": 0.31
+            "weight": 0.3
         },
         {
             "code": "大立光",
-            "weight": 0.51
+            "weight": 0.48
         },
         {
             "code": "奇鋐",
-            "weight": 0.54
+            "weight": 0.59
         },
         {
             "code": "聯詠",
-            "weight": 0.69
+            "weight": 0.6
         },
         {
             "code": "台灣大",
-            "weight": 0.37
+            "weight": 0.32
         },
         {
             "code": "緯創",
-            "weight": 0.78
+            "weight": 0.68
         },
         {
             "code": "世芯-KY",
-            "weight": 0.51
+            "weight": 0.65
         },
         {
             "code": "日月光投控",
-            "weight": 1.12
+            "weight": 1.06
         },
         {
             "code": "遠傳",
-            "weight": 0.35
+            "weight": 0.31
         },
         {
             "code": "和碩",
-            "weight": 0.35
+            "weight": 0.33
         },
         {
             "code": "中租-KY",
@@ -182,15 +182,15 @@ const etfData = {
         },
         {
             "code": "上海商銀",
-            "weight": 0.4
+            "weight": 0.36
         },
         {
             "code": "合庫金",
-            "weight": 0.56
+            "weight": 0.55
         },
         {
             "code": "藥華藥",
-            "weight": 0.31
+            "weight": 0.28
         },
         {
             "code": "台塑化",
@@ -198,117 +198,121 @@ const etfData = {
         },
         {
             "code": "緯穎",
-            "weight": 0.63
+            "weight": 0.55
         }
     ],
     "元大中型100(0051)": [
         {
             "code": "亞泥",
-            "weight": 1.42
+            "weight": 1.33
         },
         {
             "code": "大成",
-            "weight": 0.55
+            "weight": 0.54
         },
         {
             "code": "聯華",
-            "weight": 0.56
+            "weight": 0.61
         },
         {
             "code": "東陽",
-            "weight": 0.53
+            "weight": 0.55
         },
         {
             "code": "台化",
-            "weight": 1.11
+            "weight": 1.26
         },
         {
             "code": "遠東新",
-            "weight": 1.43
+            "weight": 1.24
         },
         {
             "code": "儒鴻",
-            "weight": 1.09
+            "weight": 1.02
         },
         {
             "code": "聚陽",
-            "weight": 0.8
+            "weight": 0.89
         },
         {
             "code": "士電",
-            "weight": 0.67
+            "weight": 0.65
         },
         {
             "code": "東元",
-            "weight": 0.83
+            "weight": 0.78
         },
         {
             "code": "中興電",
-            "weight": 0.94
-        },
-        {
-            "code": "華城",
-            "weight": 1.09
-        },
-        {
-            "code": "亞德客-KY",
-            "weight": 1.74
-        },
-        {
-            "code": "華新",
-            "weight": 0.93
-        },
-        {
-            "code": "台肥",
-            "weight": 0.47
-        },
-        {
-            "code": "美時",
-            "weight": 0.53
-        },
-        {
-            "code": "永豐餘",
-            "weight": 0.35
-        },
-        {
-            "code": "東和鋼鐵",
-            "weight": 0.44
-        },
-        {
-            "code": "大成鋼",
-            "weight": 0.87
-        },
-        {
-            "code": "上銀",
             "weight": 0.92
         },
         {
-            "code": "川湖",
-            "weight": 1.73
+            "code": "華城",
+            "weight": 1.24
         },
         {
-            "code": "正新",
-            "weight": 1.05
+            "code": "亞德客-KY",
+            "weight": 1.7
         },
         {
-            "code": "三陽工業",
-            "weight": 0.43
+            "code": "華新",
+            "weight": 0.9
         },
         {
-            "code": "華通",
-            "weight": 0.81
+            "code": "台肥",
+            "weight": 0.46
         },
         {
-            "code": "仁寶",
-            "weight": 1.73
+            "code": "美時",
+            "weight": 0.52
         },
         {
-            "code": "華邦電",
+            "code": "永豐餘",
+            "weight": 0.36
+        },
+        {
+            "code": "東和鋼鐵",
+            "weight": 0.45
+        },
+        {
+            "code": "大成鋼",
+            "weight": 0.97
+        },
+        {
+            "code": "上銀",
             "weight": 0.91
         },
         {
+            "code": "川湖",
+            "weight": 2.11
+        },
+        {
+            "code": "正新",
+            "weight": 1.1
+        },
+        {
+            "code": "三陽工業",
+            "weight": 0.42
+        },
+        {
+            "code": "鴻華先進-創",
+            "weight": 0.09
+        },
+        {
+            "code": "華通",
+            "weight": 0.87
+        },
+        {
+            "code": "仁寶",
+            "weight": 1.77
+        },
+        {
+            "code": "華邦電",
+            "weight": 0.77
+        },
+        {
             "code": "聯強",
-            "weight": 1.14
+            "weight": 1.19
         },
         {
             "code": "佳世達",
@@ -316,63 +320,63 @@ const etfData = {
         },
         {
             "code": "宏碁",
-            "weight": 1.31
+            "weight": 1.3
         },
         {
             "code": "鴻準",
-            "weight": 0.86
+            "weight": 0.84
         },
         {
             "code": "英業達",
-            "weight": 1.54
+            "weight": 1.57
         },
         {
             "code": "致茂",
-            "weight": 2.09
+            "weight": 2.12
         },
         {
             "code": "金像電",
-            "weight": 1.31
+            "weight": 1.6
         },
         {
             "code": "大同",
-            "weight": 0.87
+            "weight": 0.6
         },
         {
             "code": "技嘉",
-            "weight": 2.21
+            "weight": 2.18
         },
         {
             "code": "微星",
-            "weight": 1.41
+            "weight": 1.39
         },
         {
             "code": "群光",
-            "weight": 1.15
+            "weight": 1.14
         },
         {
             "code": "漢唐",
-            "weight": 1.5
+            "weight": 1.8
         },
         {
             "code": "南亞科",
-            "weight": 0.89
+            "weight": 0.69
         },
         {
             "code": "友達",
-            "weight": 1.15
+            "weight": 1.1
         },
         {
             "code": "京元電子",
-            "weight": 1.73
+            "weight": 1.8
         },
         {
             "code": "可成",
-            "weight": 1.78
+            "weight": 1.76
         },
         {
             "code": "櫻花建",
-            "weight": 0.24
+            "weight": 0.25
         },
         {
             "code": "愛山林",
@@ -380,27 +384,27 @@ const etfData = {
         },
         {
             "code": "興富發",
-            "weight": 0.79
+            "weight": 0.77
         },
         {
             "code": "華航",
-            "weight": 0.89
+            "weight": 0.86
         },
         {
             "code": "長榮航",
-            "weight": 1.55
+            "weight": 1.49
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.84
+            "weight": 0.79
         },
         {
             "code": "星宇航空",
-            "weight": 0.42
+            "weight": 0.46
         },
         {
             "code": "彰銀",
-            "weight": 1.93
+            "weight": 2.0
         },
         {
             "code": "京城銀",
@@ -408,59 +412,55 @@ const etfData = {
         },
         {
             "code": "台中銀",
-            "weight": 1.07
+            "weight": 1.08
         },
         {
             "code": "臺企銀",
-            "weight": 1.48
+            "weight": 1.55
         },
         {
             "code": "遠東銀",
-            "weight": 0.45
-        },
-        {
-            "code": "新光金",
-            "weight": 2.51
+            "weight": 0.46
         },
         {
             "code": "潤泰全",
-            "weight": 0.49
+            "weight": 0.46
         },
         {
             "code": "神基",
-            "weight": 0.69
+            "weight": 0.67
         },
         {
             "code": "信邦",
-            "weight": 0.72
+            "weight": 0.75
         },
         {
             "code": "智原",
-            "weight": 0.61
+            "weight": 0.57
         },
         {
             "code": "文曄",
-            "weight": 1.21
+            "weight": 1.24
         },
         {
             "code": "欣興",
-            "weight": 2.16
+            "weight": 2.41
         },
         {
             "code": "健鼎",
-            "weight": 1.57
+            "weight": 1.71
         },
         {
             "code": "玉晶光",
-            "weight": 0.5
+            "weight": 0.51
         },
         {
             "code": "創意",
-            "weight": 1.44
+            "weight": 1.43
         },
         {
             "code": "群創",
-            "weight": 1.21
+            "weight": 1.2
         },
         {
             "code": "嘉澤",
@@ -468,71 +468,75 @@ const etfData = {
         },
         {
             "code": "健策",
-            "weight": 1.82
+            "weight": 1.68
         },
         {
             "code": "貿聯-KY",
-            "weight": 2.05
+            "weight": 2.07
         },
         {
             "code": "大聯大",
-            "weight": 1.54
+            "weight": 1.51
         },
         {
             "code": "神達",
-            "weight": 0.78
+            "weight": 0.87
         },
         {
             "code": "台灣精銳",
-            "weight": 0.17
+            "weight": 0.18
         },
         {
             "code": "材料-KY",
-            "weight": 0.59
+            "weight": 0.58
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.94
+            "weight": 1.07
         },
         {
             "code": "祥碩",
-            "weight": 1.06
+            "weight": 1.0
+        },
+        {
+            "code": "崇越",
+            "weight": 0.68
         },
         {
             "code": "遠雄",
-            "weight": 0.25
+            "weight": 0.24
         },
         {
             "code": "亞翔",
-            "weight": 0.61
+            "weight": 0.8
         },
         {
             "code": "瑞儀",
-            "weight": 0.9
+            "weight": 0.91
         },
         {
             "code": "力成",
-            "weight": 1.32
+            "weight": 1.37
         },
         {
             "code": "啟碁",
-            "weight": 0.62
+            "weight": 0.58
         },
         {
             "code": "旭隼",
-            "weight": 1.28
+            "weight": 1.19
         },
         {
             "code": "矽力*-KY",
-            "weight": 1.78
+            "weight": 1.63
         },
         {
             "code": "保瑞",
-            "weight": 0.61
+            "weight": 0.63
         },
         {
             "code": "達發",
-            "weight": 0.27
+            "weight": 0.28
         },
         {
             "code": "愛普*",
@@ -540,15 +544,15 @@ const etfData = {
         },
         {
             "code": "和潤企業",
-            "weight": 0.19
+            "weight": 0.17
         },
         {
             "code": "力積電",
-            "weight": 0.72
+            "weight": 0.7
         },
         {
             "code": "AES-KY",
-            "weight": 0.48
+            "weight": 0.42
         },
         {
             "code": "采鈺",
@@ -556,47 +560,47 @@ const etfData = {
         },
         {
             "code": "來億-KY",
-            "weight": 0.34
+            "weight": 0.23
         },
         {
             "code": "康霈*",
-            "weight": 1.73
+            "weight": 1.96
         },
         {
             "code": "南電",
-            "weight": 0.35
+            "weight": 0.55
         },
         {
             "code": "富邦媒",
-            "weight": 0.3
+            "weight": 0.32
         },
         {
             "code": "億豐",
-            "weight": 0.97
-        },
-        {
-            "code": "寶成",
             "weight": 0.98
         },
         {
+            "code": "寶成",
+            "weight": 0.92
+        },
+        {
             "code": "豐泰",
-            "weight": 0.85
+            "weight": 0.84
         },
         {
             "code": "中保科",
-            "weight": 0.39
+            "weight": 0.38
         },
         {
             "code": "巨大",
-            "weight": 0.48
+            "weight": 0.53
         },
         {
             "code": "裕融",
-            "weight": 0.36
+            "weight": 0.37
         },
         {
             "code": "潤泰新",
-            "weight": 0.68
+            "weight": 0.66
         }
     ],
     "富邦科技(0052)": [
@@ -606,7 +610,7 @@ const etfData = {
         },
         {
             "code": "聯電",
-            "weight": 1.32
+            "weight": 1.24
         },
         {
             "code": "華通",
@@ -614,7 +618,7 @@ const etfData = {
         },
         {
             "code": "鴻海",
-            "weight": 5.11
+            "weight": 5.19
         },
         {
             "code": "仁寶",
@@ -622,15 +626,15 @@ const etfData = {
         },
         {
             "code": "國巨",
-            "weight": 0.48
+            "weight": 0.5
         },
         {
             "code": "台積電",
-            "weight": 67.56
+            "weight": 68.1
         },
         {
             "code": "華邦電",
-            "weight": 0.16
+            "weight": 0.13
         },
         {
             "code": "聯強",
@@ -638,11 +642,11 @@ const etfData = {
         },
         {
             "code": "佳世達",
-            "weight": 0.1
+            "weight": 0.09
         },
         {
             "code": "宏碁",
-            "weight": 0.23
+            "weight": 0.22
         },
         {
             "code": "鴻準",
@@ -654,47 +658,47 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 1.24
+            "weight": 1.09
         },
         {
             "code": "金像電",
-            "weight": 0.24
+            "weight": 0.28
         },
         {
             "code": "技嘉",
-            "weight": 0.4
+            "weight": 0.38
         },
         {
             "code": "微星",
-            "weight": 0.25
+            "weight": 0.24
         },
         {
             "code": "瑞昱",
-            "weight": 0.7
+            "weight": 0.68
         },
         {
             "code": "廣達",
-            "weight": 2.0
+            "weight": 1.73
         },
         {
             "code": "台光電",
-            "weight": 0.61
+            "weight": 0.67
         },
         {
             "code": "群光",
-            "weight": 0.21
+            "weight": 0.2
         },
         {
             "code": "研華",
-            "weight": 0.4
+            "weight": 0.38
         },
         {
             "code": "南亞科",
-            "weight": 0.16
+            "weight": 0.12
         },
         {
             "code": "友達",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "京元電子",
@@ -702,11 +706,11 @@ const etfData = {
         },
         {
             "code": "聯發科",
-            "weight": 4.92
+            "weight": 5.12
         },
         {
             "code": "可成",
-            "weight": 0.32
+            "weight": 0.3
         },
         {
             "code": "神基",
@@ -714,19 +718,19 @@ const etfData = {
         },
         {
             "code": "大立光",
-            "weight": 0.59
+            "weight": 0.55
         },
         {
             "code": "奇鋐",
-            "weight": 0.63
+            "weight": 0.67
         },
         {
             "code": "聯詠",
-            "weight": 0.8
+            "weight": 0.69
         },
         {
             "code": "智原",
-            "weight": 0.11
+            "weight": 0.1
         },
         {
             "code": "文曄",
@@ -734,15 +738,15 @@ const etfData = {
         },
         {
             "code": "欣興",
-            "weight": 0.38
+            "weight": 0.42
         },
         {
             "code": "健鼎",
-            "weight": 0.28
+            "weight": 0.29
         },
         {
             "code": "緯創",
-            "weight": 0.9
+            "weight": 0.79
         },
         {
             "code": "玉晶光",
@@ -750,39 +754,39 @@ const etfData = {
         },
         {
             "code": "創意",
-            "weight": 0.26
+            "weight": 0.25
         },
         {
             "code": "群創",
-            "weight": 0.22
+            "weight": 0.21
         },
         {
             "code": "嘉澤",
-            "weight": 0.31
+            "weight": 0.3
         },
         {
             "code": "健策",
-            "weight": 0.32
+            "weight": 0.29
         },
         {
             "code": "世芯-KY",
-            "weight": 0.58
+            "weight": 0.75
         },
         {
             "code": "貿聯-KY",
-            "weight": 0.37
+            "weight": 0.35
         },
         {
             "code": "大聯大",
-            "weight": 0.27
+            "weight": 0.26
         },
         {
             "code": "神達",
-            "weight": 0.14
+            "weight": 0.15
         },
         {
             "code": "日月光投控",
-            "weight": 1.3
+            "weight": 1.23
         },
         {
             "code": "和碩",
@@ -790,11 +794,15 @@ const etfData = {
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.17
+            "weight": 0.18
         },
         {
             "code": "祥碩",
-            "weight": 0.18
+            "weight": 0.17
+        },
+        {
+            "code": "崇越",
+            "weight": 0.12
         },
         {
             "code": "瑞儀",
@@ -806,7 +814,7 @@ const etfData = {
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.32
+            "weight": 0.28
         },
         {
             "code": "達發",
@@ -818,11 +826,11 @@ const etfData = {
         },
         {
             "code": "緯穎",
-            "weight": 0.72
+            "weight": 0.63
         },
         {
             "code": "力積電",
-            "weight": 0.13
+            "weight": 0.12
         },
         {
             "code": "采鈺",
@@ -830,17 +838,17 @@ const etfData = {
         },
         {
             "code": "南電",
-            "weight": 0.06
+            "weight": 0.09
         }
     ],
     "元大電子(0053)": [
         {
             "code": "信錦",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "川湖",
-            "weight": 0.51
+            "weight": 0.58
         },
         {
             "code": "光寶科",
@@ -848,11 +856,11 @@ const etfData = {
         },
         {
             "code": "聯電",
-            "weight": 1.13
+            "weight": 1.06
         },
         {
             "code": "台達電",
-            "weight": 2.91
+            "weight": 3.34
         },
         {
             "code": "金寶",
@@ -864,7 +872,7 @@ const etfData = {
         },
         {
             "code": "鴻海",
-            "weight": 3.95
+            "weight": 4.0
         },
         {
             "code": "中環",
@@ -876,7 +884,7 @@ const etfData = {
         },
         {
             "code": "國巨",
-            "weight": 0.3
+            "weight": 0.31
         },
         {
             "code": "廣宇",
@@ -884,11 +892,11 @@ const etfData = {
         },
         {
             "code": "華泰",
-            "weight": 0.1
+            "weight": 0.08
         },
         {
             "code": "台積電",
-            "weight": 52.62
+            "weight": 52.93
         },
         {
             "code": "精英",
@@ -896,7 +904,7 @@ const etfData = {
         },
         {
             "code": "旺宏",
-            "weight": 0.07
+            "weight": 0.06
         },
         {
             "code": "光罩",
@@ -908,15 +916,15 @@ const etfData = {
         },
         {
             "code": "華邦電",
-            "weight": 0.17
+            "weight": 0.14
         },
         {
             "code": "智邦",
-            "weight": 0.88
+            "weight": 0.89
         },
         {
             "code": "聯強",
-            "weight": 0.22
+            "weight": 0.23
         },
         {
             "code": "順德",
@@ -928,15 +936,15 @@ const etfData = {
         },
         {
             "code": "宏碁",
-            "weight": 0.19
-        },
-        {
-            "code": "鴻準",
             "weight": 0.18
         },
         {
+            "code": "鴻準",
+            "weight": 0.17
+        },
+        {
             "code": "敬鵬",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "英業達",
@@ -944,11 +952,11 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 0.97
+            "weight": 0.85
         },
         {
             "code": "致茂",
-            "weight": 0.33
+            "weight": 0.32
         },
         {
             "code": "藍天",
@@ -960,19 +968,19 @@ const etfData = {
         },
         {
             "code": "燿華",
-            "weight": 0.0
+            "weight": 0.01
         },
         {
             "code": "金像電",
-            "weight": 0.29
+            "weight": 0.33
         },
         {
             "code": "菱生",
-            "weight": 0.03
+            "weight": 0.02
         },
         {
             "code": "震旦行",
-            "weight": 0.03
+            "weight": 0.02
         },
         {
             "code": "凱美",
@@ -980,27 +988,27 @@ const etfData = {
         },
         {
             "code": "技嘉",
-            "weight": 0.39
+            "weight": 0.37
         },
         {
             "code": "微星",
-            "weight": 0.23
+            "weight": 0.22
         },
         {
             "code": "瑞昱",
-            "weight": 0.49
+            "weight": 0.47
         },
         {
             "code": "廣達",
-            "weight": 2.15
+            "weight": 1.86
         },
         {
             "code": "台光電",
-            "weight": 0.54
+            "weight": 0.59
         },
         {
             "code": "群光",
-            "weight": 0.18
+            "weight": 0.17
         },
         {
             "code": "精元",
@@ -1020,7 +1028,7 @@ const etfData = {
         },
         {
             "code": "研華",
-            "weight": 0.51
+            "weight": 0.49
         },
         {
             "code": "友通",
@@ -1036,7 +1044,7 @@ const etfData = {
         },
         {
             "code": "漢唐",
-            "weight": 0.23
+            "weight": 0.27
         },
         {
             "code": "輔信",
@@ -1044,15 +1052,15 @@ const etfData = {
         },
         {
             "code": "南亞科",
-            "weight": 0.31
+            "weight": 0.23
         },
         {
             "code": "友達",
-            "weight": 0.17
+            "weight": 0.16
         },
         {
             "code": "中華電",
-            "weight": 2.03
+            "weight": 1.79
         },
         {
             "code": "仲琦",
@@ -1092,11 +1100,11 @@ const etfData = {
         },
         {
             "code": "創見",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "聯發科",
-            "weight": 4.59
+            "weight": 4.76
         },
         {
             "code": "全新",
@@ -1112,7 +1120,7 @@ const etfData = {
         },
         {
             "code": "敦吉",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "盟立",
@@ -1124,11 +1132,11 @@ const etfData = {
         },
         {
             "code": "立隆電",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "可成",
-            "weight": 0.3
+            "weight": 0.28
         },
         {
             "code": "鉅祥",
@@ -1136,7 +1144,7 @@ const etfData = {
         },
         {
             "code": "大毅",
-            "weight": 0.03
+            "weight": 0.02
         },
         {
             "code": "敦陽科",
@@ -1144,11 +1152,11 @@ const etfData = {
         },
         {
             "code": "強茂",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "瑞軒",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "華新科",
@@ -1156,7 +1164,7 @@ const etfData = {
         },
         {
             "code": "宏達電",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "健和興",
@@ -1164,7 +1172,7 @@ const etfData = {
         },
         {
             "code": "神基",
-            "weight": 0.16
+            "weight": 0.15
         },
         {
             "code": "晶豪科",
@@ -1172,7 +1180,7 @@ const etfData = {
         },
         {
             "code": "大立光",
-            "weight": 0.56
+            "weight": 0.52
         },
         {
             "code": "華立",
@@ -1180,11 +1188,11 @@ const etfData = {
         },
         {
             "code": "聯陽",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "全漢",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "嘉晶",
@@ -1192,15 +1200,15 @@ const etfData = {
         },
         {
             "code": "奇鋐",
-            "weight": 0.54
+            "weight": 0.58
         },
         {
             "code": "亞光",
-            "weight": 0.1
+            "weight": 0.09
         },
         {
             "code": "威強電",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "信邦",
@@ -1216,11 +1224,11 @@ const etfData = {
         },
         {
             "code": "聯詠",
-            "weight": 0.61
+            "weight": 0.53
         },
         {
             "code": "智原",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "文曄",
@@ -1228,7 +1236,7 @@ const etfData = {
         },
         {
             "code": "欣興",
-            "weight": 0.32
+            "weight": 0.34
         },
         {
             "code": "晶技",
@@ -1236,15 +1244,15 @@ const etfData = {
         },
         {
             "code": "健鼎",
-            "weight": 0.27
+            "weight": 0.29
         },
         {
             "code": "台灣大",
-            "weight": 0.77
+            "weight": 0.65
         },
         {
             "code": "益登",
-            "weight": 0.01
+            "weight": 0.0
         },
         {
             "code": "精金",
@@ -1260,15 +1268,15 @@ const etfData = {
         },
         {
             "code": "日電貿",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "景碩",
-            "weight": 0.08
+            "weight": 0.09
         },
         {
             "code": "緯創",
-            "weight": 0.7
+            "weight": 0.61
         },
         {
             "code": "新日興",
@@ -1276,7 +1284,7 @@ const etfData = {
         },
         {
             "code": "明泰",
-            "weight": 0.01
+            "weight": 0.0
         },
         {
             "code": "玉晶光",
@@ -1288,11 +1296,11 @@ const etfData = {
         },
         {
             "code": "創意",
-            "weight": 0.45
+            "weight": 0.42
         },
         {
             "code": "聯鈞",
-            "weight": 0.21
+            "weight": 0.19
         },
         {
             "code": "晶睿",
@@ -1300,7 +1308,7 @@ const etfData = {
         },
         {
             "code": "群創",
-            "weight": 0.16
+            "weight": 0.15
         },
         {
             "code": "揚明光",
@@ -1316,7 +1324,7 @@ const etfData = {
         },
         {
             "code": "嘉澤",
-            "weight": 0.36
+            "weight": 0.35
         },
         {
             "code": "敦泰",
@@ -1324,7 +1332,7 @@ const etfData = {
         },
         {
             "code": "牧德",
-            "weight": 0.11
+            "weight": 0.09
         },
         {
             "code": "聯合再生",
@@ -1340,19 +1348,19 @@ const etfData = {
         },
         {
             "code": "碩天",
-            "weight": 0.16
+            "weight": 0.14
         },
         {
             "code": "健策",
-            "weight": 0.28
+            "weight": 0.25
         },
         {
             "code": "貿聯-KY",
-            "weight": 0.33
+            "weight": 0.32
         },
         {
             "code": "大聯大",
-            "weight": 0.22
+            "weight": 0.21
         },
         {
             "code": "合勤控",
@@ -1360,11 +1368,11 @@ const etfData = {
         },
         {
             "code": "神達",
-            "weight": 0.16
+            "weight": 0.17
         },
         {
             "code": "日月光投控",
-            "weight": 1.3
+            "weight": 1.23
         },
         {
             "code": "富采",
@@ -1372,11 +1380,11 @@ const etfData = {
         },
         {
             "code": "遠傳",
-            "weight": 0.47
+            "weight": 0.4
         },
         {
             "code": "正文",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "致伸",
@@ -1384,7 +1392,7 @@ const etfData = {
         },
         {
             "code": "新唐",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "和碩",
@@ -1392,15 +1400,15 @@ const etfData = {
         },
         {
             "code": "嘉彰",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.18
+            "weight": 0.2
         },
         {
             "code": "天鈺",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "立積",
@@ -1412,11 +1420,11 @@ const etfData = {
         },
         {
             "code": "達興材料",
-            "weight": 0.12
+            "weight": 0.1
         },
         {
             "code": "祥碩",
-            "weight": 0.18
+            "weight": 0.17
         },
         {
             "code": "界霖",
@@ -1428,7 +1436,7 @@ const etfData = {
         },
         {
             "code": "崇越",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "瀚宇博",
@@ -1472,7 +1480,7 @@ const etfData = {
         },
         {
             "code": "精成科",
-            "weight": 0.13
+            "weight": 0.17
         },
         {
             "code": "帆宣",
@@ -1480,7 +1488,7 @@ const etfData = {
         },
         {
             "code": "盛群",
-            "weight": 0.03
+            "weight": 0.02
         },
         {
             "code": "飛捷",
@@ -1496,7 +1504,7 @@ const etfData = {
         },
         {
             "code": "尼得科超眾",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "力成",
@@ -1504,15 +1512,15 @@ const etfData = {
         },
         {
             "code": "矽格",
-            "weight": 0.1
+            "weight": 0.09
         },
         {
             "code": "台郡",
-            "weight": 0.04
+            "weight": 0.05
         },
         {
             "code": "同欣電",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "宏正",
@@ -1520,7 +1528,7 @@ const etfData = {
         },
         {
             "code": "台表科",
-            "weight": 0.07
+            "weight": 0.06
         },
         {
             "code": "全國電",
@@ -1532,11 +1540,11 @@ const etfData = {
         },
         {
             "code": "啟碁",
-            "weight": 0.14
+            "weight": 0.13
         },
         {
             "code": "旭隼",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "群電",
@@ -1548,11 +1556,11 @@ const etfData = {
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.23
+            "weight": 0.2
         },
         {
             "code": "瑞祺電通",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "GIS-KY",
@@ -1568,11 +1576,11 @@ const etfData = {
         },
         {
             "code": "研揚",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "緯穎",
-            "weight": 1.02
+            "weight": 0.89
         },
         {
             "code": "惠特",
@@ -1596,7 +1604,7 @@ const etfData = {
         },
         {
             "code": "AES-KY",
-            "weight": 0.21
+            "weight": 0.18
         },
         {
             "code": "矽創",
@@ -1604,7 +1612,7 @@ const etfData = {
         },
         {
             "code": "尖點",
-            "weight": 0.04
+            "weight": 0.05
         },
         {
             "code": "昇陽半導體",
@@ -1616,7 +1624,7 @@ const etfData = {
         },
         {
             "code": "南電",
-            "weight": 0.13
+            "weight": 0.2
         },
         {
             "code": "長華*",
@@ -1624,11 +1632,11 @@ const etfData = {
         },
         {
             "code": "致新",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "華東",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "至上",
@@ -1636,11 +1644,11 @@ const etfData = {
         },
         {
             "code": "振樺電",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "福懋科",
-            "weight": 0.01
+            "weight": 0.0
         },
         {
             "code": "南茂",
@@ -1662,339 +1670,315 @@ const etfData = {
     "元大MSCI金融(0055)": [
         {
             "code": "彰銀",
-            "weight": 2.05
+            "weight": 2.11
         },
         {
             "code": "臺企銀",
-            "weight": 1.85
+            "weight": 1.92
         },
         {
             "code": "華南金",
-            "weight": 4.23
+            "weight": 4.33
         },
         {
             "code": "富邦金",
-            "weight": 12.24
+            "weight": 11.47
         },
         {
             "code": "國泰金",
-            "weight": 11.04
+            "weight": 10.01
         },
         {
             "code": "凱基金",
-            "weight": 4.49
+            "weight": 4.11
         },
         {
             "code": "玉山金",
-            "weight": 8.17
+            "weight": 8.03
         },
         {
             "code": "元大金",
-            "weight": 6.18
+            "weight": 5.62
         },
         {
             "code": "兆豐金",
-            "weight": 8.54
+            "weight": 8.61
         },
         {
             "code": "台新金",
-            "weight": 3.23
-        },
-        {
-            "code": "新光金",
-            "weight": 3.01
+            "weight": 5.86
         },
         {
             "code": "永豐金",
-            "weight": 4.61
+            "weight": 4.65
         },
         {
             "code": "中信金",
-            "weight": 12.85
+            "weight": 12.02
         },
         {
             "code": "第一金",
-            "weight": 5.64
+            "weight": 5.68
         },
         {
             "code": "中租-KY",
-            "weight": 3.19
+            "weight": 3.23
         },
         {
             "code": "上海商銀",
-            "weight": 3.21
+            "weight": 2.92
         },
         {
             "code": "合庫金",
-            "weight": 4.65
+            "weight": 4.62
         }
     ],
     "元大高股息(0056)": [
         {
             "code": "亞泥",
-            "weight": 1.77
+            "weight": 1.61
         },
         {
             "code": "統一",
-            "weight": 2.07
-        },
-        {
-            "code": "南亞",
-            "weight": 0.39
+            "weight": 3.37
         },
         {
             "code": "東陽",
-            "weight": 0.66
+            "weight": 0.7
         },
         {
             "code": "聚陽",
-            "weight": 0.65
+            "weight": 0.7
         },
         {
             "code": "東元",
-            "weight": 1.31
+            "weight": 1.22
         },
         {
             "code": "東和鋼鐵",
-            "weight": 0.52
-        },
-        {
-            "code": "大成鋼",
-            "weight": 0.82
-        },
-        {
-            "code": "正新",
-            "weight": 1.56
-        },
-        {
-            "code": "光寶科",
-            "weight": 2.68
-        },
-        {
-            "code": "聯電",
-            "weight": 3.68
-        },
-        {
-            "code": "鴻海",
-            "weight": 2.72
-        },
-        {
-            "code": "仁寶",
-            "weight": 1.38
-        },
-        {
-            "code": "聯強",
-            "weight": 1.21
-        },
-        {
-            "code": "宏碁",
-            "weight": 1.06
-        },
-        {
-            "code": "英業達",
-            "weight": 1.62
-        },
-        {
-            "code": "華碩",
-            "weight": 4.31
-        },
-        {
-            "code": "技嘉",
-            "weight": 2.1
-        },
-        {
-            "code": "微星",
-            "weight": 1.35
-        },
-        {
-            "code": "瑞昱",
-            "weight": 3.19
-        },
-        {
-            "code": "廣達",
-            "weight": 3.96
-        },
-        {
-            "code": "台光電",
-            "weight": 1.15
-        },
-        {
-            "code": "群光",
-            "weight": 1.08
-        },
-        {
-            "code": "京元電子",
-            "weight": 1.43
-        },
-        {
-            "code": "聯發科",
-            "weight": 3.22
-        },
-        {
-            "code": "可成",
-            "weight": 1.6
-        },
-        {
-            "code": "興富發",
-            "weight": 0.02
-        },
-        {
-            "code": "長榮",
-            "weight": 3.65
-        },
-        {
-            "code": "陽明",
-            "weight": 0.66
-        },
-        {
-            "code": "長榮航",
-            "weight": 2.47
-        },
-        {
-            "code": "華南金",
-            "weight": 2.97
-        },
-        {
-            "code": "凱基金",
-            "weight": 1.31
-        },
-        {
-            "code": "元大金",
-            "weight": 2.96
-        },
-        {
-            "code": "兆豐金",
-            "weight": 2.81
-        },
-        {
-            "code": "台新金",
-            "weight": 0.42
-        },
-        {
-            "code": "永豐金",
-            "weight": 2.32
-        },
-        {
-            "code": "中信金",
-            "weight": 3.95
-        },
-        {
-            "code": "神基",
-            "weight": 0.91
-        },
-        {
-            "code": "信邦",
-            "weight": 0.42
-        },
-        {
-            "code": "聯詠",
-            "weight": 3.63
-        },
-        {
-            "code": "文曄",
-            "weight": 1.67
-        },
-        {
-            "code": "健鼎",
-            "weight": 1.38
-        },
-        {
-            "code": "緯創",
-            "weight": 2.95
-        },
-        {
-            "code": "大聯大",
-            "weight": 1.24
-        },
-        {
-            "code": "日月光投控",
-            "weight": 3.07
-        },
-        {
-            "code": "材料-KY",
-            "weight": 0.65
-        },
-        {
-            "code": "和碩",
-            "weight": 2.18
-        },
-        {
-            "code": "臻鼎-KY",
-            "weight": 0.99
-        },
-        {
-            "code": "中租-KY",
-            "weight": 0.62
-        },
-        {
-            "code": "上海商銀",
-            "weight": 2.56
-        },
-        {
-            "code": "瑞儀",
-            "weight": 0.64
-        },
-        {
-            "code": "力成",
-            "weight": 1.04
-        },
-        {
-            "code": "啟碁",
-            "weight": 0.67
-        },
-        {
-            "code": "寶成",
             "weight": 0.54
         },
         {
+            "code": "大成鋼",
+            "weight": 0.85
+        },
+        {
+            "code": "正新",
+            "weight": 1.66
+        },
+        {
+            "code": "光寶科",
+            "weight": 3.02
+        },
+        {
+            "code": "聯電",
+            "weight": 3.42
+        },
+        {
+            "code": "鴻海",
+            "weight": 3.37
+        },
+        {
+            "code": "仁寶",
+            "weight": 1.4
+        },
+        {
+            "code": "聯強",
+            "weight": 1.24
+        },
+        {
+            "code": "宏碁",
+            "weight": 1.04
+        },
+        {
+            "code": "英業達",
+            "weight": 1.64
+        },
+        {
+            "code": "華碩",
+            "weight": 4.45
+        },
+        {
+            "code": "技嘉",
+            "weight": 2.14
+        },
+        {
+            "code": "微星",
+            "weight": 1.31
+        },
+        {
+            "code": "瑞昱",
+            "weight": 3.28
+        },
+        {
+            "code": "廣達",
+            "weight": 4.05
+        },
+        {
+            "code": "群光",
+            "weight": 1.05
+        },
+        {
+            "code": "京元電子",
+            "weight": 1.52
+        },
+        {
+            "code": "聯發科",
+            "weight": 3.82
+        },
+        {
+            "code": "可成",
+            "weight": 1.39
+        },
+        {
+            "code": "長榮",
+            "weight": 3.09
+        },
+        {
+            "code": "長榮航",
+            "weight": 2.37
+        },
+        {
+            "code": "華南金",
+            "weight": 3.17
+        },
+        {
+            "code": "凱基金",
+            "weight": 1.62
+        },
+        {
+            "code": "元大金",
+            "weight": 2.89
+        },
+        {
+            "code": "兆豐金",
+            "weight": 3.01
+        },
+        {
+            "code": "台新金",
+            "weight": 0.51
+        },
+        {
+            "code": "永豐金",
+            "weight": 2.51
+        },
+        {
+            "code": "中信金",
+            "weight": 3.98
+        },
+        {
+            "code": "神基",
+            "weight": 0.89
+        },
+        {
+            "code": "信邦",
+            "weight": 0.62
+        },
+        {
+            "code": "聯詠",
+            "weight": 3.26
+        },
+        {
+            "code": "文曄",
+            "weight": 1.69
+        },
+        {
+            "code": "健鼎",
+            "weight": 1.47
+        },
+        {
+            "code": "緯創",
+            "weight": 3.13
+        },
+        {
+            "code": "大聯大",
+            "weight": 1.21
+        },
+        {
+            "code": "日月光投控",
+            "weight": 3.34
+        },
+        {
+            "code": "和碩",
+            "weight": 2.32
+        },
+        {
+            "code": "臻鼎-KY",
+            "weight": 1.1
+        },
+        {
+            "code": "中租-KY",
+            "weight": 0.65
+        },
+        {
+            "code": "上海商銀",
+            "weight": 2.31
+        },
+        {
+            "code": "瑞儀",
+            "weight": 0.65
+        },
+        {
+            "code": "力成",
+            "weight": 1.05
+        },
+        {
+            "code": "啟碁",
+            "weight": 0.62
+        },
+        {
+            "code": "寶成",
+            "weight": 0.65
+        },
+        {
             "code": "裕融",
-            "weight": 0.35
+            "weight": 0.36
         }
     ],
     "富邦摩台(0057)": [
         {
             "code": "台泥",
-            "weight": 0.35
+            "weight": 0.31
         },
         {
             "code": "亞泥",
-            "weight": 0.2
+            "weight": 0.18
         },
         {
             "code": "統一",
-            "weight": 0.77
+            "weight": 0.78
         },
         {
             "code": "台塑",
-            "weight": 0.29
+            "weight": 0.31
         },
         {
             "code": "南亞",
-            "weight": 0.29
+            "weight": 0.33
         },
         {
             "code": "台化",
-            "weight": 0.16
+            "weight": 0.18
         },
         {
             "code": "遠東新",
-            "weight": 0.19
+            "weight": 0.16
         },
         {
             "code": "儒鴻",
-            "weight": 0.16
+            "weight": 0.14
         },
         {
             "code": "華城",
-            "weight": 0.16
+            "weight": 0.19
         },
         {
             "code": "亞德客-KY",
-            "weight": 0.24
+            "weight": 0.23
         },
         {
             "code": "中鋼",
-            "weight": 0.45
+            "weight": 0.44
         },
         {
             "code": "正新",
@@ -2002,7 +1986,7 @@ const etfData = {
         },
         {
             "code": "和泰車",
-            "weight": 0.35
+            "weight": 0.33
         },
         {
             "code": "光寶科",
@@ -2010,15 +1994,15 @@ const etfData = {
         },
         {
             "code": "聯電",
-            "weight": 1.0
+            "weight": 0.94
         },
         {
             "code": "台達電",
-            "weight": 1.67
+            "weight": 1.92
         },
         {
             "code": "鴻海",
-            "weight": 4.09
+            "weight": 4.16
         },
         {
             "code": "仁寶",
@@ -2026,11 +2010,11 @@ const etfData = {
         },
         {
             "code": "國巨",
-            "weight": 0.4
+            "weight": 0.42
         },
         {
             "code": "台積電",
-            "weight": 53.37
+            "weight": 53.87
         },
         {
             "code": "智邦",
@@ -2050,71 +2034,71 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 1.0
+            "weight": 0.88
         },
         {
             "code": "技嘉",
-            "weight": 0.31
+            "weight": 0.29
         },
         {
             "code": "微星",
-            "weight": 0.21
+            "weight": 0.2
         },
         {
             "code": "瑞昱",
-            "weight": 0.55
+            "weight": 0.53
         },
         {
             "code": "廣達",
-            "weight": 1.6
+            "weight": 1.38
         },
         {
             "code": "台光電",
-            "weight": 0.51
+            "weight": 0.56
         },
         {
             "code": "研華",
-            "weight": 0.32
+            "weight": 0.31
         },
         {
             "code": "友達",
-            "weight": 0.16
+            "weight": 0.15
         },
         {
             "code": "中華電",
-            "weight": 1.05
+            "weight": 0.93
         },
         {
             "code": "聯發科",
-            "weight": 3.98
+            "weight": 4.15
         },
         {
             "code": "可成",
-            "weight": 0.26
+            "weight": 0.25
         },
         {
             "code": "長榮",
-            "weight": 0.45
+            "weight": 0.42
         },
         {
             "code": "陽明",
-            "weight": 0.26
+            "weight": 0.21
         },
         {
             "code": "華航",
-            "weight": 0.13
+            "weight": 0.12
         },
         {
             "code": "萬海",
-            "weight": 0.14
+            "weight": 0.12
         },
         {
             "code": "長榮航",
-            "weight": 0.22
+            "weight": 0.2
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.11
+            "weight": 0.1
         },
         {
             "code": "彰銀",
@@ -2122,7 +2106,7 @@ const etfData = {
         },
         {
             "code": "臺企銀",
-            "weight": 0.21
+            "weight": 0.22
         },
         {
             "code": "華南金",
@@ -2130,83 +2114,79 @@ const etfData = {
         },
         {
             "code": "富邦金",
-            "weight": 1.42
+            "weight": 1.3
         },
         {
             "code": "國泰金",
-            "weight": 1.28
+            "weight": 1.14
         },
         {
             "code": "凱基金",
-            "weight": 0.52
+            "weight": 0.47
         },
         {
             "code": "玉山金",
-            "weight": 0.94
+            "weight": 0.9
         },
         {
             "code": "元大金",
-            "weight": 0.71
+            "weight": 0.63
         },
         {
             "code": "兆豐金",
-            "weight": 0.98
+            "weight": 0.97
         },
         {
             "code": "台新金",
-            "weight": 0.37
-        },
-        {
-            "code": "新光金",
-            "weight": 0.35
+            "weight": 0.66
         },
         {
             "code": "永豐金",
-            "weight": 0.53
+            "weight": 0.52
         },
         {
             "code": "中信金",
-            "weight": 1.48
+            "weight": 1.35
         },
         {
             "code": "第一金",
-            "weight": 0.65
+            "weight": 0.64
         },
         {
             "code": "統一超",
-            "weight": 0.3
+            "weight": 0.29
         },
         {
             "code": "大立光",
-            "weight": 0.48
-        },
-        {
-            "code": "奇鋐",
-            "weight": 0.5
-        },
-        {
-            "code": "聯詠",
-            "weight": 0.62
-        },
-        {
-            "code": "欣興",
-            "weight": 0.3
-        },
-        {
-            "code": "台灣大",
-            "weight": 0.41
-        },
-        {
-            "code": "緯創",
-            "weight": 0.7
-        },
-        {
-            "code": "鈊象",
             "weight": 0.45
         },
         {
+            "code": "奇鋐",
+            "weight": 0.53
+        },
+        {
+            "code": "聯詠",
+            "weight": 0.54
+        },
+        {
+            "code": "欣興",
+            "weight": 0.32
+        },
+        {
+            "code": "台灣大",
+            "weight": 0.35
+        },
+        {
+            "code": "緯創",
+            "weight": 0.61
+        },
+        {
+            "code": "鈊象",
+            "weight": 0.39
+        },
+        {
             "code": "創意",
-            "weight": 0.21
+            "weight": 0.2
         },
         {
             "code": "群創",
@@ -2214,7 +2194,7 @@ const etfData = {
         },
         {
             "code": "力旺",
-            "weight": 0.31
+            "weight": 0.25
         },
         {
             "code": "嘉澤",
@@ -2222,35 +2202,35 @@ const etfData = {
         },
         {
             "code": "健策",
-            "weight": 0.26
+            "weight": 0.23
         },
         {
             "code": "世芯-KY",
-            "weight": 0.45
+            "weight": 0.57
         },
         {
             "code": "大聯大",
-            "weight": 0.22
+            "weight": 0.21
         },
         {
             "code": "日月光投控",
-            "weight": 1.02
+            "weight": 0.97
         },
         {
             "code": "遠傳",
-            "weight": 0.32
+            "weight": 0.28
         },
         {
             "code": "和碩",
-            "weight": 0.3
+            "weight": 0.31
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.14
+            "weight": 0.15
         },
         {
             "code": "世界",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "中租-KY",
@@ -2258,35 +2238,35 @@ const etfData = {
         },
         {
             "code": "上海商銀",
-            "weight": 0.37
+            "weight": 0.33
         },
         {
             "code": "合庫金",
-            "weight": 0.54
+            "weight": 0.52
         },
         {
             "code": "旭隼",
-            "weight": 0.18
-        },
-        {
-            "code": "矽力*-KY",
-            "weight": 0.25
-        },
-        {
-            "code": "藥華藥",
-            "weight": 0.28
-        },
-        {
-            "code": "環球晶",
             "weight": 0.16
         },
         {
+            "code": "矽力*-KY",
+            "weight": 0.22
+        },
+        {
+            "code": "藥華藥",
+            "weight": 0.25
+        },
+        {
+            "code": "環球晶",
+            "weight": 0.17
+        },
+        {
             "code": "緯穎",
-            "weight": 0.61
+            "weight": 0.54
         },
         {
             "code": "元太",
-            "weight": 0.38
+            "weight": 0.35
         },
         {
             "code": "億豐",
@@ -2294,109 +2274,109 @@ const etfData = {
         },
         {
             "code": "寶成",
-            "weight": 0.13
-        },
-        {
-            "code": "豐泰",
             "weight": 0.12
         },
         {
+            "code": "豐泰",
+            "weight": 0.11
+        },
+        {
             "code": "潤泰新",
-            "weight": 0.1
+            "weight": 0.09
         }
     ],
     "兆豐藍籌30(00690)": [
         {
             "code": "亞泥",
-            "weight": 0.8
+            "weight": 0.72
         },
         {
             "code": "儒鴻",
-            "weight": 0.73
+            "weight": 0.67
         },
         {
             "code": "亞德客-KY",
-            "weight": 0.87
+            "weight": 0.83
         },
         {
             "code": "川湖",
-            "weight": 1.1
+            "weight": 1.25
         },
         {
             "code": "光寶科",
-            "weight": 1.73
+            "weight": 1.76
         },
         {
             "code": "聯電",
-            "weight": 3.79
+            "weight": 3.55
         },
         {
             "code": "台達電",
-            "weight": 5.46
+            "weight": 6.29
         },
         {
             "code": "國巨",
-            "weight": 1.69
+            "weight": 1.77
         },
         {
             "code": "台積電",
-            "weight": 31.93
+            "weight": 32.26
         },
         {
             "code": "智邦",
-            "weight": 3.03
+            "weight": 3.05
         },
         {
             "code": "瑞昱",
-            "weight": 2.02
+            "weight": 1.95
         },
         {
             "code": "台光電",
-            "weight": 2.0
+            "weight": 2.19
         },
         {
             "code": "研華",
-            "weight": 1.22
+            "weight": 1.17
         },
         {
             "code": "中華電",
-            "weight": 4.23
+            "weight": 3.76
         },
         {
             "code": "京元電子",
-            "weight": 0.86
+            "weight": 0.87
         },
         {
             "code": "聯發科",
-            "weight": 11.94
+            "weight": 12.45
         },
         {
             "code": "可成",
-            "weight": 0.98
+            "weight": 0.94
         },
         {
             "code": "長榮",
-            "weight": 3.0
+            "weight": 2.78
         },
         {
             "code": "富邦金",
-            "weight": 5.16
+            "weight": 4.75
         },
         {
             "code": "大立光",
-            "weight": 1.89
+            "weight": 1.79
         },
         {
             "code": "奇鋐",
-            "weight": 1.82
+            "weight": 1.96
         },
         {
             "code": "聯詠",
-            "weight": 2.32
+            "weight": 2.02
         },
         {
             "code": "創意",
-            "weight": 0.79
+            "weight": 0.75
         },
         {
             "code": "嘉澤",
@@ -2404,61 +2384,53 @@ const etfData = {
         },
         {
             "code": "健策",
-            "weight": 1.15
+            "weight": 1.05
         },
         {
             "code": "世芯-KY",
-            "weight": 1.62
+            "weight": 2.06
         },
         {
             "code": "遠傳",
-            "weight": 1.62
+            "weight": 1.4
         },
         {
             "code": "祥碩",
-            "weight": 0.69
+            "weight": 0.65
         },
         {
             "code": "中租-KY",
-            "weight": 1.38
+            "weight": 1.37
         },
         {
             "code": "上海商銀",
-            "weight": 1.3
+            "weight": 1.16
         }
     ],
     "富邦公司治理(00692)": [
         {
             "code": "台泥",
-            "weight": 0.36
-        },
-        {
-            "code": "亞泥",
-            "weight": 0.28
-        },
-        {
-            "code": "台塑",
-            "weight": 0.42
-        },
-        {
-            "code": "台化",
-            "weight": 0.25
-        },
-        {
-            "code": "遠東新",
             "weight": 0.33
         },
         {
-            "code": "聚陽",
-            "weight": 0.11
+            "code": "亞泥",
+            "weight": 0.26
         },
         {
-            "code": "東元",
+            "code": "遠東新",
+            "weight": 0.28
+        },
+        {
+            "code": "儒鴻",
             "weight": 0.19
         },
         {
-            "code": "華新",
-            "weight": 0.18
+            "code": "聚陽",
+            "weight": 0.12
+        },
+        {
+            "code": "亞德客-KY",
+            "weight": 0.31
         },
         {
             "code": "大亞",
@@ -2466,11 +2438,15 @@ const etfData = {
         },
         {
             "code": "葡萄王",
-            "weight": 0.03
+            "weight": 0.04
         },
         {
             "code": "東和鋼鐵",
             "weight": 0.09
+        },
+        {
+            "code": "台橡",
+            "weight": 0.03
         },
         {
             "code": "裕隆",
@@ -2478,39 +2454,43 @@ const etfData = {
         },
         {
             "code": "中華",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "和泰車",
-            "weight": 0.59
+            "weight": 0.56
         },
         {
             "code": "長榮鋼",
-            "weight": 0.07
+            "weight": 0.06
         },
         {
             "code": "光寶科",
-            "weight": 0.48
+            "weight": 0.49
         },
         {
             "code": "聯電",
-            "weight": 1.03
+            "weight": 0.98
         },
         {
             "code": "台達電",
-            "weight": 2.06
+            "weight": 2.41
         },
         {
             "code": "鴻海",
-            "weight": 4.22
+            "weight": 4.35
         },
         {
             "code": "台積電",
-            "weight": 52.15
+            "weight": 53.65
         },
         {
-            "code": "佳世達",
-            "weight": 0.09
+            "code": "聯強",
+            "weight": 0.21
+        },
+        {
+            "code": "宏碁",
+            "weight": 0.17
         },
         {
             "code": "英業達",
@@ -2518,7 +2498,7 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 0.98
+            "weight": 0.87
         },
         {
             "code": "藍天",
@@ -2526,23 +2506,31 @@ const etfData = {
         },
         {
             "code": "大同",
-            "weight": 0.17
+            "weight": 0.14
+        },
+        {
+            "code": "瑞昱",
+            "weight": 0.53
         },
         {
             "code": "廣達",
-            "weight": 2.12
+            "weight": 1.86
+        },
+        {
+            "code": "台光電",
+            "weight": 0.62
         },
         {
             "code": "群光",
-            "weight": 0.19
+            "weight": 0.18
         },
         {
             "code": "研華",
-            "weight": 0.54
+            "weight": 0.53
         },
         {
             "code": "中華電",
-            "weight": 1.99
+            "weight": 1.8
         },
         {
             "code": "美律",
@@ -2550,39 +2538,39 @@ const etfData = {
         },
         {
             "code": "聯發科",
-            "weight": 3.89
+            "weight": 4.11
+        },
+        {
+            "code": "志聖",
+            "weight": 0.04
         },
         {
             "code": "國產",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "中工",
             "weight": 0.03
         },
         {
-            "code": "長榮",
-            "weight": 0.84
+            "code": "裕民",
+            "weight": 0.09
         },
         {
-            "code": "裕民",
-            "weight": 0.08
+            "code": "陽明",
+            "weight": 0.4
         },
         {
             "code": "長榮航",
-            "weight": 0.4
+            "weight": 0.38
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.14
-        },
-        {
-            "code": "漢翔",
-            "weight": 0.08
+            "weight": 0.13
         },
         {
             "code": "彰銀",
-            "weight": 0.4
+            "weight": 0.41
         },
         {
             "code": "京城銀",
@@ -2590,7 +2578,7 @@ const etfData = {
         },
         {
             "code": "臺企銀",
-            "weight": 0.26
+            "weight": 0.27
         },
         {
             "code": "聯邦銀",
@@ -2606,23 +2594,27 @@ const etfData = {
         },
         {
             "code": "華南金",
-            "weight": 0.7
+            "weight": 0.71
         },
         {
             "code": "富邦金",
-            "weight": 2.2
+            "weight": 2.05
         },
         {
             "code": "國泰金",
-            "weight": 1.83
+            "weight": 1.65
+        },
+        {
+            "code": "凱基金",
+            "weight": 0.46
         },
         {
             "code": "玉山金",
-            "weight": 0.97
+            "weight": 0.94
         },
         {
             "code": "元大金",
-            "weight": 0.83
+            "weight": 0.74
         },
         {
             "code": "兆豐金",
@@ -2630,11 +2622,11 @@ const etfData = {
         },
         {
             "code": "台新金",
-            "weight": 0.38
+            "weight": 0.73
         },
         {
             "code": "國票金",
-            "weight": 0.09
+            "weight": 0.1
         },
         {
             "code": "永豐金",
@@ -2642,7 +2634,7 @@ const etfData = {
         },
         {
             "code": "中信金",
-            "weight": 1.62
+            "weight": 1.5
         },
         {
             "code": "第一金",
@@ -2650,23 +2642,19 @@ const etfData = {
         },
         {
             "code": "統一超",
-            "weight": 0.5
+            "weight": 0.49
         },
         {
             "code": "神基",
-            "weight": 0.14
+            "weight": 0.13
         },
         {
             "code": "信邦",
             "weight": 0.1
         },
         {
-            "code": "盛達",
-            "weight": 0.01
-        },
-        {
             "code": "聯詠",
-            "weight": 0.61
+            "weight": 0.54
         },
         {
             "code": "文曄",
@@ -2674,27 +2662,23 @@ const etfData = {
         },
         {
             "code": "欣興",
-            "weight": 0.33
+            "weight": 0.36
         },
         {
-            "code": "健鼎",
-            "weight": 0.24
+            "code": "晶技",
+            "weight": 0.05
         },
         {
             "code": "台灣大",
-            "weight": 0.81
+            "weight": 0.71
         },
         {
             "code": "緯創",
-            "weight": 0.74
+            "weight": 0.66
         },
         {
-            "code": "創意",
-            "weight": 0.31
-        },
-        {
-            "code": "台勝科",
-            "weight": 0.06
+            "code": "瑞鼎",
+            "weight": 0.05
         },
         {
             "code": "貿聯-KY",
@@ -2705,16 +2689,12 @@ const etfData = {
             "weight": 0.21
         },
         {
-            "code": "欣陸",
-            "weight": 0.04
+            "code": "神達",
+            "weight": 0.17
         },
         {
             "code": "日月光投控",
-            "weight": 1.27
-        },
-        {
-            "code": "承業醫",
-            "weight": 0.02
+            "weight": 1.22
         },
         {
             "code": "南寶",
@@ -2722,23 +2702,23 @@ const etfData = {
         },
         {
             "code": "遠傳",
-            "weight": 0.59
-        },
-        {
-            "code": "和碩",
-            "weight": 0.38
+            "weight": 0.52
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.18
+            "weight": 0.2
         },
         {
-            "code": "中磊",
-            "weight": 0.06
+            "code": "天鈺",
+            "weight": 0.04
         },
         {
             "code": "崇越",
             "weight": 0.1
+        },
+        {
+            "code": "建國",
+            "weight": 0.01
         },
         {
             "code": "中租-KY",
@@ -2746,55 +2726,59 @@ const etfData = {
         },
         {
             "code": "上海商銀",
-            "weight": 0.43
+            "weight": 0.39
         },
         {
             "code": "合庫金",
-            "weight": 0.71
+            "weight": 0.7
         },
         {
-            "code": "邁達特",
-            "weight": 0.01
+            "code": "群益證",
+            "weight": 0.08
+        },
+        {
+            "code": "瑞儀",
+            "weight": 0.12
         },
         {
             "code": "精誠",
             "weight": 0.05
         },
         {
-            "code": "啟碁",
-            "weight": 0.11
-        },
-        {
             "code": "旭隼",
-            "weight": 0.21
+            "weight": 0.19
         },
         {
             "code": "樺漢",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
-            "code": "晶碩",
-            "weight": 0.04
-        },
-        {
-            "code": "台塑化",
-            "weight": 0.65
-        },
-        {
-            "code": "研揚",
-            "weight": 0.04
+            "code": "保瑞",
+            "weight": 0.15
         },
         {
             "code": "和潤企業",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "緯穎",
-            "weight": 0.94
+            "weight": 0.84
+        },
+        {
+            "code": "采鈺",
+            "weight": 0.13
         },
         {
             "code": "森崴能源",
             "weight": 0.04
+        },
+        {
+            "code": "福懋科",
+            "weight": 0.02
+        },
+        {
+            "code": "勤誠",
+            "weight": 0.11
         },
         {
             "code": "富邦媒",
@@ -2806,11 +2790,11 @@ const etfData = {
         },
         {
             "code": "寶成",
-            "weight": 0.17
+            "weight": 0.15
         },
         {
             "code": "豐泰",
-            "weight": 0.22
+            "weight": 0.21
         },
         {
             "code": "中聯資源",
@@ -2821,10 +2805,6 @@ const etfData = {
             "weight": 0.04
         },
         {
-            "code": "信義",
-            "weight": 0.03
-        },
-        {
             "code": "裕融",
             "weight": 0.1
         }
@@ -2832,15 +2812,15 @@ const etfData = {
     "國泰股利精選30(00701)": [
         {
             "code": "台泥",
-            "weight": 2.92
+            "weight": 2.67
         },
         {
             "code": "亞泥",
-            "weight": 1.76
+            "weight": 1.65
         },
         {
             "code": "統一",
-            "weight": 6.19
+            "weight": 6.59
         },
         {
             "code": "廣隆",
@@ -2848,7 +2828,7 @@ const etfData = {
         },
         {
             "code": "長興",
-            "weight": 0.39
+            "weight": 0.42
         },
         {
             "code": "生達",
@@ -2856,11 +2836,11 @@ const etfData = {
         },
         {
             "code": "中鋼",
-            "weight": 3.66
+            "weight": 3.83
         },
         {
             "code": "大成鋼",
-            "weight": 1.09
+            "weight": 1.11
         },
         {
             "code": "三陽工業",
@@ -2868,11 +2848,11 @@ const etfData = {
         },
         {
             "code": "聯強",
-            "weight": 1.37
+            "weight": 1.42
         },
         {
             "code": "中華電",
-            "weight": 11.29
+            "weight": 10.12
         },
         {
             "code": "台航",
@@ -2880,7 +2860,7 @@ const etfData = {
         },
         {
             "code": "彰銀",
-            "weight": 2.6
+            "weight": 2.74
         },
         {
             "code": "台中銀",
@@ -2888,521 +2868,461 @@ const etfData = {
         },
         {
             "code": "臺企銀",
-            "weight": 1.72
+            "weight": 1.8
         },
         {
             "code": "遠東銀",
-            "weight": 0.83
+            "weight": 0.85
         },
         {
             "code": "華南金",
-            "weight": 4.56
+            "weight": 4.72
         },
         {
             "code": "玉山金",
-            "weight": 8.27
+            "weight": 8.38
         },
         {
             "code": "兆豐金",
-            "weight": 7.84
+            "weight": 7.97
         },
         {
             "code": "台新金",
-            "weight": 3.18
+            "weight": 3.22
         },
         {
             "code": "國票金",
-            "weight": 0.71
+            "weight": 0.85
         },
         {
             "code": "永豐金",
-            "weight": 4.89
+            "weight": 4.97
         },
         {
             "code": "中信金",
-            "weight": 12.66
+            "weight": 11.65
         },
         {
             "code": "第一金",
-            "weight": 5.31
+            "weight": 5.39
         },
         {
             "code": "王道銀行",
-            "weight": 0.26
+            "weight": 0.25
         },
         {
             "code": "台灣大",
-            "weight": 4.44
+            "weight": 3.94
         },
         {
             "code": "遠傳",
-            "weight": 3.56
+            "weight": 3.19
         },
         {
             "code": "上海商銀",
-            "weight": 2.87
+            "weight": 2.58
         },
         {
             "code": "合庫金",
-            "weight": 4.45
+            "weight": 4.46
         },
         {
             "code": "泰銘",
-            "weight": 0.12
+            "weight": 0.11
         }
     ],
     "元大台灣高息低波(00713)": [
         {
             "code": "大成",
-            "weight": 1.15
-        },
-        {
-            "code": "卜蜂",
-            "weight": 0.76
-        },
-        {
-            "code": "統一",
-            "weight": 3.71
-        },
-        {
-            "code": "聚陽",
-            "weight": 1.2
-        },
-        {
-            "code": "東和鋼鐵",
-            "weight": 1.08
-        },
-        {
-            "code": "豐興",
-            "weight": 0.22
-        },
-        {
-            "code": "三陽工業",
-            "weight": 1.17
-        },
-        {
-            "code": "長榮鋼",
-            "weight": 0.49
-        },
-        {
-            "code": "聯電",
-            "weight": 2.32
-        },
-        {
-            "code": "仁寶",
-            "weight": 0.88
-        },
-        {
-            "code": "聯強",
-            "weight": 3.05
-        },
-        {
-            "code": "華碩",
-            "weight": 1.45
-        },
-        {
-            "code": "群光",
-            "weight": 0.66
-        },
-        {
-            "code": "億光",
-            "weight": 1.05
-        },
-        {
-            "code": "漢唐",
-            "weight": 0.59
-        },
-        {
-            "code": "超豐",
-            "weight": 0.67
-        },
-        {
-            "code": "聯發科",
-            "weight": 0.74
-        },
-        {
-            "code": "可成",
-            "weight": 0.96
-        },
-        {
-            "code": "國產",
-            "weight": 0.67
-        },
-        {
-            "code": "潤弘",
-            "weight": 0.4
-        },
-        {
-            "code": "裕民",
-            "weight": 0.3
-        },
-        {
-            "code": "榮運",
-            "weight": 0.48
-        },
-        {
-            "code": "華航",
-            "weight": 0.85
-        },
-        {
-            "code": "長榮航",
-            "weight": 1.8
-        },
-        {
-            "code": "遠東銀",
-            "weight": 0.38
-        },
-        {
-            "code": "新產",
-            "weight": 0.69
-        },
-        {
-            "code": "華南金",
-            "weight": 1.09
-        },
-        {
-            "code": "富邦金",
-            "weight": 0.34
-        },
-        {
-            "code": "國泰金",
-            "weight": 0.35
-        },
-        {
-            "code": "凱基金",
-            "weight": 1.02
-        },
-        {
-            "code": "玉山金",
-            "weight": 4.01
-        },
-        {
-            "code": "元大金",
             "weight": 1.24
         },
         {
-            "code": "台新金",
-            "weight": 3.21
+            "code": "卜蜂",
+            "weight": 0.7
         },
         {
-            "code": "永豐金",
-            "weight": 1.15
+            "code": "聚陽",
+            "weight": 1.4
         },
         {
-            "code": "中信金",
-            "weight": 2.6
+            "code": "東和鋼鐵",
+            "weight": 0.97
         },
         {
-            "code": "第一金",
-            "weight": 4.57
+            "code": "豐興",
+            "weight": 0.49
         },
         {
-            "code": "統一超",
-            "weight": 6.79
-        },
-        {
-            "code": "華立",
-            "weight": 0.47
-        },
-        {
-            "code": "德律",
-            "weight": 0.44
-        },
-        {
-            "code": "聯詠",
-            "weight": 2.06
-        },
-        {
-            "code": "文曄",
-            "weight": 0.99
-        },
-        {
-            "code": "健鼎",
-            "weight": 0.8
-        },
-        {
-            "code": "台灣大",
-            "weight": 9.93
-        },
-        {
-            "code": "瑞鼎",
-            "weight": 0.34
-        },
-        {
-            "code": "智易",
-            "weight": 0.44
-        },
-        {
-            "code": "南寶",
-            "weight": 1.12
-        },
-        {
-            "code": "遠傳",
-            "weight": 9.51
-        },
-        {
-            "code": "致伸",
-            "weight": 1.04
-        },
-        {
-            "code": "和碩",
-            "weight": 0.34
-        },
-        {
-            "code": "中磊",
-            "weight": 0.28
-        },
-        {
-            "code": "崇越",
-            "weight": 1.33
-        },
-        {
-            "code": "上海商銀",
-            "weight": 0.47
-        },
-        {
-            "code": "群益證",
-            "weight": 0.4
-        },
-        {
-            "code": "瑞儀",
-            "weight": 0.99
-        },
-        {
-            "code": "帆宣",
+            "code": "三陽工業",
             "weight": 1.1
         },
         {
-            "code": "力成",
-            "weight": 0.5
+            "code": "聯電",
+            "weight": 2.31
         },
         {
-            "code": "矽格",
+            "code": "仁寶",
+            "weight": 1.51
+        },
+        {
+            "code": "聯強",
+            "weight": 3.36
+        },
+        {
+            "code": "華碩",
+            "weight": 1.98
+        },
+        {
+            "code": "群光",
+            "weight": 0.72
+        },
+        {
+            "code": "億光",
+            "weight": 1.16
+        },
+        {
+            "code": "超豐",
+            "weight": 0.69
+        },
+        {
+            "code": "可成",
+            "weight": 1.53
+        },
+        {
+            "code": "國產",
+            "weight": 0.94
+        },
+        {
+            "code": "榮運",
+            "weight": 0.74
+        },
+        {
+            "code": "華航",
+            "weight": 1.34
+        },
+        {
+            "code": "長榮航",
+            "weight": 1.98
+        },
+        {
+            "code": "新產",
+            "weight": 0.61
+        },
+        {
+            "code": "富邦金",
             "weight": 0.93
         },
         {
-            "code": "台表科",
+            "code": "國泰金",
+            "weight": 0.85
+        },
+        {
+            "code": "凱基金",
             "weight": 1.05
         },
         {
+            "code": "玉山金",
+            "weight": 4.86
+        },
+        {
+            "code": "元大金",
+            "weight": 1.25
+        },
+        {
+            "code": "台新金",
+            "weight": 3.14
+        },
+        {
+            "code": "永豐金",
+            "weight": 1.35
+        },
+        {
+            "code": "中信金",
+            "weight": 2.52
+        },
+        {
+            "code": "第一金",
+            "weight": 7.67
+        },
+        {
+            "code": "統一超",
+            "weight": 7.37
+        },
+        {
+            "code": "華立",
+            "weight": 0.48
+        },
+        {
+            "code": "德律",
+            "weight": 0.68
+        },
+        {
+            "code": "聯詠",
+            "weight": 2.4
+        },
+        {
+            "code": "文曄",
+            "weight": 1.49
+        },
+        {
+            "code": "健鼎",
+            "weight": 0.87
+        },
+        {
+            "code": "台灣大",
+            "weight": 8.83
+        },
+        {
+            "code": "瑞鼎",
+            "weight": 0.54
+        },
+        {
+            "code": "南寶",
+            "weight": 1.18
+        },
+        {
+            "code": "遠傳",
+            "weight": 9.25
+        },
+        {
+            "code": "致伸",
+            "weight": 1.15
+        },
+        {
+            "code": "崇越",
+            "weight": 1.72
+        },
+        {
+            "code": "瑞儀",
+            "weight": 1.01
+        },
+        {
+            "code": "帆宣",
+            "weight": 1.26
+        },
+        {
+            "code": "力成",
+            "weight": 0.51
+        },
+        {
+            "code": "矽格",
+            "weight": 1.25
+        },
+        {
+            "code": "台表科",
+            "weight": 1.0
+        },
+        {
             "code": "帝寶",
-            "weight": 0.45
+            "weight": 0.7
         },
         {
             "code": "復盛應用",
-            "weight": 1.13
-        },
-        {
-            "code": "洋基工程",
-            "weight": 1.14
-        },
-        {
-            "code": "至上",
-            "weight": 0.22
+            "weight": 1.12
         },
         {
             "code": "寶成",
-            "weight": 0.75
+            "weight": 0.95
         },
         {
             "code": "中保科",
-            "weight": 1.31
+            "weight": 1.14
         },
         {
             "code": "宏全",
-            "weight": 1.98
+            "weight": 1.79
         }
     ],
     "第一金工業30(00728)": [
         {
             "code": "聯華",
-            "weight": 1.2
+            "weight": 1.29
         },
         {
             "code": "儒鴻",
-            "weight": 2.42
+            "weight": 2.27
         },
         {
             "code": "聚陽",
-            "weight": 1.28
+            "weight": 1.4
         },
         {
             "code": "亞德客-KY",
-            "weight": 2.9
+            "weight": 2.81
         },
         {
             "code": "台肥",
-            "weight": 0.96
+            "weight": 0.94
         },
         {
             "code": "上銀",
-            "weight": 1.54
+            "weight": 1.53
         },
         {
             "code": "川湖",
-            "weight": 3.61
+            "weight": 4.22
         },
         {
             "code": "長榮鋼",
-            "weight": 0.57
+            "weight": 0.53
         },
         {
             "code": "聯電",
-            "weight": 10.6
+            "weight": 10.25
         },
         {
             "code": "台積電",
-            "weight": 31.49
+            "weight": 32.79
         },
         {
             "code": "致茂",
-            "weight": 3.7
+            "weight": 3.72
         },
         {
             "code": "研華",
-            "weight": 3.41
+            "weight": 3.4
         },
         {
             "code": "超豐",
-            "weight": 0.44
+            "weight": 0.46
         },
         {
             "code": "創見",
-            "weight": 0.86
+            "weight": 0.73
         },
         {
             "code": "義隆",
-            "weight": 0.82
+            "weight": 0.81
         },
         {
             "code": "可成",
-            "weight": 3.22
+            "weight": 3.2
         },
         {
             "code": "國產",
-            "weight": 0.96
+            "weight": 0.89
         },
         {
             "code": "大立光",
-            "weight": 5.3
+            "weight": 5.15
         },
         {
             "code": "聯詠",
-            "weight": 6.49
+            "weight": 5.83
         },
         {
             "code": "智原",
-            "weight": 1.02
+            "weight": 0.96
         },
         {
             "code": "晶技",
-            "weight": 0.58
+            "weight": 0.56
         },
         {
             "code": "新日興",
-            "weight": 0.92
-        },
-        {
-            "code": "嘉澤",
-            "weight": 2.83
-        },
-        {
-            "code": "健策",
-            "weight": 3.77
-        },
-        {
-            "code": "台灣精銳",
-            "weight": 0.32
-        },
-        {
-            "code": "材料-KY",
-            "weight": 1.21
-        },
-        {
-            "code": "祥碩",
-            "weight": 2.28
-        },
-        {
-            "code": "晶碩",
-            "weight": 0.35
-        },
-        {
-            "code": "愛普*",
             "weight": 0.97
         },
         {
+            "code": "嘉澤",
+            "weight": 2.91
+        },
+        {
+            "code": "健策",
+            "weight": 3.55
+        },
+        {
+            "code": "台灣精銳",
+            "weight": 0.28
+        },
+        {
+            "code": "材料-KY",
+            "weight": 1.06
+        },
+        {
+            "code": "祥碩",
+            "weight": 2.2
+        },
+        {
+            "code": "晶碩",
+            "weight": 0.37
+        },
+        {
+            "code": "愛普*",
+            "weight": 0.99
+        },
+        {
             "code": "AES-KY",
-            "weight": 0.82
+            "weight": 0.73
         }
     ],
     "富邦臺灣優質高息(00730)": [
         {
             "code": "名軒",
-            "weight": 1.87
+            "weight": 1.78
         },
         {
             "code": "聚陽",
-            "weight": 5.26
+            "weight": 5.72
         },
         {
             "code": "海悅",
-            "weight": 0.74
+            "weight": 0.63
         },
         {
             "code": "群光",
-            "weight": 8.01
+            "weight": 7.84
         },
         {
             "code": "億光",
-            "weight": 2.86
+            "weight": 3.02
         },
         {
             "code": "漢唐",
-            "weight": 10.75
+            "weight": 12.88
         },
         {
             "code": "晶華",
-            "weight": 1.12
+            "weight": 1.1
         },
         {
             "code": "新產",
-            "weight": 2.33
+            "weight": 2.13
         },
         {
             "code": "聯陽",
-            "weight": 1.99
+            "weight": 1.87
         },
         {
             "code": "威強電",
-            "weight": 0.99
+            "weight": 0.94
         },
         {
             "code": "聯詠",
-            "weight": 9.84
+            "weight": 8.78
         },
         {
             "code": "僑威",
-            "weight": 1.64
+            "weight": 1.62
         },
         {
             "code": "順達",
-            "weight": 3.18
+            "weight": 2.99
         },
         {
             "code": "凡甲",
-            "weight": 1.02
+            "weight": 1.03
         },
         {
             "code": "碩天",
-            "weight": 1.84
+            "weight": 1.67
         },
         {
             "code": "拓凱",
-            "weight": 1.3
+            "weight": 1.24
         },
         {
             "code": "材料-KY",
-            "weight": 4.79
+            "weight": 4.19
         },
         {
             "code": "南寶",
@@ -3410,47 +3330,47 @@ const etfData = {
         },
         {
             "code": "天鈺",
-            "weight": 2.04
+            "weight": 1.72
         },
         {
             "code": "榮剛",
-            "weight": 1.88
+            "weight": 1.71
         },
         {
             "code": "永信建",
-            "weight": 1.05
+            "weight": 0.71
         },
         {
             "code": "聖暉*",
-            "weight": 4.6
+            "weight": 5.31
         },
         {
             "code": "亞翔",
-            "weight": 5.43
+            "weight": 5.5
         },
         {
             "code": "頎邦",
-            "weight": 3.37
+            "weight": 3.3
         },
         {
             "code": "瑞儀",
-            "weight": 6.19
+            "weight": 6.26
         },
         {
             "code": "復盛應用",
-            "weight": 3.19
+            "weight": 2.98
         },
         {
             "code": "洋基工程",
-            "weight": 3.1
+            "weight": 3.16
         },
         {
             "code": "矽創",
-            "weight": 2.23
+            "weight": 2.13
         },
         {
             "code": "致新",
-            "weight": 1.6
+            "weight": 1.41
         },
         {
             "code": "櫻花",
@@ -3460,27 +3380,27 @@ const etfData = {
     "復華富時高息低波(00731)": [
         {
             "code": "亞泥",
-            "weight": 1.48
+            "weight": 1.36
         },
         {
             "code": "統一",
-            "weight": 5.9
+            "weight": 6.03
         },
         {
             "code": "台化",
-            "weight": 1.15
+            "weight": 1.29
         },
         {
             "code": "遠東新",
-            "weight": 1.49
+            "weight": 1.26
         },
         {
             "code": "東元",
-            "weight": 0.87
+            "weight": 0.8
         },
         {
             "code": "台肥",
-            "weight": 0.49
+            "weight": 0.47
         },
         {
             "code": "東和鋼鐵",
@@ -3488,51 +3408,51 @@ const etfData = {
         },
         {
             "code": "正新",
-            "weight": 1.09
+            "weight": 1.13
         },
         {
             "code": "三陽工業",
-            "weight": 0.44
+            "weight": 0.43
         },
         {
             "code": "和泰車",
-            "weight": 2.36
+            "weight": 2.27
         },
         {
             "code": "聯電",
-            "weight": 7.71
+            "weight": 7.32
         },
         {
             "code": "聯強",
-            "weight": 1.19
+            "weight": 1.21
         },
         {
             "code": "佳世達",
-            "weight": 0.56
+            "weight": 0.55
         },
         {
             "code": "友達",
-            "weight": 1.2
+            "weight": 1.13
         },
         {
             "code": "中華電",
-            "weight": 7.89
+            "weight": 7.1
         },
         {
             "code": "可成",
-            "weight": 1.85
+            "weight": 1.8
         },
         {
             "code": "長榮航",
-            "weight": 1.62
+            "weight": 1.52
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.88
+            "weight": 0.8
         },
         {
             "code": "京城銀",
-            "weight": 0.56
+            "weight": 0.55
         },
         {
             "code": "遠東銀",
@@ -3540,59 +3460,59 @@ const etfData = {
         },
         {
             "code": "華南金",
-            "weight": 3.76
+            "weight": 3.81
         },
         {
             "code": "玉山金",
-            "weight": 7.41
+            "weight": 7.21
         },
         {
             "code": "兆豐金",
-            "weight": 7.3
+            "weight": 7.28
         },
         {
             "code": "台新金",
-            "weight": 2.77
+            "weight": 5.15
         },
         {
             "code": "永豐金",
-            "weight": 3.93
+            "weight": 3.91
         },
         {
             "code": "中信金",
-            "weight": 10.06
+            "weight": 9.24
         },
         {
             "code": "統一超",
-            "weight": 2.07
+            "weight": 2.02
         },
         {
             "code": "潤泰全",
-            "weight": 0.51
+            "weight": 0.48
         },
         {
             "code": "聯詠",
-            "weight": 4.64
+            "weight": 4.09
         },
         {
             "code": "台灣大",
-            "weight": 2.48
+            "weight": 2.15
         },
         {
             "code": "遠傳",
-            "weight": 2.38
+            "weight": 2.09
         },
         {
             "code": "和碩",
-            "weight": 2.2
+            "weight": 2.25
         },
         {
             "code": "中租-KY",
-            "weight": 2.71
+            "weight": 2.7
         },
         {
             "code": "上海商銀",
-            "weight": 2.69
+            "weight": 2.43
         },
         {
             "code": "瑞儀",
@@ -3600,11 +3520,11 @@ const etfData = {
         },
         {
             "code": "台塑化",
-            "weight": 0.65
+            "weight": 0.68
         },
         {
             "code": "和潤企業",
-            "weight": 0.2
+            "weight": 0.18
         },
         {
             "code": "富邦媒",
@@ -3612,267 +3532,267 @@ const etfData = {
         },
         {
             "code": "中保科",
-            "weight": 0.4
+            "weight": 0.39
         },
         {
             "code": "潤泰新",
-            "weight": 0.7
+            "weight": 0.68
         }
     ],
     "富邦臺灣中小(00733)": [
         {
-            "code": "東陽",
-            "weight": 4.48
+            "code": "華城",
+            "weight": 6.76
         },
         {
-            "code": "耿鼎",
-            "weight": 0.35
+            "code": "中砂",
+            "weight": 1.96
         },
         {
-            "code": "億泰",
-            "weight": 0.57
-        },
-        {
-            "code": "榮星",
-            "weight": 0.17
-        },
-        {
-            "code": "喬山",
-            "weight": 1.76
-        },
-        {
-            "code": "春源",
-            "weight": 0.93
-        },
-        {
-            "code": "麗正",
-            "weight": 0.14
-        },
-        {
-            "code": "廣宇",
-            "weight": 1.8
-        },
-        {
-            "code": "大同",
-            "weight": 8.62
-        },
-        {
-            "code": "群光",
-            "weight": 8.69
-        },
-        {
-            "code": "漢唐",
-            "weight": 11.44
-        },
-        {
-            "code": "建準",
-            "weight": 2.68
-        },
-        {
-            "code": "創見",
-            "weight": 3.74
-        },
-        {
-            "code": "凌群",
-            "weight": 0.44
-        },
-        {
-            "code": "冠西電",
-            "weight": 1.31
-        },
-        {
-            "code": "華經",
+            "code": "華榮",
             "weight": 0.24
         },
         {
-            "code": "資通",
-            "weight": 0.24
-        },
-        {
-            "code": "強茂",
-            "weight": 1.59
-        },
-        {
-            "code": "櫻花建",
-            "weight": 2.43
-        },
-        {
-            "code": "日勝生",
-            "weight": 0.99
-        },
-        {
-            "code": "亞航",
-            "weight": 0.32
-        },
-        {
-            "code": "漢翔",
-            "weight": 2.82
-        },
-        {
-            "code": "第一保",
-            "weight": 0.73
-        },
-        {
-            "code": "盛達",
-            "weight": 0.26
-        },
-        {
-            "code": "力特",
-            "weight": 0.36
-        },
-        {
-            "code": "富華新",
-            "weight": 1.12
-        },
-        {
-            "code": "銘異",
+            "code": "宏泰",
             "weight": 0.3
         },
         {
-            "code": "晶睿",
-            "weight": 0.4
+            "code": "億泰",
+            "weight": 0.22
         },
         {
-            "code": "群創",
-            "weight": 9.65
+            "code": "喬山",
+            "weight": 0.73
         },
         {
-            "code": "安馳",
-            "weight": 0.19
+            "code": "宇隆",
+            "weight": 0.34
         },
         {
-            "code": "牧德",
-            "weight": 2.42
+            "code": "致茂",
+            "weight": 7.62
         },
         {
-            "code": "智易",
-            "weight": 3.71
+            "code": "倫飛",
+            "weight": 0.12
         },
         {
-            "code": "瑞智",
-            "weight": 0.8
+            "code": "漢唐",
+            "weight": 6.49
         },
         {
-            "code": "駐龍",
-            "weight": 0.44
+            "code": "三商電",
+            "weight": 0.14
         },
         {
-            "code": "台灣精銳",
-            "weight": 1.42
-        },
-        {
-            "code": "國精化",
-            "weight": 0.58
-        },
-        {
-            "code": "弘凱",
-            "weight": 0.27
-        },
-        {
-            "code": "建國",
-            "weight": 0.38
-        },
-        {
-            "code": "隆大",
-            "weight": 0.45
-        },
-        {
-            "code": "工信",
+            "code": "偉詮電",
             "weight": 0.39
         },
         {
-            "code": "鄉林",
-            "weight": 0.61
+            "code": "京元電子",
+            "weight": 6.05
         },
         {
-            "code": "長虹",
-            "weight": 1.92
+            "code": "全新",
+            "weight": 1.24
         },
         {
-            "code": "迎廣",
-            "weight": 0.6
+            "code": "櫻花建",
+            "weight": 1.18
         },
         {
-            "code": "浪凡",
+            "code": "台中銀",
+            "weight": 4.37
+        },
+        {
+            "code": "晟銘電",
+            "weight": 0.78
+        },
+        {
+            "code": "德律",
+            "weight": 0.23
+        },
+        {
+            "code": "偉訓",
+            "weight": 0.39
+        },
+        {
+            "code": "智原",
+            "weight": 1.96
+        },
+        {
+            "code": "欣興",
+            "weight": 8.18
+        },
+        {
+            "code": "健鼎",
+            "weight": 6.49
+        },
+        {
+            "code": "建碁",
+            "weight": 0.09
+        },
+        {
+            "code": "新日興",
+            "weight": 1.99
+        },
+        {
+            "code": "創意",
+            "weight": 5.19
+        },
+        {
+            "code": "聯鈞",
+            "weight": 1.34
+        },
+        {
+            "code": "辛耘",
+            "weight": 1.05
+        },
+        {
+            "code": "瑞鼎",
+            "weight": 1.1
+        },
+        {
+            "code": "海華",
+            "weight": 0.25
+        },
+        {
+            "code": "神達",
+            "weight": 3.63
+        },
+        {
+            "code": "鈞興-KY",
+            "weight": 0.29
+        },
+        {
+            "code": "全訊",
             "weight": 0.43
         },
         {
-            "code": "凌華",
-            "weight": 0.87
+            "code": "達興材料",
+            "weight": 0.67
         },
         {
-            "code": "達麗",
-            "weight": 2.13
+            "code": "乙盛-KY",
+            "weight": 0.32
         },
         {
-            "code": "力成",
-            "weight": 9.77
-        },
-        {
-            "code": "龍德造船",
-            "weight": 0.57
-        },
-        {
-            "code": "來頡",
+            "code": "jpp-KY",
             "weight": 0.33
         },
         {
-            "code": "寶一",
-            "weight": 0.28
+            "code": "精成科",
+            "weight": 1.44
+        },
+        {
+            "code": "帆宣",
+            "weight": 0.92
+        },
+        {
+            "code": "力成",
+            "weight": 4.65
+        },
+        {
+            "code": "光聖",
+            "weight": 1.93
+        },
+        {
+            "code": "鈺邦",
+            "weight": 0.25
+        },
+        {
+            "code": "保瑞",
+            "weight": 2.37
+        },
+        {
+            "code": "穎崴",
+            "weight": 1.51
+        },
+        {
+            "code": "愛普*",
+            "weight": 2.03
+        },
+        {
+            "code": "采鈺",
+            "weight": 1.15
+        },
+        {
+            "code": "富世達",
+            "weight": 2.23
+        },
+        {
+            "code": "尖點",
+            "weight": 0.32
+        },
+        {
+            "code": "勤誠",
+            "weight": 1.71
+        },
+        {
+            "code": "東哥遊艇",
+            "weight": 0.25
+        },
+        {
+            "code": "全國",
+            "weight": 0.52
+        },
+        {
+            "code": "世紀鋼",
+            "weight": 1.77
         }
     ],
     "國泰臺韓科技(00735)": [
         {
             "code": "川湖",
-            "weight": 0.38
+            "weight": 0.52
         },
         {
             "code": "光寶科",
-            "weight": 0.74
+            "weight": 0.77
         },
         {
             "code": "聯電",
-            "weight": 1.63
+            "weight": 1.52
         },
         {
             "code": "台達電",
-            "weight": 2.56
+            "weight": 3.05
         },
         {
             "code": "鴻海",
-            "weight": 5.67
+            "weight": 5.93
         },
         {
             "code": "仁寶",
-            "weight": 0.36
+            "weight": 0.37
         },
         {
             "code": "國巨",
-            "weight": 0.68
+            "weight": 0.75
         },
         {
             "code": "台積電",
-            "weight": 19.76
+            "weight": 20.51
         },
         {
             "code": "智邦",
-            "weight": 1.19
+            "weight": 1.13
         },
         {
             "code": "聯強",
-            "weight": 0.26
+            "weight": 0.27
         },
         {
             "code": "宏碁",
-            "weight": 0.3
+            "weight": 0.29
         },
         {
             "code": "英業達",
-            "weight": 0.4
+            "weight": 0.41
         },
         {
             "code": "華碩",
-            "weight": 1.49
+            "weight": 1.33
         },
         {
             "code": "致茂",
@@ -3880,79 +3800,79 @@ const etfData = {
         },
         {
             "code": "技嘉",
-            "weight": 0.45
+            "weight": 0.47
         },
         {
             "code": "微星",
-            "weight": 0.3
+            "weight": 0.29
         },
         {
             "code": "瑞昱",
-            "weight": 0.89
+            "weight": 0.87
         },
         {
             "code": "廣達",
-            "weight": 2.55
+            "weight": 2.3
         },
         {
             "code": "台光電",
-            "weight": 0.76
+            "weight": 0.91
         },
         {
             "code": "群光",
-            "weight": 0.28
-        },
-        {
-            "code": "友達",
             "weight": 0.27
         },
         {
+            "code": "友達",
+            "weight": 0.26
+        },
+        {
             "code": "中華電",
-            "weight": 1.61
+            "weight": 1.47
         },
         {
             "code": "京元電子",
-            "weight": 0.35
+            "weight": 0.36
         },
         {
             "code": "聯發科",
-            "weight": 5.98
+            "weight": 6.4
         },
         {
             "code": "可成",
-            "weight": 0.38
+            "weight": 0.39
         },
         {
             "code": "大立光",
-            "weight": 0.63
+            "weight": 0.72
         },
         {
             "code": "奇鋐",
-            "weight": 0.66
+            "weight": 0.86
         },
         {
             "code": "聯詠",
-            "weight": 0.95
+            "weight": 0.91
         },
         {
             "code": "欣興",
-            "weight": 0.45
+            "weight": 0.51
         },
         {
             "code": "健鼎",
-            "weight": 0.34
+            "weight": 0.33
         },
         {
             "code": "台灣大",
-            "weight": 0.62
+            "weight": 0.56
         },
         {
             "code": "緯創",
-            "weight": 1.11
+            "weight": 1.09
         },
         {
             "code": "創意",
-            "weight": 0.33
+            "weight": 0.32
         },
         {
             "code": "群創",
@@ -3960,15 +3880,15 @@ const etfData = {
         },
         {
             "code": "嘉澤",
-            "weight": 0.25
+            "weight": 0.3
         },
         {
             "code": "健策",
-            "weight": 0.26
+            "weight": 0.29
         },
         {
             "code": "世芯-KY",
-            "weight": 0.51
+            "weight": 0.79
         },
         {
             "code": "大聯大",
@@ -3976,45 +3896,45 @@ const etfData = {
         },
         {
             "code": "日月光投控",
-            "weight": 1.63
+            "weight": 1.59
         },
         {
             "code": "遠傳",
-            "weight": 0.49
+            "weight": 0.43
         },
         {
             "code": "和碩",
-            "weight": 0.48
+            "weight": 0.49
         },
         {
             "code": "瑞儀",
-            "weight": 0.19
+            "weight": 0.2
         },
         {
             "code": "力成",
-            "weight": 0.28
+            "weight": 0.29
         },
         {
             "code": "緯穎",
-            "weight": 0.96
+            "weight": 0.82
         }
     ],
     "國泰新興市場(00736)": [
         {
             "code": "統一",
-            "weight": 0.48
+            "weight": 0.51
         },
         {
             "code": "南亞",
-            "weight": 0.23
+            "weight": 0.27
         },
         {
             "code": "和泰車",
-            "weight": 0.39
+            "weight": 0.38
         },
         {
             "code": "光寶科",
-            "weight": 0.3
+            "weight": 0.31
         },
         {
             "code": "聯電",
@@ -4022,27 +3942,27 @@ const etfData = {
         },
         {
             "code": "台達電",
-            "weight": 0.29
+            "weight": 0.34
         },
         {
             "code": "鴻海",
-            "weight": 0.81
+            "weight": 0.86
         },
         {
             "code": "國巨",
-            "weight": 0.31
+            "weight": 0.33
         },
         {
             "code": "台積電",
-            "weight": 9.41
+            "weight": 9.87
         },
         {
             "code": "智邦",
-            "weight": 0.5
+            "weight": 0.53
         },
         {
             "code": "華碩",
-            "weight": 0.47
+            "weight": 0.43
         },
         {
             "code": "瑞昱",
@@ -4050,11 +3970,11 @@ const etfData = {
         },
         {
             "code": "廣達",
-            "weight": 0.4
+            "weight": 0.36
         },
         {
             "code": "台光電",
-            "weight": 0.58
+            "weight": 0.66
         },
         {
             "code": "研華",
@@ -4062,79 +3982,75 @@ const etfData = {
         },
         {
             "code": "中華電",
-            "weight": 0.19
+            "weight": 0.17
         },
         {
             "code": "聯發科",
-            "weight": 0.88
+            "weight": 0.95
         },
         {
             "code": "華南金",
-            "weight": 0.06
+            "weight": 0.08
         },
         {
             "code": "富邦金",
-            "weight": 0.3
-        },
-        {
-            "code": "國泰金",
-            "weight": 0.13
-        },
-        {
-            "code": "凱基金",
             "weight": 0.34
         },
         {
+            "code": "國泰金",
+            "weight": 0.16
+        },
+        {
+            "code": "凱基金",
+            "weight": 0.32
+        },
+        {
             "code": "玉山金",
-            "weight": 0.2
+            "weight": 0.22
         },
         {
             "code": "元大金",
-            "weight": 0.47
+            "weight": 0.45
         },
         {
             "code": "兆豐金",
-            "weight": 0.18
+            "weight": 0.22
         },
         {
             "code": "台新金",
-            "weight": 0.27
-        },
-        {
-            "code": "新光金",
-            "weight": 0.25
+            "weight": 0.3
         },
         {
             "code": "永豐金",
-            "weight": 0.35
-        },
-        {
-            "code": "中信金",
-            "weight": 0.27
-        },
-        {
-            "code": "第一金",
             "weight": 0.38
         },
         {
+            "code": "中信金",
+            "weight": 0.25
+        },
+        {
+            "code": "第一金",
+            "weight": 0.41
+        },
+        {
             "code": "奇鋐",
-            "weight": 0.5
+            "weight": 0.56
         },
         {
             "code": "聯詠",
-            "weight": 0.36
+            "weight": 0.33
         },
         {
             "code": "欣興",
-            "weight": 0.23
+            "weight": 0.26
         },
         {
             "code": "台灣大",
-            "weight": 0.24
+            "weight": 0.21
         },
         {
             "code": "緯創",
-            "weight": 0.42
+            "weight": 0.39
         },
         {
             "code": "群創",
@@ -4142,23 +4058,23 @@ const etfData = {
         },
         {
             "code": "日月光投控",
-            "weight": 0.21
-        },
-        {
-            "code": "遠傳",
-            "weight": 0.24
-        },
-        {
-            "code": "和碩",
             "weight": 0.2
         },
         {
-            "code": "中租-KY",
+            "code": "遠傳",
             "weight": 0.22
         },
         {
+            "code": "和碩",
+            "weight": 0.21
+        },
+        {
+            "code": "中租-KY",
+            "weight": 0.23
+        },
+        {
             "code": "上海商銀",
-            "weight": 0.24
+            "weight": 0.22
         },
         {
             "code": "合庫金",
@@ -4166,7 +4082,7 @@ const etfData = {
         },
         {
             "code": "元太",
-            "weight": 0.3
+            "weight": 0.28
         },
         {
             "code": "巨大",
@@ -4176,41 +4092,41 @@ const etfData = {
     "國泰AI機器人(00737)": [
         {
             "code": "台達電",
-            "weight": 0.76
+            "weight": 0.91
         }
     ],
     "元大全球AI(00762)": [
         {
             "code": "旺宏",
-            "weight": 0.09
-        },
-        {
-            "code": "華邦電",
             "weight": 0.08
         },
         {
+            "code": "華邦電",
+            "weight": 0.07
+        },
+        {
             "code": "威盛",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "創見",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "智原",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "創意",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "世芯-KY",
-            "weight": 0.56
+            "weight": 0.72
         },
         {
             "code": "祥碩",
-            "weight": 0.21
+            "weight": 0.2
         },
         {
             "code": "達發",
@@ -4220,23 +4136,23 @@ const etfData = {
     "元大臺灣ESG永續(00850)": [
         {
             "code": "台泥",
-            "weight": 0.58
+            "weight": 0.52
         },
         {
             "code": "亞泥",
-            "weight": 0.36
+            "weight": 0.33
         },
         {
             "code": "統一",
-            "weight": 1.19
+            "weight": 1.23
         },
         {
             "code": "南亞",
-            "weight": 0.37
+            "weight": 0.44
         },
         {
             "code": "遠東新",
-            "weight": 0.29
+            "weight": 0.25
         },
         {
             "code": "福懋",
@@ -4244,23 +4160,23 @@ const etfData = {
         },
         {
             "code": "儒鴻",
-            "weight": 0.27
+            "weight": 0.24
         },
         {
             "code": "士電",
-            "weight": 0.15
+            "weight": 0.14
         },
         {
             "code": "東元",
-            "weight": 0.22
+            "weight": 0.2
         },
         {
             "code": "亞德客-KY",
-            "weight": 0.39
+            "weight": 0.38
         },
         {
             "code": "華新",
-            "weight": 0.19
+            "weight": 0.18
         },
         {
             "code": "長興",
@@ -4280,15 +4196,15 @@ const etfData = {
         },
         {
             "code": "川湖",
-            "weight": 0.36
+            "weight": 0.42
         },
         {
             "code": "正新",
-            "weight": 0.22
+            "weight": 0.23
         },
         {
             "code": "裕隆",
-            "weight": 0.06
+            "weight": 0.03
         },
         {
             "code": "中華",
@@ -4296,47 +4212,47 @@ const etfData = {
         },
         {
             "code": "和泰車",
-            "weight": 0.47
+            "weight": 0.45
         },
         {
             "code": "光寶科",
-            "weight": 0.64
+            "weight": 0.67
         },
         {
             "code": "聯電",
-            "weight": 1.52
+            "weight": 1.46
         },
         {
             "code": "台達電",
-            "weight": 2.46
+            "weight": 2.9
         },
         {
             "code": "鴻海",
-            "weight": 5.88
+            "weight": 6.12
         },
         {
             "code": "仁寶",
-            "weight": 0.32
+            "weight": 0.33
         },
         {
             "code": "國巨",
-            "weight": 0.52
+            "weight": 0.56
         },
         {
             "code": "台積電",
-            "weight": 29.54
+            "weight": 30.57
         },
         {
             "code": "智邦",
-            "weight": 1.1
+            "weight": 1.13
         },
         {
             "code": "宏碁",
-            "weight": 0.27
+            "weight": 0.26
         },
         {
             "code": "鴻準",
-            "weight": 0.18
+            "weight": 0.17
         },
         {
             "code": "英業達",
@@ -4344,7 +4260,7 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 1.42
+            "weight": 1.29
         },
         {
             "code": "致茂",
@@ -4352,59 +4268,59 @@ const etfData = {
         },
         {
             "code": "大同",
-            "weight": 0.19
+            "weight": 0.11
         },
         {
             "code": "技嘉",
-            "weight": 0.46
+            "weight": 0.45
         },
         {
             "code": "微星",
-            "weight": 0.32
+            "weight": 0.31
         },
         {
             "code": "瑞昱",
-            "weight": 0.81
+            "weight": 0.8
         },
         {
             "code": "廣達",
-            "weight": 2.36
+            "weight": 2.09
         },
         {
             "code": "台光電",
-            "weight": 0.71
+            "weight": 0.79
         },
         {
             "code": "群光",
-            "weight": 0.24
+            "weight": 0.23
         },
         {
             "code": "研華",
-            "weight": 0.51
+            "weight": 0.5
         },
         {
             "code": "友達",
-            "weight": 0.24
+            "weight": 0.23
         },
         {
             "code": "中華電",
-            "weight": 1.61
+            "weight": 1.46
         },
         {
             "code": "京元電子",
-            "weight": 0.35
+            "weight": 0.37
         },
         {
             "code": "創見",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "聯發科",
-            "weight": 5.75
+            "weight": 6.2
         },
         {
             "code": "可成",
-            "weight": 0.37
+            "weight": 0.36
         },
         {
             "code": "華新科",
@@ -4412,43 +4328,43 @@ const etfData = {
         },
         {
             "code": "宏達電",
-            "weight": 0.04
+            "weight": 0.08
         },
         {
             "code": "長榮",
-            "weight": 0.66
+            "weight": 0.63
         },
         {
             "code": "裕民",
-            "weight": 0.06
+            "weight": 0.07
         },
         {
             "code": "陽明",
-            "weight": 0.35
+            "weight": 0.28
         },
         {
             "code": "華航",
-            "weight": 0.21
+            "weight": 0.2
         },
         {
             "code": "萬海",
-            "weight": 0.26
+            "weight": 0.24
         },
         {
             "code": "長榮航",
-            "weight": 0.33
+            "weight": 0.32
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.22
+            "weight": 0.19
         },
         {
             "code": "彰銀",
-            "weight": 0.4
+            "weight": 0.41
         },
         {
             "code": "臺企銀",
-            "weight": 0.3
+            "weight": 0.32
         },
         {
             "code": "遠東銀",
@@ -4456,91 +4372,87 @@ const etfData = {
         },
         {
             "code": "華南金",
-            "weight": 0.74
+            "weight": 0.76
         },
         {
             "code": "富邦金",
-            "weight": 2.01
+            "weight": 1.87
         },
         {
             "code": "國泰金",
-            "weight": 1.78
+            "weight": 1.6
         },
         {
             "code": "凱基金",
-            "weight": 0.73
+            "weight": 0.57
         },
         {
             "code": "玉山金",
-            "weight": 1.46
+            "weight": 1.44
         },
         {
             "code": "元大金",
-            "weight": 1.07
+            "weight": 0.97
         },
         {
             "code": "兆豐金",
-            "weight": 1.48
+            "weight": 1.49
         },
         {
             "code": "台新金",
-            "weight": 0.43
-        },
-        {
-            "code": "新光金",
-            "weight": 0.4
+            "weight": 0.93
         },
         {
             "code": "永豐金",
-            "weight": 0.77
+            "weight": 0.78
         },
         {
             "code": "中信金",
-            "weight": 2.02
+            "weight": 1.87
         },
         {
             "code": "第一金",
-            "weight": 0.9
+            "weight": 0.91
         },
         {
             "code": "統一超",
-            "weight": 0.44
+            "weight": 0.43
         },
         {
             "code": "大立光",
-            "weight": 0.69
+            "weight": 0.67
         },
         {
             "code": "奇鋐",
-            "weight": 0.72
+            "weight": 0.79
         },
         {
             "code": "聯詠",
-            "weight": 0.92
+            "weight": 0.82
         },
         {
             "code": "欣興",
-            "weight": 0.44
+            "weight": 0.49
         },
         {
             "code": "台灣大",
-            "weight": 0.5
+            "weight": 0.44
         },
         {
             "code": "緯創",
-            "weight": 1.04
+            "weight": 0.93
         },
         {
             "code": "創意",
-            "weight": 0.3
+            "weight": 0.29
         },
         {
             "code": "群創",
-            "weight": 0.21
+            "weight": 0.25
         },
         {
             "code": "台勝科",
-            "weight": 0.01
+            "weight": 0.02
         },
         {
             "code": "嘉澤",
@@ -4548,43 +4460,43 @@ const etfData = {
         },
         {
             "code": "健策",
-            "weight": 0.37
+            "weight": 0.35
         },
         {
             "code": "世芯-KY",
-            "weight": 0.68
+            "weight": 0.9
         },
         {
             "code": "大聯大",
-            "weight": 0.32
-        },
-        {
-            "code": "日月光投控",
-            "weight": 1.49
-        },
-        {
-            "code": "遠傳",
-            "weight": 0.47
-        },
-        {
-            "code": "和碩",
-            "weight": 0.43
-        },
-        {
-            "code": "臻鼎-KY",
-            "weight": 0.19
-        },
-        {
-            "code": "祥碩",
-            "weight": 0.22
-        },
-        {
-            "code": "中租-KY",
             "weight": 0.31
         },
         {
+            "code": "日月光投控",
+            "weight": 1.45
+        },
+        {
+            "code": "遠傳",
+            "weight": 0.42
+        },
+        {
+            "code": "和碩",
+            "weight": 0.45
+        },
+        {
+            "code": "臻鼎-KY",
+            "weight": 0.22
+        },
+        {
+            "code": "祥碩",
+            "weight": 0.21
+        },
+        {
+            "code": "中租-KY",
+            "weight": 0.33
+        },
+        {
             "code": "上海商銀",
-            "weight": 0.53
+            "weight": 0.48
         },
         {
             "code": "合庫金",
@@ -4596,31 +4508,31 @@ const etfData = {
         },
         {
             "code": "力成",
-            "weight": 0.27
+            "weight": 0.28
         },
         {
             "code": "旭隼",
-            "weight": 0.26
+            "weight": 0.24
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.36
+            "weight": 0.33
         },
         {
             "code": "藥華藥",
-            "weight": 0.43
+            "weight": 0.39
         },
         {
             "code": "台塑化",
-            "weight": 0.09
+            "weight": 0.13
         },
         {
             "code": "緯穎",
-            "weight": 0.84
+            "weight": 0.75
         },
         {
             "code": "南電",
-            "weight": 0.07
+            "weight": 0.11
         },
         {
             "code": "富邦媒",
@@ -4632,7 +4544,7 @@ const etfData = {
         },
         {
             "code": "寶成",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "豐泰",
@@ -4644,31 +4556,31 @@ const etfData = {
         },
         {
             "code": "巨大",
-            "weight": 0.1
+            "weight": 0.11
         }
     ],
     "台新全球AI(00851)": [
         {
             "code": "台積電",
-            "weight": 5.15
+            "weight": 5.31
         }
     ],
     "元大全球未來通訊(00861)": [
         {
             "code": "聯電",
-            "weight": 0.57
+            "weight": 0.54
         },
         {
             "code": "國巨",
-            "weight": 0.23
+            "weight": 0.24
         },
         {
             "code": "台積電",
-            "weight": 8.92
+            "weight": 9.16
         },
         {
             "code": "智邦",
-            "weight": 0.45
+            "weight": 0.46
         },
         {
             "code": "瑞昱",
@@ -4676,61 +4588,61 @@ const etfData = {
         },
         {
             "code": "廣達",
-            "weight": 0.9
+            "weight": 0.79
         },
         {
             "code": "聯發科",
-            "weight": 2.22
+            "weight": 2.36
         },
         {
             "code": "大立光",
-            "weight": 0.26
+            "weight": 0.25
         },
         {
             "code": "聯詠",
-            "weight": 0.34
+            "weight": 0.3
         },
         {
             "code": "台灣大",
-            "weight": 0.22
+            "weight": 0.19
         },
         {
             "code": "日月光投控",
-            "weight": 0.55
+            "weight": 0.53
         },
         {
             "code": "遠傳",
-            "weight": 0.14
+            "weight": 0.13
         }
     ],
     "元大全球5G(00876)": [
         {
             "code": "中砂",
-            "weight": 0.11
+            "weight": 0.12
         },
         {
             "code": "川湖",
-            "weight": 0.39
+            "weight": 0.46
         },
         {
             "code": "聯電",
-            "weight": 1.36
+            "weight": 1.33
         },
         {
             "code": "華通",
-            "weight": 0.17
+            "weight": 0.18
         },
         {
             "code": "國巨",
-            "weight": 0.56
+            "weight": 0.62
         },
         {
             "code": "台積電",
-            "weight": 6.5
+            "weight": 6.85
         },
         {
             "code": "智邦",
-            "weight": 0.94
+            "weight": 0.99
         },
         {
             "code": "佳世達",
@@ -4738,11 +4650,11 @@ const etfData = {
         },
         {
             "code": "致茂",
-            "weight": 0.41
+            "weight": 0.42
         },
         {
             "code": "金像電",
-            "weight": 0.25
+            "weight": 0.31
         },
         {
             "code": "瑞昱",
@@ -4750,97 +4662,97 @@ const etfData = {
         },
         {
             "code": "廣達",
-            "weight": 2.08
+            "weight": 1.88
         },
         {
             "code": "台光電",
-            "weight": 0.69
+            "weight": 0.78
         },
         {
             "code": "京元電子",
-            "weight": 0.32
+            "weight": 0.33
         },
         {
             "code": "聯發科",
-            "weight": 5.13
+            "weight": 5.57
         },
         {
             "code": "大立光",
-            "weight": 0.67
+            "weight": 0.66
         },
         {
             "code": "信邦",
-            "weight": 0.13
+            "weight": 0.14
         },
         {
             "code": "聯詠",
-            "weight": 0.8
+            "weight": 0.73
         },
         {
             "code": "欣興",
-            "weight": 0.37
+            "weight": 0.42
         },
         {
             "code": "緯創",
-            "weight": 0.9
+            "weight": 0.82
         },
         {
             "code": "貿聯-KY",
-            "weight": 0.4
+            "weight": 0.41
         },
         {
             "code": "日月光投控",
-            "weight": 1.31
+            "weight": 1.3
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.16
+            "weight": 0.18
         },
         {
             "code": "力成",
-            "weight": 0.25
+            "weight": 0.26
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.32
+            "weight": 0.3
         }
     ],
     "國泰永續高股息(00878)": [
         {
             "code": "統一",
-            "weight": 2.41
+            "weight": 2.67
         },
         {
             "code": "遠東新",
-            "weight": 2.08
+            "weight": 1.92
         },
         {
             "code": "正新",
-            "weight": 1.5
+            "weight": 1.61
         },
         {
             "code": "光寶科",
-            "weight": 3.02
+            "weight": 3.07
         },
         {
             "code": "聯電",
-            "weight": 6.63
+            "weight": 6.52
         },
         {
             "code": "仁寶",
-            "weight": 1.48
+            "weight": 1.44
         },
         {
             "code": "英業達",
-            "weight": 1.74
+            "weight": 1.73
         },
         {
             "code": "華碩",
-            "weight": 4.83
+            "weight": 3.85
         },
         {
             "code": "技嘉",
-            "weight": 2.26
+            "weight": 2.38
         },
         {
             "code": "微星",
@@ -4848,137 +4760,137 @@ const etfData = {
         },
         {
             "code": "瑞昱",
-            "weight": 3.37
+            "weight": 3.42
         },
         {
             "code": "廣達",
-            "weight": 3.5
+            "weight": 2.78
         },
         {
             "code": "中華電",
-            "weight": 2.58
+            "weight": 2.28
         },
         {
             "code": "聯發科",
-            "weight": 4.23
+            "weight": 4.38
         },
         {
             "code": "可成",
-            "weight": 1.71
+            "weight": 1.77
         },
         {
             "code": "萬海",
-            "weight": 3.22
+            "weight": 3.07
         },
         {
             "code": "富邦金",
-            "weight": 2.82
+            "weight": 2.56
         },
         {
             "code": "國泰金",
-            "weight": 10.37
-        },
-        {
-            "code": "元大金",
-            "weight": 2.92
-        },
-        {
-            "code": "兆豐金",
-            "weight": 2.45
-        },
-        {
-            "code": "中信金",
             "weight": 9.2
         },
         {
+            "code": "元大金",
+            "weight": 2.57
+        },
+        {
+            "code": "兆豐金",
+            "weight": 2.54
+        },
+        {
+            "code": "中信金",
+            "weight": 8.86
+        },
+        {
             "code": "聯詠",
-            "weight": 3.86
+            "weight": 3.67
         },
         {
             "code": "台灣大",
-            "weight": 2.64
+            "weight": 2.42
         },
         {
             "code": "緯創",
-            "weight": 2.88
+            "weight": 2.5
         },
         {
             "code": "大聯大",
-            "weight": 1.34
+            "weight": 1.42
         },
         {
             "code": "日月光投控",
-            "weight": 3.52
+            "weight": 3.31
         },
         {
             "code": "遠傳",
-            "weight": 2.67
+            "weight": 2.45
         },
         {
             "code": "世界",
-            "weight": 2.17
+            "weight": 1.99
         },
         {
             "code": "中租-KY",
-            "weight": 2.41
+            "weight": 2.65
         },
         {
             "code": "上海商銀",
-            "weight": 2.64
+            "weight": 2.46
         }
     ],
     "國泰台灣科技龍頭(00881)": [
         {
             "code": "川湖",
-            "weight": 1.06
+            "weight": 1.19
         },
         {
             "code": "聯電",
-            "weight": 3.55
+            "weight": 3.3
         },
         {
             "code": "台達電",
-            "weight": 5.24
+            "weight": 5.99
         },
         {
             "code": "鴻海",
-            "weight": 11.52
+            "weight": 11.61
         },
         {
             "code": "仁寶",
-            "weight": 0.83
+            "weight": 0.81
         },
         {
             "code": "台積電",
-            "weight": 31.02
+            "weight": 31.05
         },
         {
             "code": "智邦",
-            "weight": 2.91
+            "weight": 2.9
         },
         {
             "code": "英業達",
-            "weight": 0.9
+            "weight": 0.88
         },
         {
             "code": "致茂",
-            "weight": 1.08
+            "weight": 1.05
         },
         {
             "code": "金像電",
-            "weight": 0.62
+            "weight": 0.72
         },
         {
             "code": "瑞昱",
-            "weight": 1.94
+            "weight": 1.86
         },
         {
             "code": "廣達",
-            "weight": 4.73
+            "weight": 4.05
         },
         {
             "code": "台光電",
-            "weight": 1.92
+            "weight": 2.08
         },
         {
             "code": "京元電子",
@@ -4986,47 +4898,47 @@ const etfData = {
         },
         {
             "code": "聯發科",
-            "weight": 11.47
+            "weight": 11.85
         },
         {
             "code": "大立光",
-            "weight": 1.82
+            "weight": 1.7
         },
         {
             "code": "奇鋐",
-            "weight": 1.75
+            "weight": 1.87
         },
         {
             "code": "聯詠",
-            "weight": 2.22
+            "weight": 1.92
         },
         {
             "code": "欣興",
-            "weight": 1.05
+            "weight": 1.12
         },
         {
             "code": "健鼎",
-            "weight": 0.86
+            "weight": 0.89
         },
         {
             "code": "台灣大",
-            "weight": 1.84
+            "weight": 1.57
         },
         {
             "code": "緯創",
-            "weight": 2.48
+            "weight": 2.16
         },
         {
             "code": "貿聯-KY",
-            "weight": 1.06
+            "weight": 1.03
         },
         {
             "code": "大聯大",
-            "weight": 0.74
+            "weight": 0.7
         },
         {
             "code": "遠傳",
-            "weight": 1.55
+            "weight": 1.34
         },
         {
             "code": "和碩",
@@ -5034,33 +4946,33 @@ const etfData = {
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.46
+            "weight": 0.5
         },
         {
             "code": "世界",
-            "weight": 0.71
+            "weight": 0.65
         },
         {
             "code": "力成",
-            "weight": 0.66
+            "weight": 0.65
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.89
+            "weight": 0.78
         }
     ],
     "永豐台灣ESG(00888)": [
         {
             "code": "台泥",
-            "weight": 0.57
+            "weight": 0.52
         },
         {
             "code": "亞泥",
-            "weight": 0.53
+            "weight": 0.5
         },
         {
             "code": "遠東新",
-            "weight": 0.44
+            "weight": 0.38
         },
         {
             "code": "儒鴻",
@@ -5084,23 +4996,23 @@ const etfData = {
         },
         {
             "code": "光寶科",
-            "weight": 0.99
+            "weight": 1.04
         },
         {
             "code": "聯電",
-            "weight": 9.01
+            "weight": 8.76
         },
         {
             "code": "台達電",
-            "weight": 3.86
+            "weight": 4.61
         },
         {
             "code": "鴻海",
-            "weight": 1.28
+            "weight": 1.34
         },
         {
             "code": "仁寶",
-            "weight": 0.5
+            "weight": 0.52
         },
         {
             "code": "國巨",
@@ -5108,7 +5020,7 @@ const etfData = {
         },
         {
             "code": "台積電",
-            "weight": 31.02
+            "weight": 32.6
         },
         {
             "code": "宏碁",
@@ -5116,11 +5028,11 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 2.98
+            "weight": 2.73
         },
         {
             "code": "致茂",
-            "weight": 1.59
+            "weight": 1.61
         },
         {
             "code": "瑞昱",
@@ -5128,7 +5040,7 @@ const etfData = {
         },
         {
             "code": "廣達",
-            "weight": 2.07
+            "weight": 1.85
         },
         {
             "code": "群光",
@@ -5140,23 +5052,23 @@ const etfData = {
         },
         {
             "code": "南亞科",
-            "weight": 0.8
+            "weight": 0.62
         },
         {
             "code": "友達",
-            "weight": 0.49
+            "weight": 0.47
         },
         {
             "code": "中華電",
-            "weight": 3.91
+            "weight": 3.59
         },
         {
             "code": "京元電子",
-            "weight": 0.09
+            "weight": 0.1
         },
         {
             "code": "聯發科",
-            "weight": 0.12
+            "weight": 0.13
         },
         {
             "code": "宏達電",
@@ -5164,15 +5076,15 @@ const etfData = {
         },
         {
             "code": "長榮",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "華航",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "萬海",
-            "weight": 1.33
+            "weight": 1.25
         },
         {
             "code": "長榮航",
@@ -5180,23 +5092,23 @@ const etfData = {
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.69
+            "weight": 0.65
         },
         {
             "code": "彰銀",
-            "weight": 0.12
+            "weight": 0.13
         },
         {
             "code": "富邦金",
-            "weight": 2.55
+            "weight": 2.42
         },
         {
             "code": "國泰金",
-            "weight": 3.51
+            "weight": 3.23
         },
         {
             "code": "凱基金",
-            "weight": 1.23
+            "weight": 1.14
         },
         {
             "code": "玉山金",
@@ -5208,11 +5120,11 @@ const etfData = {
         },
         {
             "code": "永豐金",
-            "weight": 0.52
+            "weight": 0.53
         },
         {
             "code": "中信金",
-            "weight": 0.23
+            "weight": 0.22
         },
         {
             "code": "第一金",
@@ -5224,19 +5136,19 @@ const etfData = {
         },
         {
             "code": "聯詠",
-            "weight": 0.6
+            "weight": 0.55
         },
         {
             "code": "台灣大",
-            "weight": 2.52
+            "weight": 2.24
         },
         {
             "code": "緯創",
-            "weight": 0.25
+            "weight": 0.22
         },
         {
             "code": "創意",
-            "weight": 0.39
+            "weight": 0.38
         },
         {
             "code": "大聯大",
@@ -5244,39 +5156,39 @@ const etfData = {
         },
         {
             "code": "日月光投控",
-            "weight": 12.35
+            "weight": 12.13
         },
         {
             "code": "富采",
-            "weight": 0.74
+            "weight": 0.73
         },
         {
             "code": "遠傳",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "臻鼎-KY",
-            "weight": 1.27
+            "weight": 1.44
         },
         {
             "code": "世界",
-            "weight": 3.53
+            "weight": 3.37
         },
         {
             "code": "上海商銀",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "力成",
-            "weight": 1.08
+            "weight": 1.12
         },
         {
             "code": "旭隼",
-            "weight": 0.14
+            "weight": 0.13
         },
         {
             "code": "環球晶",
-            "weight": 0.02
+            "weight": 0.03
         },
         {
             "code": "緯穎",
@@ -5284,101 +5196,101 @@ const etfData = {
         },
         {
             "code": "元太",
-            "weight": 2.92
+            "weight": 2.78
         },
         {
             "code": "富邦媒",
-            "weight": 0.29
+            "weight": 0.3
         }
     ],
     "中信關鍵半導體(00891)": [
         {
+            "code": "中砂",
+            "weight": 0.45
+        },
+        {
             "code": "聯電",
-            "weight": 9.25
+            "weight": 8.72
         },
         {
             "code": "台積電",
-            "weight": 23.66
+            "weight": 21.36
         },
         {
             "code": "瑞昱",
-            "weight": 5.02
-        },
-        {
-            "code": "威盛",
-            "weight": 0.14
+            "weight": 4.88
         },
         {
             "code": "京元電子",
-            "weight": 2.17
+            "weight": 2.21
         },
         {
             "code": "聯發科",
-            "weight": 17.79
+            "weight": 20.91
         },
         {
             "code": "聯詠",
-            "weight": 5.68
+            "weight": 4.98
         },
         {
             "code": "智原",
-            "weight": 0.7
+            "weight": 0.62
         },
         {
             "code": "文曄",
-            "weight": 0.96
+            "weight": 0.97
         },
         {
-            "code": "穩懋",
-            "weight": 0.46
+            "code": "弘塑",
+            "weight": 0.39
         },
         {
             "code": "精材",
-            "weight": 0.24
+            "weight": 0.23
         },
         {
             "code": "創意",
-            "weight": 1.26
+            "weight": 1.16
         },
         {
             "code": "力旺",
-            "weight": 3.1
+            "weight": 2.32
         },
         {
             "code": "健策",
-            "weight": 1.56
+            "weight": 1.44
         },
         {
             "code": "世芯-KY",
-            "weight": 4.36
-        },
-        {
-            "code": "家登",
-            "weight": 0.31
+            "weight": 5.44
         },
         {
             "code": "大聯大",
-            "weight": 1.93
+            "weight": 1.84
         },
         {
             "code": "日月光投控",
-            "weight": 7.51
+            "weight": 7.16
         },
         {
             "code": "譜瑞-KY",
-            "weight": 0.83
+            "weight": 0.81
+        },
+        {
+            "code": "祥碩",
+            "weight": 0.84
         },
         {
             "code": "信驊",
-            "weight": 2.2
+            "weight": 1.98
         },
         {
             "code": "世界",
-            "weight": 1.09
+            "weight": 1.02
         },
         {
             "code": "中美晶",
-            "weight": 0.91
+            "weight": 0.97
         },
         {
             "code": "頎邦",
@@ -5386,19 +5298,19 @@ const etfData = {
         },
         {
             "code": "旺矽",
-            "weight": 1.28
+            "weight": 1.34
         },
         {
             "code": "力成",
-            "weight": 1.67
+            "weight": 1.69
         },
         {
             "code": "矽力*-KY",
-            "weight": 2.04
+            "weight": 1.82
         },
         {
             "code": "環球晶",
-            "weight": 0.78
+            "weight": 0.85
         },
         {
             "code": "達發",
@@ -5406,7 +5318,7 @@ const etfData = {
         },
         {
             "code": "愛普*",
-            "weight": 0.34
+            "weight": 0.37
         },
         {
             "code": "采鈺",
@@ -5416,51 +5328,51 @@ const etfData = {
     "富邦台灣半導體(00892)": [
         {
             "code": "中砂",
-            "weight": 1.68
+            "weight": 1.8
         },
         {
             "code": "聯電",
-            "weight": 4.83
+            "weight": 4.77
         },
         {
             "code": "台積電",
-            "weight": 25.79
+            "weight": 27.32
         },
         {
             "code": "瑞昱",
-            "weight": 5.41
+            "weight": 5.5
         },
         {
             "code": "聯發科",
-            "weight": 4.64
+            "weight": 5.09
         },
         {
             "code": "全新",
-            "weight": 1.22
+            "weight": 1.37
         },
         {
             "code": "義隆",
-            "weight": 1.88
+            "weight": 1.89
         },
         {
             "code": "志聖",
-            "weight": 0.76
+            "weight": 0.72
         },
         {
             "code": "聯陽",
-            "weight": 1.08
+            "weight": 1.04
         },
         {
             "code": "聯詠",
-            "weight": 5.24
+            "weight": 4.8
         },
         {
             "code": "弘塑",
-            "weight": 1.79
+            "weight": 1.57
         },
         {
             "code": "原相",
-            "weight": 1.51
+            "weight": 1.39
         },
         {
             "code": "精材",
@@ -5468,279 +5380,279 @@ const etfData = {
         },
         {
             "code": "京鼎",
-            "weight": 1.34
+            "weight": 1.29
         },
         {
             "code": "創意",
-            "weight": 5.34
+            "weight": 5.3
         },
         {
             "code": "聯鈞",
-            "weight": 1.44
+            "weight": 1.38
         },
         {
             "code": "力旺",
-            "weight": 5.03
+            "weight": 4.21
         },
         {
             "code": "瑞鼎",
-            "weight": 1.15
+            "weight": 1.11
         },
         {
             "code": "日月光投控",
-            "weight": 5.8
+            "weight": 5.77
         },
         {
             "code": "新唐",
-            "weight": 0.75
+            "weight": 0.71
         },
         {
             "code": "信驊",
-            "weight": 7.39
+            "weight": 7.1
         },
         {
             "code": "世紀*",
-            "weight": 0.28
+            "weight": 0.43
         },
         {
             "code": "崇越",
-            "weight": 2.46
+            "weight": 2.49
         },
         {
             "code": "萬潤",
-            "weight": 1.58
+            "weight": 1.42
         },
         {
             "code": "旺矽",
-            "weight": 3.93
+            "weight": 4.27
         },
         {
             "code": "精測",
-            "weight": 0.86
+            "weight": 0.84
         },
         {
             "code": "穎崴",
-            "weight": 1.66
+            "weight": 1.44
         },
         {
             "code": "達發",
-            "weight": 1.01
+            "weight": 0.99
         },
         {
             "code": "矽創",
-            "weight": 1.17
+            "weight": 1.14
         },
         {
             "code": "致新",
-            "weight": 0.81
+            "weight": 0.73
         }
     ],
     "國泰智能電動車(00893)": [
         {
             "code": "台泥",
-            "weight": 0.44
+            "weight": 0.38
         },
         {
             "code": "台達電",
-            "weight": 2.14
+            "weight": 2.36
         }
     ],
     "中信小資高價30(00894)": [
         {
             "code": "華城",
-            "weight": 1.81
+            "weight": 2.07
         },
         {
             "code": "亞德客-KY",
-            "weight": 1.51
-        },
-        {
-            "code": "台達電",
-            "weight": 5.22
-        },
-        {
-            "code": "國巨",
-            "weight": 2.54
-        },
-        {
-            "code": "台積電",
-            "weight": 28.98
-        },
-        {
-            "code": "智邦",
-            "weight": 3.86
-        },
-        {
-            "code": "華碩",
-            "weight": 4.04
-        },
-        {
-            "code": "技嘉",
-            "weight": 2.09
-        },
-        {
-            "code": "瑞昱",
-            "weight": 2.86
-        },
-        {
-            "code": "廣達",
-            "weight": 4.56
-        },
-        {
-            "code": "台光電",
-            "weight": 3.34
-        },
-        {
-            "code": "聯發科",
-            "weight": 7.21
-        },
-        {
-            "code": "奇鋐",
-            "weight": 3.15
-        },
-        {
-            "code": "原相",
-            "weight": 0.91
-        },
-        {
-            "code": "鈊象",
-            "weight": 2.36
-        },
-        {
-            "code": "雙鴻",
-            "weight": 1.23
-        },
-        {
-            "code": "昇達科",
-            "weight": 0.69
-        },
-        {
-            "code": "力旺",
-            "weight": 2.03
-        },
-        {
-            "code": "嘉澤",
-            "weight": 1.67
-        },
-        {
-            "code": "世芯-KY",
-            "weight": 2.89
-        },
-        {
-            "code": "貿聯-KY",
-            "weight": 2.53
-        },
-        {
-            "code": "台灣精銳",
-            "weight": 0.31
-        },
-        {
-            "code": "材料-KY",
-            "weight": 0.92
-        },
-        {
-            "code": "祥碩",
             "weight": 1.43
         },
         {
+            "code": "台達電",
+            "weight": 6.05
+        },
+        {
+            "code": "國巨",
+            "weight": 2.68
+        },
+        {
+            "code": "台積電",
+            "weight": 29.45
+        },
+        {
+            "code": "智邦",
+            "weight": 3.89
+        },
+        {
+            "code": "華碩",
+            "weight": 3.59
+        },
+        {
+            "code": "技嘉",
+            "weight": 2.01
+        },
+        {
+            "code": "瑞昱",
+            "weight": 2.78
+        },
+        {
+            "code": "廣達",
+            "weight": 3.97
+        },
+        {
+            "code": "台光電",
+            "weight": 3.68
+        },
+        {
+            "code": "聯發科",
+            "weight": 7.54
+        },
+        {
+            "code": "奇鋐",
+            "weight": 3.4
+        },
+        {
+            "code": "原相",
+            "weight": 0.8
+        },
+        {
+            "code": "鈊象",
+            "weight": 2.06
+        },
+        {
+            "code": "雙鴻",
+            "weight": 1.13
+        },
+        {
+            "code": "昇達科",
+            "weight": 0.63
+        },
+        {
+            "code": "力旺",
+            "weight": 1.65
+        },
+        {
+            "code": "嘉澤",
+            "weight": 1.66
+        },
+        {
+            "code": "世芯-KY",
+            "weight": 3.63
+        },
+        {
+            "code": "貿聯-KY",
+            "weight": 2.52
+        },
+        {
+            "code": "台灣精銳",
+            "weight": 0.24
+        },
+        {
+            "code": "材料-KY",
+            "weight": 0.81
+        },
+        {
+            "code": "祥碩",
+            "weight": 1.29
+        },
+        {
             "code": "信驊",
-            "weight": 2.13
+            "weight": 1.88
         },
         {
             "code": "旺矽",
-            "weight": 1.67
+            "weight": 1.72
         },
         {
             "code": "保瑞",
-            "weight": 0.94
+            "weight": 0.9
         },
         {
             "code": "穎崴",
-            "weight": 1.09
+            "weight": 0.92
         },
         {
             "code": "緯穎",
-            "weight": 2.82
+            "weight": 2.45
         },
         {
             "code": "群聯",
-            "weight": 1.59
+            "weight": 1.5
         }
     ],
     "富邦未來車(00895)": [
         {
             "code": "台積電",
-            "weight": 14.3
+            "weight": 14.36
         }
     ],
     "中信綠能及電動車(00896)": [
         {
             "code": "台泥",
-            "weight": 2.15
+            "weight": 1.95
         },
         {
             "code": "亞泥",
-            "weight": 1.57
+            "weight": 1.46
         },
         {
             "code": "台塑",
-            "weight": 2.32
+            "weight": 2.5
         },
         {
             "code": "南亞",
-            "weight": 1.8
+            "weight": 2.1
         },
         {
             "code": "東陽",
-            "weight": 0.88
+            "weight": 0.9
         },
         {
             "code": "東元",
-            "weight": 1.14
+            "weight": 1.06
         },
         {
             "code": "華新",
-            "weight": 1.49
+            "weight": 1.41
         },
         {
             "code": "中碳",
-            "weight": 0.53
+            "weight": 0.5
         },
         {
             "code": "中鋼",
-            "weight": 2.29
+            "weight": 2.32
         },
         {
             "code": "上銀",
-            "weight": 1.32
+            "weight": 1.29
         },
         {
             "code": "正新",
-            "weight": 1.03
+            "weight": 1.08
         },
         {
             "code": "光寶科",
-            "weight": 2.8
+            "weight": 2.9
         },
         {
             "code": "聯電",
-            "weight": 1.6
+            "weight": 1.53
         },
         {
             "code": "台達電",
-            "weight": 5.44
+            "weight": 6.41
         },
         {
             "code": "鴻海",
-            "weight": 8.13
+            "weight": 8.45
         },
         {
             "code": "台積電",
-            "weight": 12.52
+            "weight": 12.95
         },
         {
             "code": "佳世達",
-            "weight": 1.1
+            "weight": 1.08
         },
         {
             "code": "致茂",
@@ -5748,91 +5660,91 @@ const etfData = {
         },
         {
             "code": "大同",
-            "weight": 1.5
+            "weight": 1.26
         },
         {
             "code": "技嘉",
-            "weight": 2.24
+            "weight": 2.18
         },
         {
             "code": "微星",
-            "weight": 1.63
+            "weight": 1.59
         },
         {
             "code": "瑞昱",
-            "weight": 1.23
+            "weight": 1.21
         },
         {
             "code": "研華",
-            "weight": 1.73
+            "weight": 1.7
         },
         {
             "code": "中華電",
-            "weight": 4.01
+            "weight": 3.64
         },
         {
             "code": "京元電子",
-            "weight": 0.84
+            "weight": 0.87
         },
         {
             "code": "聯發科",
-            "weight": 3.1
+            "weight": 3.3
         },
         {
             "code": "華立",
-            "weight": 0.76
+            "weight": 0.77
         },
         {
             "code": "全漢",
-            "weight": 0.47
+            "weight": 0.44
         },
         {
             "code": "信邦",
-            "weight": 1.17
+            "weight": 1.23
         },
         {
             "code": "聯詠",
-            "weight": 1.3
+            "weight": 1.17
         },
         {
             "code": "台灣大",
-            "weight": 2.32
+            "weight": 2.04
         },
         {
             "code": "順達",
-            "weight": 1.12
+            "weight": 1.05
         },
         {
             "code": "緯創",
-            "weight": 3.75
+            "weight": 3.35
         },
         {
             "code": "力旺",
-            "weight": 0.86
+            "weight": 0.71
         },
         {
             "code": "世芯-KY",
-            "weight": 1.24
+            "weight": 1.53
         },
         {
             "code": "貿聯-KY",
-            "weight": 2.66
+            "weight": 2.63
         },
         {
             "code": "日月光投控",
-            "weight": 1.52
+            "weight": 1.47
         },
         {
             "code": "康普",
-            "weight": 0.48
+            "weight": 0.55
         },
         {
             "code": "和碩",
-            "weight": 1.92
+            "weight": 1.98
         },
         {
             "code": "達興材料",
-            "weight": 0.77
+            "weight": 0.63
         },
         {
             "code": "系統電",
@@ -5840,167 +5752,167 @@ const etfData = {
         },
         {
             "code": "世界",
-            "weight": 0.58
+            "weight": 0.54
         },
         {
             "code": "宣德",
-            "weight": 0.45
+            "weight": 0.44
         },
         {
             "code": "中租-KY",
-            "weight": 2.46
+            "weight": 2.51
         },
         {
             "code": "新普",
-            "weight": 1.53
+            "weight": 1.5
         },
         {
             "code": "康舒",
-            "weight": 0.69
+            "weight": 0.7
         },
         {
             "code": "旭隼",
-            "weight": 1.42
+            "weight": 1.28
         },
         {
             "code": "聚和",
-            "weight": 0.47
+            "weight": 0.44
         },
         {
             "code": "明基材",
-            "weight": 0.46
+            "weight": 0.43
         },
         {
             "code": "世紀鋼",
-            "weight": 1.22
+            "weight": 0.96
         }
     ],
     "富邦特選高股息30(00900)": [
         {
-            "code": "正新",
-            "weight": 2.35
+            "code": "亞泥",
+            "weight": 2.86
         },
         {
-            "code": "聯電",
-            "weight": 4.85
+            "code": "大成",
+            "weight": 0.87
         },
         {
-            "code": "華通",
-            "weight": 1.36
+            "code": "統一",
+            "weight": 4.57
         },
         {
-            "code": "聯強",
-            "weight": 3.41
+            "code": "聚陽",
+            "weight": 3.88
         },
         {
-            "code": "宏碁",
-            "weight": 3.44
+            "code": "台肥",
+            "weight": 0.92
         },
         {
-            "code": "華碩",
-            "weight": 5.68
-        },
-        {
-            "code": "群光",
-            "weight": 3.76
+            "code": "瑞昱",
+            "weight": 4.34
         },
         {
             "code": "漢唐",
-            "weight": 4.36
-        },
-        {
-            "code": "創見",
-            "weight": 1.13
+            "weight": 3.84
         },
         {
             "code": "聯發科",
-            "weight": 4.59
+            "weight": 5.24
         },
         {
-            "code": "國產",
-            "weight": 2.17
+            "code": "可成",
+            "weight": 4.64
         },
         {
-            "code": "長榮",
-            "weight": 4.61
-        },
-        {
-            "code": "裕民",
-            "weight": 0.78
-        },
-        {
-            "code": "陽明",
-            "weight": 4.83
-        },
-        {
-            "code": "華航",
-            "weight": 4.01
-        },
-        {
-            "code": "長榮航",
-            "weight": 4.82
-        },
-        {
-            "code": "慧洋-KY",
-            "weight": 1.04
-        },
-        {
-            "code": "國泰金",
-            "weight": 5.37
-        },
-        {
-            "code": "神基",
-            "weight": 1.71
-        },
-        {
-            "code": "聯詠",
-            "weight": 4.86
-        },
-        {
-            "code": "健鼎",
-            "weight": 4.91
-        },
-        {
-            "code": "南寶",
-            "weight": 0.86
-        },
-        {
-            "code": "和碩",
-            "weight": 4.17
-        },
-        {
-            "code": "臻鼎-KY",
-            "weight": 1.93
-        },
-        {
-            "code": "世界",
-            "weight": 3.67
-        },
-        {
-            "code": "群益證",
-            "weight": 1.73
-        },
-        {
-            "code": "新普",
-            "weight": 2.44
-        },
-        {
-            "code": "頎邦",
-            "weight": 1.46
-        },
-        {
-            "code": "瑞儀",
+            "code": "興富發",
             "weight": 2.72
         },
         {
+            "code": "華南金",
+            "weight": 4.83
+        },
+        {
+            "code": "玉山金",
+            "weight": 4.58
+        },
+        {
+            "code": "兆豐金",
+            "weight": 4.77
+        },
+        {
+            "code": "台新金",
+            "weight": 4.77
+        },
+        {
+            "code": "永豐金",
+            "weight": 4.42
+        },
+        {
+            "code": "大立光",
+            "weight": 3.84
+        },
+        {
+            "code": "信邦",
+            "weight": 1.47
+        },
+        {
+            "code": "玉晶光",
+            "weight": 0.96
+        },
+        {
+            "code": "大聯大",
+            "weight": 3.18
+        },
+        {
+            "code": "材料-KY",
+            "weight": 4.1
+        },
+        {
+            "code": "中美晶",
+            "weight": 4.19
+        },
+        {
+            "code": "聖暉*",
+            "weight": 1.18
+        },
+        {
+            "code": "中租-KY",
+            "weight": 4.05
+        },
+        {
+            "code": "新普",
+            "weight": 2.71
+        },
+        {
+            "code": "亞翔",
+            "weight": 1.68
+        },
+        {
+            "code": "力成",
+            "weight": 3.58
+        },
+        {
+            "code": "環球晶",
+            "weight": 2.06
+        },
+        {
+            "code": "洋基工程",
+            "weight": 1.02
+        },
+        {
+            "code": "台灣虎航",
+            "weight": 1.68
+        },
+        {
             "code": "群聯",
-            "weight": 2.85
+            "weight": 3.08
         }
     ],
     "永豐智能車供應鏈(00901)": [
         {
             "code": "亞泥",
-            "weight": 0.65
+            "weight": 0.59
         },
         {
             "code": "東陽",
@@ -6008,27 +5920,27 @@ const etfData = {
         },
         {
             "code": "士電",
-            "weight": 0.35
+            "weight": 0.32
         },
         {
             "code": "東元",
-            "weight": 0.39
+            "weight": 0.35
         },
         {
             "code": "中興電",
-            "weight": 0.44
+            "weight": 0.41
         },
         {
             "code": "華城",
-            "weight": 0.7
+            "weight": 0.79
         },
         {
             "code": "華新",
-            "weight": 0.5
+            "weight": 0.46
         },
         {
             "code": "川湖",
-            "weight": 0.75
+            "weight": 0.85
         },
         {
             "code": "正新",
@@ -6036,27 +5948,27 @@ const etfData = {
         },
         {
             "code": "光寶科",
-            "weight": 1.18
+            "weight": 1.19
         },
         {
             "code": "聯電",
-            "weight": 2.59
+            "weight": 2.41
         },
         {
             "code": "台達電",
-            "weight": 5.38
+            "weight": 6.16
         },
         {
             "code": "鴻海",
-            "weight": 9.63
+            "weight": 9.74
         },
         {
             "code": "國巨",
-            "weight": 1.15
+            "weight": 1.2
         },
         {
             "code": "台積電",
-            "weight": 30.79
+            "weight": 30.92
         },
         {
             "code": "智邦",
@@ -6064,71 +5976,71 @@ const etfData = {
         },
         {
             "code": "鴻準",
-            "weight": 0.46
+            "weight": 0.43
         },
         {
             "code": "華碩",
-            "weight": 2.47
+            "weight": 2.17
         },
         {
             "code": "致茂",
-            "weight": 0.91
+            "weight": 0.89
         },
         {
             "code": "大同",
-            "weight": 0.44
+            "weight": 0.36
         },
         {
             "code": "微星",
-            "weight": 0.49
+            "weight": 0.46
         },
         {
             "code": "瑞昱",
-            "weight": 1.38
+            "weight": 1.32
         },
         {
             "code": "廣達",
-            "weight": 4.07
+            "weight": 3.5
         },
         {
             "code": "台光電",
-            "weight": 1.37
+            "weight": 1.49
         },
         {
             "code": "研華",
-            "weight": 0.83
+            "weight": 0.8
         },
         {
             "code": "漢唐",
-            "weight": 0.55
+            "weight": 0.63
         },
         {
             "code": "友達",
-            "weight": 0.44
+            "weight": 0.41
         },
         {
             "code": "聯發科",
-            "weight": 9.53
+            "weight": 9.88
         },
         {
             "code": "可成",
-            "weight": 0.64
+            "weight": 0.61
         },
         {
             "code": "大立光",
-            "weight": 1.29
+            "weight": 1.21
         },
         {
             "code": "奇鋐",
-            "weight": 1.24
+            "weight": 1.33
         },
         {
             "code": "聯詠",
-            "weight": 1.58
+            "weight": 1.37
         },
         {
             "code": "欣興",
-            "weight": 0.74
+            "weight": 0.8
         },
         {
             "code": "穩懋",
@@ -6136,43 +6048,43 @@ const etfData = {
         },
         {
             "code": "緯創",
-            "weight": 1.76
+            "weight": 1.54
         },
         {
             "code": "創意",
-            "weight": 0.54
-        },
-        {
-            "code": "群創",
-            "weight": 0.46
-        },
-        {
-            "code": "力旺",
-            "weight": 0.84
-        },
-        {
-            "code": "健策",
-            "weight": 0.78
-        },
-        {
-            "code": "日月光投控",
-            "weight": 2.53
-        },
-        {
-            "code": "和碩",
-            "weight": 0.77
-        },
-        {
-            "code": "世界",
             "weight": 0.51
         },
         {
+            "code": "群創",
+            "weight": 0.44
+        },
+        {
+            "code": "力旺",
+            "weight": 0.66
+        },
+        {
+            "code": "健策",
+            "weight": 0.71
+        },
+        {
+            "code": "日月光投控",
+            "weight": 2.38
+        },
+        {
+            "code": "和碩",
+            "weight": 0.78
+        },
+        {
+            "code": "世界",
+            "weight": 0.47
+        },
+        {
             "code": "中美晶",
-            "weight": 0.33
+            "weight": 0.36
         },
         {
             "code": "新普",
-            "weight": 0.41
+            "weight": 0.39
         },
         {
             "code": "瑞儀",
@@ -6180,149 +6092,149 @@ const etfData = {
         },
         {
             "code": "啟碁",
-            "weight": 0.23
+            "weight": 0.21
         },
         {
             "code": "旭隼",
-            "weight": 0.47
+            "weight": 0.41
         },
         {
             "code": "環球晶",
-            "weight": 0.39
+            "weight": 0.42
         },
         {
             "code": "緯穎",
-            "weight": 1.58
+            "weight": 1.38
         },
         {
             "code": "元太",
-            "weight": 1.0
+            "weight": 0.91
         }
     ],
     "中信電池及儲能(00902)": [
         {
             "code": "旭隼",
-            "weight": 2.04
+            "weight": 1.54
         }
     ],
     "富邦元宇宙(00903)": [
         {
             "code": "宏達電",
-            "weight": 1.65
+            "weight": 1.56
         }
     ],
     "新光臺灣半導體30(00904)": [
         {
             "code": "聯電",
-            "weight": 4.44
+            "weight": 4.21
         },
         {
             "code": "台積電",
-            "weight": 30.73
+            "weight": 31.31
         },
         {
             "code": "華邦電",
-            "weight": 1.29
+            "weight": 1.06
         },
         {
             "code": "瑞昱",
-            "weight": 2.71
+            "weight": 2.65
         },
         {
             "code": "南亞科",
-            "weight": 1.33
+            "weight": 1.0
         },
         {
             "code": "京元電子",
-            "weight": 2.22
+            "weight": 2.27
         },
         {
             "code": "創見",
-            "weight": 0.78
+            "weight": 0.65
         },
         {
             "code": "聯發科",
-            "weight": 16.93
+            "weight": 17.82
         },
         {
             "code": "聯詠",
-            "weight": 2.72
+            "weight": 2.4
         },
         {
             "code": "智原",
-            "weight": 0.9
+            "weight": 0.83
         },
         {
             "code": "創意",
-            "weight": 2.08
+            "weight": 1.96
         },
         {
             "code": "力旺",
-            "weight": 2.6
+            "weight": 2.15
         },
         {
             "code": "世芯-KY",
-            "weight": 2.72
+            "weight": 3.43
         },
         {
             "code": "日月光投控",
-            "weight": 4.35
+            "weight": 4.15
         },
         {
             "code": "新應材",
-            "weight": 1.04
+            "weight": 0.97
         },
         {
             "code": "譜瑞-KY",
-            "weight": 0.92
+            "weight": 0.89
         },
         {
             "code": "祥碩",
-            "weight": 1.82
+            "weight": 1.69
         },
         {
             "code": "信驊",
-            "weight": 2.69
+            "weight": 2.5
         },
         {
             "code": "世界",
-            "weight": 1.95
+            "weight": 1.82
         },
         {
             "code": "中美晶",
-            "weight": 1.09
+            "weight": 1.18
         },
         {
             "code": "頎邦",
-            "weight": 0.8
+            "weight": 0.77
         },
         {
             "code": "旺矽",
-            "weight": 1.51
+            "weight": 1.56
         },
         {
             "code": "力成",
-            "weight": 1.8
+            "weight": 1.82
         },
         {
             "code": "矽力*-KY",
-            "weight": 2.36
+            "weight": 2.1
         },
         {
             "code": "環球晶",
-            "weight": 1.5
+            "weight": 1.63
         },
         {
             "code": "達發",
-            "weight": 0.68
+            "weight": 0.65
         },
         {
             "code": "愛普*",
-            "weight": 0.86
+            "weight": 0.87
         },
         {
             "code": "力積電",
-            "weight": 1.03
+            "weight": 0.98
         },
         {
             "code": "采鈺",
@@ -6330,129 +6242,185 @@ const etfData = {
         },
         {
             "code": "群聯",
-            "weight": 1.7
+            "weight": 1.64
         }
     ],
     "FT臺灣SMART(00905)": [
         {
             "code": "大成",
-            "weight": 0.39
+            "weight": 0.38
         },
         {
-            "code": "聯華食",
-            "weight": 0.26
+            "code": "卜蜂",
+            "weight": 0.23
+        },
+        {
+            "code": "大統益",
+            "weight": 0.03
         },
         {
             "code": "三芳",
-            "weight": 0.11
+            "weight": 0.09
         },
         {
             "code": "東陽",
             "weight": 0.41
         },
         {
+            "code": "名軒",
+            "weight": 0.09
+        },
+        {
+            "code": "儒鴻",
+            "weight": 0.53
+        },
+        {
             "code": "聚陽",
-            "weight": 0.41
+            "weight": 0.43
         },
         {
             "code": "華城",
-            "weight": 1.15
+            "weight": 0.68
+        },
+        {
+            "code": "堤維西",
+            "weight": 0.09
         },
         {
             "code": "廣隆",
             "weight": 0.08
         },
         {
-            "code": "信錦",
-            "weight": 0.07
+            "code": "亞德客-KY",
+            "weight": 0.61
+        },
+        {
+            "code": "大山",
+            "weight": 0.01
         },
         {
             "code": "葡萄王",
             "weight": 0.13
         },
         {
-            "code": "興農",
-            "weight": 0.12
+            "code": "東鹼",
+            "weight": 0.05
         },
         {
-            "code": "國化",
-            "weight": 0.06
+            "code": "興農",
+            "weight": 0.11
         },
         {
             "code": "生達",
             "weight": 0.07
         },
         {
+            "code": "美時",
+            "weight": 0.41
+        },
+        {
+            "code": "東和鋼鐵",
+            "weight": 0.32
+        },
+        {
             "code": "川湖",
-            "weight": 1.45
+            "weight": 0.99
+        },
+        {
+            "code": "厚生",
+            "weight": 0.02
         },
         {
             "code": "宇隆",
             "weight": 0.08
         },
         {
+            "code": "聯電",
+            "weight": 0.6
+        },
+        {
             "code": "台達電",
-            "weight": 3.76
+            "weight": 4.08
         },
         {
             "code": "鴻海",
-            "weight": 5.44
+            "weight": 5.18
         },
         {
             "code": "台積電",
-            "weight": 31.42
+            "weight": 30.16
         },
         {
             "code": "智邦",
-            "weight": 2.95
+            "weight": 0.74
+        },
+        {
+            "code": "華碩",
+            "weight": 0.63
         },
         {
             "code": "致茂",
-            "weight": 1.18
+            "weight": 0.53
+        },
+        {
+            "code": "金像電",
+            "weight": 0.71
         },
         {
             "code": "瑞昱",
-            "weight": 2.02
+            "weight": 0.79
         },
         {
             "code": "廣達",
-            "weight": 4.19
+            "weight": 3.17
         },
         {
-            "code": "精元",
-            "weight": 0.06
+            "code": "台光電",
+            "weight": 0.8
+        },
+        {
+            "code": "群光",
+            "weight": 0.6
         },
         {
             "code": "億光",
-            "weight": 0.22
-        },
-        {
-            "code": "漢唐",
-            "weight": 0.85
-        },
-        {
-            "code": "中華電",
-            "weight": 3.62
-        },
-        {
-            "code": "新巨",
-            "weight": 0.06
-        },
-        {
-            "code": "超豐",
             "weight": 0.23
         },
         {
+            "code": "研華",
+            "weight": 0.57
+        },
+        {
+            "code": "漢唐",
+            "weight": 0.98
+        },
+        {
+            "code": "中華電",
+            "weight": 3.09
+        },
+        {
+            "code": "建準",
+            "weight": 0.2
+        },
+        {
+            "code": "超豐",
+            "weight": 0.24
+        },
+        {
+            "code": "京元電子",
+            "weight": 0.74
+        },
+        {
             "code": "聯發科",
-            "weight": 4.85
+            "weight": 5.13
         },
         {
             "code": "義隆",
-            "weight": 0.27
+            "weight": 0.25
         },
         {
             "code": "立隆電",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "敦陽科",
@@ -6464,51 +6432,47 @@ const etfData = {
         },
         {
             "code": "冠德",
-            "weight": 0.19
-        },
-        {
-            "code": "京城",
-            "weight": 0.11
-        },
-        {
-            "code": "宏璟",
-            "weight": 0.03
+            "weight": 0.2
         },
         {
             "code": "皇昌",
-            "weight": 0.26
+            "weight": 0.23
+        },
+        {
+            "code": "日勝生",
+            "weight": 0.08
         },
         {
             "code": "潤弘",
-            "weight": 0.31
+            "weight": 0.32
         },
         {
             "code": "長榮",
-            "weight": 2.37
+            "weight": 0.86
         },
         {
-            "code": "新興",
-            "weight": 0.09
+            "code": "榮運",
+            "weight": 0.24
         },
         {
             "code": "陽明",
-            "weight": 1.85
+            "weight": 0.69
         },
         {
-            "code": "中航",
-            "weight": 0.06
+            "code": "華航",
+            "weight": 0.6
         },
         {
             "code": "萬海",
-            "weight": 1.89
+            "weight": 0.72
         },
         {
             "code": "長榮航",
-            "weight": 1.51
+            "weight": 0.68
         },
         {
             "code": "晶華",
-            "weight": 0.17
+            "weight": 0.16
         },
         {
             "code": "美食-KY",
@@ -6516,39 +6480,63 @@ const etfData = {
         },
         {
             "code": "王品",
-            "weight": 0.15
+            "weight": 0.13
         },
         {
             "code": "雄獅",
-            "weight": 0.1
+            "weight": 0.09
         },
         {
             "code": "台中銀",
-            "weight": 0.82
+            "weight": 0.63
+        },
+        {
+            "code": "台產",
+            "weight": 0.07
         },
         {
             "code": "新產",
-            "weight": 0.24
+            "weight": 0.2
         },
         {
             "code": "第一保",
-            "weight": 0.06
+            "weight": 0.05
+        },
+        {
+            "code": "富邦金",
+            "weight": 3.27
+        },
+        {
+            "code": "國泰金",
+            "weight": 3.05
+        },
+        {
+            "code": "凱基金",
+            "weight": 0.7
+        },
+        {
+            "code": "中信金",
+            "weight": 2.9
         },
         {
             "code": "統一超",
-            "weight": 1.89
+            "weight": 0.63
+        },
+        {
+            "code": "神基",
+            "weight": 0.48
         },
         {
             "code": "大立光",
-            "weight": 2.23
+            "weight": 0.57
         },
         {
             "code": "聯陽",
-            "weight": 0.16
+            "weight": 0.15
         },
         {
             "code": "亞光",
-            "weight": 0.28
+            "weight": 0.24
         },
         {
             "code": "零壹",
@@ -6556,67 +6544,59 @@ const etfData = {
         },
         {
             "code": "德律",
-            "weight": 0.24
-        },
-        {
-            "code": "偉訓",
-            "weight": 0.07
-        },
-        {
-            "code": "聯詠",
-            "weight": 2.31
-        },
-        {
-            "code": "健鼎",
-            "weight": 0.93
-        },
-        {
-            "code": "富華新",
-            "weight": 0.08
-        },
-        {
-            "code": "一零四",
-            "weight": 0.04
-        },
-        {
-            "code": "玉晶光",
-            "weight": 0.33
-        },
-        {
-            "code": "京鼎",
-            "weight": 0.23
-        },
-        {
-            "code": "融程電",
-            "weight": 0.08
-        },
-        {
-            "code": "聯鈞",
             "weight": 0.22
         },
         {
-            "code": "群創",
-            "weight": 0.64
+            "code": "聯詠",
+            "weight": 0.59
+        },
+        {
+            "code": "健鼎",
+            "weight": 0.66
+        },
+        {
+            "code": "富華新",
+            "weight": 0.09
+        },
+        {
+            "code": "一零四",
+            "weight": 0.05
+        },
+        {
+            "code": "全科",
+            "weight": 0.06
+        },
+        {
+            "code": "玉晶光",
+            "weight": 0.32
+        },
+        {
+            "code": "京鼎",
+            "weight": 0.21
         },
         {
             "code": "嘉澤",
-            "weight": 1.1
+            "weight": 0.69
         },
         {
             "code": "智易",
             "weight": 0.31
         },
         {
-            "code": "碩天",
-            "weight": 0.17
+            "code": "健策",
+            "weight": 0.55
+        },
+        {
+            "code": "世芯-KY",
+            "weight": 0.75
         },
         {
             "code": "貿聯-KY",
-            "weight": 1.09
+            "weight": 0.63
         },
         {
             "code": "新至陞",
-            "weight": 0.04
+            "weight": 0.06
         },
         {
             "code": "海華",
@@ -6628,15 +6608,11 @@ const etfData = {
         },
         {
             "code": "瑞智",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "拓凱",
-            "weight": 0.12
-        },
-        {
-            "code": "智伸科",
-            "weight": 0.1
+            "weight": 0.11
         },
         {
             "code": "鈞興-KY",
@@ -6644,39 +6620,47 @@ const etfData = {
         },
         {
             "code": "材料-KY",
-            "weight": 0.63
+            "weight": 0.52
         },
         {
-            "code": "臻鼎-KY",
-            "weight": 0.68
+            "code": "南寶",
+            "weight": 0.25
         },
         {
-            "code": "東科-KY",
-            "weight": 0.05
+            "code": "致伸",
+            "weight": 0.23
+        },
+        {
+            "code": "三星",
+            "weight": 0.01
         },
         {
             "code": "達興材料",
-            "weight": 0.21
+            "weight": 0.16
         },
         {
             "code": "豐祥-KY",
-            "weight": 0.07
-        },
-        {
-            "code": "崇越",
-            "weight": 0.39
+            "weight": 0.06
         },
         {
             "code": "瀚宇博",
-            "weight": 0.21
+            "weight": 0.22
+        },
+        {
+            "code": "群益期",
+            "weight": 0.08
         },
         {
             "code": "亞翔",
-            "weight": 0.56
+            "weight": 0.57
         },
         {
-            "code": "巨路",
-            "weight": 0.07
+            "code": "大豐電",
+            "weight": 0.02
+        },
+        {
+            "code": "精成科",
+            "weight": 0.34
         },
         {
             "code": "帆宣",
@@ -6684,39 +6668,31 @@ const etfData = {
         },
         {
             "code": "佳必琪",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "飛捷",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "力成",
-            "weight": 0.71
+            "weight": 0.63
         },
         {
             "code": "矽格",
-            "weight": 0.28
-        },
-        {
-            "code": "全國電",
-            "weight": 0.02
+            "weight": 0.25
         },
         {
             "code": "旭隼",
-            "weight": 0.8
+            "weight": 0.58
         },
         {
             "code": "樺漢",
-            "weight": 0.31
-        },
-        {
-            "code": "迅得",
-            "weight": 0.1
+            "weight": 0.27
         },
         {
             "code": "光聖",
-            "weight": 0.24
+            "weight": 0.3
         },
         {
             "code": "晶碩",
@@ -6727,48 +6703,44 @@ const etfData = {
             "weight": 0.06
         },
         {
-            "code": "鋼聯",
-            "weight": 0.08
-        },
-        {
             "code": "帝寶",
-            "weight": 0.22
+            "weight": 0.2
         },
         {
             "code": "復盛應用",
-            "weight": 0.29
+            "weight": 0.26
         },
         {
-            "code": "致新",
-            "weight": 0.15
-        },
-        {
-            "code": "振樺電",
+            "code": "矽創",
             "weight": 0.16
         },
         {
+            "code": "致新",
+            "weight": 0.12
+        },
+        {
+            "code": "振樺電",
+            "weight": 0.12
+        },
+        {
             "code": "富邦媒",
-            "weight": 0.48
+            "weight": 0.47
         },
         {
-            "code": "億豐",
-            "weight": 0.83
-        },
-        {
-            "code": "波力-KY",
+            "code": "柏文",
             "weight": 0.06
         },
         {
-            "code": "商億-KY",
-            "weight": 0.04
+            "code": "億豐",
+            "weight": 0.78
         },
         {
-            "code": "鈺齊-KY",
-            "weight": 0.15
+            "code": "寶成",
+            "weight": 0.53
         },
         {
-            "code": "欣巴巴",
-            "weight": 0.05
+            "code": "統一實",
+            "weight": 0.19
         },
         {
             "code": "櫻花",
@@ -6779,6 +6751,18 @@ const etfData = {
             "weight": 0.06
         },
         {
+            "code": "泰銘",
+            "weight": 0.04
+        },
+        {
+            "code": "中聯資源",
+            "weight": 0.06
+        },
+        {
+            "code": "百和",
+            "weight": 0.11
+        },
+        {
             "code": "茂順",
             "weight": 0.07
         }
@@ -6786,151 +6770,151 @@ const etfData = {
     "永豐優息存股(00907)": [
         {
             "code": "亞泥",
-            "weight": 3.1
+            "weight": 2.95
         },
         {
             "code": "東陽",
-            "weight": 2.41
+            "weight": 2.53
         },
         {
             "code": "儒鴻",
-            "weight": 2.89
+            "weight": 2.76
         },
         {
             "code": "聚陽",
-            "weight": 4.12
+            "weight": 4.59
         },
         {
             "code": "東元",
-            "weight": 2.97
+            "weight": 2.84
         },
         {
             "code": "中興電",
-            "weight": 2.58
+            "weight": 2.55
         },
         {
             "code": "上銀",
-            "weight": 0.79
+            "weight": 0.8
         },
         {
             "code": "正新",
-            "weight": 2.78
+            "weight": 2.98
         },
         {
             "code": "長榮",
-            "weight": 8.56
+            "weight": 8.32
         },
         {
             "code": "陽明",
-            "weight": 6.7
+            "weight": 5.76
         },
         {
             "code": "華航",
-            "weight": 2.72
+            "weight": 2.64
         },
         {
             "code": "萬海",
-            "weight": 2.23
+            "weight": 2.12
         },
         {
             "code": "長榮航",
-            "weight": 4.43
+            "weight": 4.31
         },
         {
             "code": "台灣高鐵",
-            "weight": 2.89
+            "weight": 2.73
         },
         {
             "code": "彰銀",
-            "weight": 2.22
+            "weight": 2.33
         },
         {
             "code": "台中銀",
-            "weight": 1.52
+            "weight": 1.55
         },
         {
             "code": "臺企銀",
-            "weight": 1.1
+            "weight": 1.17
         },
         {
             "code": "富邦金",
-            "weight": 4.48
+            "weight": 4.31
         },
         {
             "code": "玉山金",
-            "weight": 3.4
+            "weight": 3.43
         },
         {
             "code": "元大金",
-            "weight": 4.18
+            "weight": 3.89
         },
         {
             "code": "兆豐金",
-            "weight": 3.25
+            "weight": 3.36
         },
         {
             "code": "永豐金",
-            "weight": 3.28
+            "weight": 3.38
         },
         {
             "code": "中信金",
-            "weight": 4.72
+            "weight": 4.52
         },
         {
             "code": "統一超",
-            "weight": 2.78
+            "weight": 2.81
         },
         {
             "code": "上海商銀",
-            "weight": 3.04
+            "weight": 2.84
         },
         {
             "code": "合庫金",
-            "weight": 2.35
+            "weight": 2.4
         },
         {
             "code": "群益證",
-            "weight": 2.48
+            "weight": 2.51
         },
         {
             "code": "億豐",
-            "weight": 2.42
+            "weight": 2.49
         },
         {
             "code": "寶成",
-            "weight": 4.1
+            "weight": 3.89
         },
         {
             "code": "豐泰",
-            "weight": 3.16
+            "weight": 3.18
         }
     ],
     "第一金太空衛星(00910)": [
         {
             "code": "全新",
-            "weight": 2.72
+            "weight": 2.75
         },
         {
             "code": "同欣電",
-            "weight": 2.59
+            "weight": 2.45
         },
         {
             "code": "啟碁",
-            "weight": 2.42
+            "weight": 2.21
         }
     ],
     "中信臺灣智慧50(00912)": [
         {
             "code": "台泥",
-            "weight": 0.74
+            "weight": 0.06
         },
         {
             "code": "統一",
-            "weight": 0.08
+            "weight": 0.15
         },
         {
             "code": "台塑",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "南亞",
@@ -6942,31 +6926,31 @@ const etfData = {
         },
         {
             "code": "光寶科",
-            "weight": 0.21
+            "weight": 0.39
         },
         {
             "code": "聯電",
-            "weight": 1.47
+            "weight": 1.18
         },
         {
             "code": "台達電",
-            "weight": 1.06
+            "weight": 1.86
         },
         {
             "code": "鴻海",
-            "weight": 1.98
+            "weight": 1.33
         },
         {
             "code": "國巨",
-            "weight": 1.05
+            "weight": 1.92
         },
         {
             "code": "台積電",
-            "weight": 32.26
+            "weight": 30.28
         },
         {
             "code": "智邦",
-            "weight": 0.78
+            "weight": 0.79
         },
         {
             "code": "華碩",
@@ -6974,201 +6958,201 @@ const etfData = {
         },
         {
             "code": "瑞昱",
-            "weight": 2.32
+            "weight": 2.91
         },
         {
             "code": "廣達",
-            "weight": 0.1
+            "weight": 0.05
+        },
+        {
+            "code": "台光電",
+            "weight": 1.87
         },
         {
             "code": "研華",
-            "weight": 1.22
+            "weight": 1.95
         },
         {
             "code": "中華電",
-            "weight": 1.46
+            "weight": 1.43
         },
         {
             "code": "聯發科",
-            "weight": 5.25
+            "weight": 5.57
         },
         {
             "code": "長榮",
-            "weight": 2.64
+            "weight": 3.11
         },
         {
             "code": "陽明",
-            "weight": 2.9
+            "weight": 1.72
         },
         {
             "code": "萬海",
-            "weight": 4.22
+            "weight": 3.09
         },
         {
             "code": "長榮航",
-            "weight": 2.24
+            "weight": 2.34
         },
         {
             "code": "華南金",
-            "weight": 0.53
+            "weight": 0.6
         },
         {
             "code": "富邦金",
-            "weight": 1.62
+            "weight": 1.51
         },
         {
             "code": "國泰金",
-            "weight": 0.28
+            "weight": 1.19
         },
         {
             "code": "凱基金",
-            "weight": 1.15
+            "weight": 1.9
         },
         {
             "code": "玉山金",
-            "weight": 0.54
+            "weight": 0.75
         },
         {
             "code": "元大金",
-            "weight": 1.09
+            "weight": 0.76
         },
         {
             "code": "兆豐金",
-            "weight": 0.22
+            "weight": 0.31
         },
         {
             "code": "台新金",
-            "weight": 1.5
+            "weight": 2.26
         },
         {
             "code": "永豐金",
-            "weight": 1.26
+            "weight": 1.5
         },
         {
             "code": "中信金",
-            "weight": 1.49
+            "weight": 1.46
         },
         {
             "code": "第一金",
-            "weight": 0.41
+            "weight": 0.8
         },
         {
             "code": "統一超",
-            "weight": 0.77
+            "weight": 1.17
         },
         {
             "code": "大立光",
-            "weight": 3.04
+            "weight": 2.93
         },
         {
             "code": "奇鋐",
-            "weight": 1.78
+            "weight": 1.74
         },
         {
             "code": "聯詠",
-            "weight": 2.98
+            "weight": 3.1
         },
         {
             "code": "台灣大",
-            "weight": 0.09
+            "weight": 0.05
         },
         {
             "code": "緯創",
-            "weight": 0.11
+            "weight": 0.06
         },
         {
             "code": "鈊象",
-            "weight": 5.16
-        },
-        {
-            "code": "力旺",
-            "weight": 4.73
+            "weight": 3.99
         },
         {
             "code": "世芯-KY",
-            "weight": 2.06
+            "weight": 2.62
         },
         {
             "code": "日月光投控",
-            "weight": 0.1
+            "weight": 0.06
         },
         {
             "code": "遠傳",
-            "weight": 0.98
+            "weight": 1.12
         },
         {
             "code": "和碩",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "上海商銀",
-            "weight": 1.67
+            "weight": 1.64
         },
         {
             "code": "合庫金",
-            "weight": 0.23
+            "weight": 0.36
         },
         {
             "code": "台塑化",
-            "weight": 0.09
+            "weight": 0.07
         },
         {
             "code": "緯穎",
-            "weight": 0.3
+            "weight": 0.03
         },
         {
             "code": "元太",
-            "weight": 1.56
+            "weight": 2.23
         }
     ],
     "兆豐台灣晶圓製造(00913)": [
         {
             "code": "光洋科",
-            "weight": 1.94
+            "weight": 1.77
         },
         {
             "code": "聯電",
-            "weight": 9.34
+            "weight": 8.94
         },
         {
             "code": "台積電",
-            "weight": 26.3
+            "weight": 27.12
         },
         {
             "code": "致茂",
-            "weight": 3.7
+            "weight": 3.69
         },
         {
             "code": "大同",
-            "weight": 2.68
+            "weight": 2.26
         },
         {
             "code": "瑞昱",
-            "weight": 3.54
+            "weight": 3.49
         },
         {
             "code": "京元電子",
-            "weight": 0.39
+            "weight": 0.4
         },
         {
             "code": "聯發科",
-            "weight": 9.83
+            "weight": 10.46
         },
         {
             "code": "義隆",
-            "weight": 1.14
+            "weight": 1.11
         },
         {
             "code": "聯詠",
-            "weight": 3.61
+            "weight": 3.21
         },
         {
             "code": "智原",
-            "weight": 2.57
+            "weight": 2.38
         },
         {
             "code": "穩懋",
-            "weight": 1.22
+            "weight": 1.21
         },
         {
             "code": "欣銓",
@@ -7176,43 +7160,43 @@ const etfData = {
         },
         {
             "code": "創意",
-            "weight": 3.19
+            "weight": 3.08
         },
         {
             "code": "力旺",
-            "weight": 2.84
+            "weight": 2.31
         },
         {
             "code": "家登",
-            "weight": 1.22
+            "weight": 0.97
         },
         {
             "code": "日月光投控",
-            "weight": 1.65
+            "weight": 1.6
         },
         {
             "code": "祥碩",
-            "weight": 3.03
+            "weight": 2.91
         },
         {
             "code": "信驊",
-            "weight": 4.19
+            "weight": 3.85
         },
         {
             "code": "世界",
-            "weight": 2.85
+            "weight": 2.69
         },
         {
             "code": "崇越",
-            "weight": 0.81
+            "weight": 0.8
         },
         {
             "code": "中美晶",
-            "weight": 1.65
+            "weight": 1.83
         },
         {
             "code": "聖暉*",
-            "weight": 1.17
+            "weight": 1.34
         },
         {
             "code": "頎邦",
@@ -7220,7 +7204,7 @@ const etfData = {
         },
         {
             "code": "旺矽",
-            "weight": 0.25
+            "weight": 0.26
         },
         {
             "code": "力成",
@@ -7228,285 +7212,281 @@ const etfData = {
         },
         {
             "code": "矽格",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "環球晶",
-            "weight": 3.08
+            "weight": 3.4
         },
         {
             "code": "愛普*",
-            "weight": 1.23
+            "weight": 1.25
         },
         {
             "code": "群聯",
-            "weight": 3.05
+            "weight": 2.94
         }
     ],
     "凱基優選高股息30(00915)": [
         {
+            "code": "潤隆",
+            "weight": 2.16
+        },
+        {
             "code": "三陽工業",
-            "weight": 0.6
+            "weight": 0.29
         },
         {
             "code": "聯電",
-            "weight": 8.54
+            "weight": 6.58
         },
         {
             "code": "聯強",
-            "weight": 4.67
+            "weight": 2.58
         },
         {
-            "code": "微星",
-            "weight": 1.8
+            "code": "瑞昱",
+            "weight": 2.74
         },
         {
-            "code": "億光",
-            "weight": 1.71
+            "code": "群光",
+            "weight": 5.32
         },
         {
-            "code": "義隆",
-            "weight": 0.49
+            "code": "華航",
+            "weight": 3.13
         },
         {
             "code": "長榮航",
-            "weight": 7.34
+            "weight": 7.93
         },
         {
-            "code": "京城銀",
-            "weight": 3.36
+            "code": "富邦金",
+            "weight": 7.85
         },
         {
-            "code": "兆豐金",
-            "weight": 8.52
+            "code": "國泰金",
+            "weight": 7.43
+        },
+        {
+            "code": "凱基金",
+            "weight": 2.9
+        },
+        {
+            "code": "元大金",
+            "weight": 5.92
         },
         {
             "code": "台新金",
-            "weight": 4.45
+            "weight": 3.06
         },
         {
             "code": "中信金",
-            "weight": 9.12
+            "weight": 8.24
         },
         {
-            "code": "信邦",
-            "weight": 0.52
+            "code": "潤泰全",
+            "weight": 0.58
         },
         {
             "code": "聯詠",
-            "weight": 5.81
+            "weight": 4.3
         },
         {
             "code": "晶技",
-            "weight": 3.44
-        },
-        {
-            "code": "欣銓",
-            "weight": 1.74
+            "weight": 2.12
         },
         {
             "code": "瑞鼎",
-            "weight": 1.49
-        },
-        {
-            "code": "智易",
-            "weight": 1.56
-        },
-        {
-            "code": "榮剛",
-            "weight": 2.68
-        },
-        {
-            "code": "中磊",
-            "weight": 0.55
+            "weight": 1.77
         },
         {
             "code": "崇越",
-            "weight": 0.63
-        },
-        {
-            "code": "中美晶",
-            "weight": 1.35
+            "weight": 0.31
         },
         {
             "code": "中租-KY",
-            "weight": 8.54
+            "weight": 6.63
+        },
+        {
+            "code": "上海商銀",
+            "weight": 0.74
         },
         {
             "code": "群益證",
-            "weight": 3.75
+            "weight": 3.22
         },
         {
             "code": "瑞儀",
-            "weight": 4.78
+            "weight": 5.6
         },
         {
             "code": "矽格",
-            "weight": 0.64
+            "weight": 0.81
         },
         {
             "code": "台表科",
-            "weight": 3.82
+            "weight": 2.12
         },
         {
-            "code": "環球晶",
-            "weight": 0.76
+            "code": "樺漢",
+            "weight": 0.29
         },
         {
-            "code": "富邦媒",
-            "weight": 0.44
+            "code": "洋基工程",
+            "weight": 0.31
         },
         {
-            "code": "豐泰",
-            "weight": 0.55
+            "code": "矽創",
+            "weight": 1.5
         },
         {
             "code": "裕融",
-            "weight": 3.45
+            "weight": 0.3
+        },
+        {
+            "code": "潤泰新",
+            "weight": 0.29
         }
     ],
     "大華優利高填息30(00918)": [
-        {
-            "code": "亞泥",
-            "weight": 3.63
-        },
         {
             "code": "東陽",
             "weight": 0.55
         },
         {
-            "code": "聚陽",
-            "weight": 1.35
-        },
-        {
-            "code": "東元",
-            "weight": 1.22
+            "code": "儒鴻",
+            "weight": 1.76
         },
         {
             "code": "聯電",
-            "weight": 6.5
+            "weight": 4.17
         },
         {
-            "code": "宏碁",
-            "weight": 2.34
+            "code": "鴻海",
+            "weight": 5.58
         },
         {
             "code": "華碩",
-            "weight": 6.17
+            "weight": 5.12
         },
         {
             "code": "瑞昱",
-            "weight": 4.36
+            "weight": 5.73
         },
         {
             "code": "廣達",
-            "weight": 5.35
+            "weight": 4.73
         },
         {
             "code": "漢唐",
-            "weight": 2.78
+            "weight": 3.41
+        },
+        {
+            "code": "京元電子",
+            "weight": 3.65
         },
         {
             "code": "可成",
-            "weight": 5.06
-        },
-        {
-            "code": "國產",
-            "weight": 1.25
+            "weight": 3.81
         },
         {
             "code": "長榮",
-            "weight": 7.04
+            "weight": 6.56
         },
         {
             "code": "華航",
-            "weight": 2.07
+            "weight": 3.68
         },
         {
             "code": "長榮航",
-            "weight": 4.3
+            "weight": 4.49
         },
         {
             "code": "彰銀",
-            "weight": 3.47
+            "weight": 2.98
         },
         {
-            "code": "兆豐金",
-            "weight": 5.4
+            "code": "富邦金",
+            "weight": 5.77
+        },
+        {
+            "code": "元大金",
+            "weight": 3.58
+        },
+        {
+            "code": "台新金",
+            "weight": 3.56
         },
         {
             "code": "中信金",
-            "weight": 6.21
+            "weight": 5.78
+        },
+        {
+            "code": "潤泰全",
+            "weight": 1.05
         },
         {
             "code": "聯詠",
-            "weight": 5.86
+            "weight": 4.33
         },
         {
             "code": "健鼎",
-            "weight": 3.73
-        },
-        {
-            "code": "大聯大",
-            "weight": 3.38
+            "weight": 3.2
         },
         {
             "code": "材料-KY",
-            "weight": 0.69
+            "weight": 0.74
         },
         {
-            "code": "中美晶",
-            "weight": 1.7
+            "code": "臻鼎-KY",
+            "weight": 0.54
         },
         {
             "code": "中租-KY",
-            "weight": 4.42
+            "weight": 4.61
         },
         {
             "code": "新普",
-            "weight": 1.93
+            "weight": 2.01
         },
         {
             "code": "瑞儀",
-            "weight": 1.79
-        },
-        {
-            "code": "環球晶",
             "weight": 1.87
         },
         {
-            "code": "群聯",
-            "weight": 2.58
+            "code": "啟碁",
+            "weight": 0.03
         },
         {
-            "code": "中保科",
-            "weight": 0.34
+            "code": "寶成",
+            "weight": 2.62
         },
         {
             "code": "裕融",
             "weight": 0.15
+        },
+        {
+            "code": "潤泰新",
+            "weight": 0.98
         }
     ],
     "群益台灣精選高息(00919)": [
         {
             "code": "名軒",
-            "weight": 0.56
+            "weight": 0.54
         },
         {
             "code": "聚陽",
-            "weight": 0.49
+            "weight": 0.63
         },
         {
             "code": "聯電",
-            "weight": 8.85
-        },
-        {
-            "code": "海悅",
-            "weight": 0.02
+            "weight": 8.63
         },
         {
             "code": "大同",
-            "weight": 0.55
+            "weight": 0.53
         },
         {
             "code": "群光",
@@ -7514,153 +7494,149 @@ const etfData = {
         },
         {
             "code": "億光",
-            "weight": 0.71
+            "weight": 0.75
         },
         {
             "code": "漢唐",
-            "weight": 0.65
+            "weight": 1.21
         },
         {
             "code": "美律",
-            "weight": 0.44
+            "weight": 0.47
         },
         {
             "code": "創見",
-            "weight": 0.68
+            "weight": 0.59
         },
         {
             "code": "義隆",
-            "weight": 0.49
-        },
-        {
-            "code": "可成",
-            "weight": 1.61
-        },
-        {
-            "code": "國產",
-            "weight": 1.18
-        },
-        {
-            "code": "冠德",
-            "weight": 0.43
-        },
-        {
-            "code": "長榮",
-            "weight": 8.07
-        },
-        {
-            "code": "裕民",
-            "weight": 1.07
-        },
-        {
-            "code": "陽明",
-            "weight": 4.08
-        },
-        {
-            "code": "長榮航",
-            "weight": 3.3
-        },
-        {
-            "code": "慧洋-KY",
-            "weight": 1.03
-        },
-        {
-            "code": "富邦金",
-            "weight": 10.45
-        },
-        {
-            "code": "國泰金",
-            "weight": 14.76
-        },
-        {
-            "code": "中信金",
-            "weight": 13.24
-        },
-        {
-            "code": "聯詠",
-            "weight": 5.43
-        },
-        {
-            "code": "順達",
-            "weight": 0.54
-        },
-        {
-            "code": "瑞鼎",
-            "weight": 0.63
-        },
-        {
-            "code": "材料-KY",
-            "weight": 0.55
-        },
-        {
-            "code": "致伸",
             "weight": 0.52
         },
         {
-            "code": "世界",
-            "weight": 3.91
+            "code": "可成",
+            "weight": 1.63
         },
         {
-            "code": "永信建",
-            "weight": 0.68
+            "code": "國產",
+            "weight": 1.09
         },
         {
-            "code": "遠雄",
-            "weight": 1.25
+            "code": "冠德",
+            "weight": 0.46
         },
         {
-            "code": "寶雅",
-            "weight": 0.05
+            "code": "長榮",
+            "weight": 7.69
         },
         {
-            "code": "群益證",
-            "weight": 0.45
+            "code": "裕民",
+            "weight": 1.16
         },
         {
-            "code": "新普",
-            "weight": 1.55
+            "code": "陽明",
+            "weight": 3.64
         },
         {
-            "code": "瑞儀",
-            "weight": 1.5
+            "code": "長榮航",
+            "weight": 3.19
         },
         {
-            "code": "力成",
-            "weight": 2.31
+            "code": "慧洋-KY",
+            "weight": 1.12
         },
         {
-            "code": "台表科",
+            "code": "富邦金",
+            "weight": 10.2
+        },
+        {
+            "code": "國泰金",
+            "weight": 13.99
+        },
+        {
+            "code": "中信金",
+            "weight": 12.7
+        },
+        {
+            "code": "聯詠",
+            "weight": 4.95
+        },
+        {
+            "code": "順達",
+            "weight": 0.44
+        },
+        {
+            "code": "瑞鼎",
+            "weight": 0.6
+        },
+        {
+            "code": "材料-KY",
+            "weight": 0.77
+        },
+        {
+            "code": "致伸",
             "weight": 0.53
         },
         {
+            "code": "世界",
+            "weight": 3.75
+        },
+        {
+            "code": "永信建",
+            "weight": 0.47
+        },
+        {
+            "code": "遠雄",
+            "weight": 1.19
+        },
+        {
+            "code": "群益證",
+            "weight": 0.46
+        },
+        {
+            "code": "新普",
+            "weight": 1.53
+        },
+        {
+            "code": "瑞儀",
+            "weight": 1.54
+        },
+        {
+            "code": "力成",
+            "weight": 2.4
+        },
+        {
+            "code": "台表科",
+            "weight": 0.51
+        },
+        {
             "code": "群電",
-            "weight": 0.48
+            "weight": 0.51
         },
         {
             "code": "復盛應用",
-            "weight": 0.44
+            "weight": 0.43
         },
         {
             "code": "台灣虎航",
-            "weight": 0.49
+            "weight": 0.55
         },
         {
             "code": "長華*",
-            "weight": 0.44
+            "weight": 0.46
         },
         {
             "code": "至上",
-            "weight": 0.62
+            "weight": 0.55
         },
         {
             "code": "群聯",
-            "weight": 1.67
+            "weight": 1.65
         }
     ],
     "富邦ESG綠色電力(00920)": [
         {
             "code": "台達電",
-            "weight": 9.58
+            "weight": 10.29
         },
         {
             "code": "奇鋐",
@@ -7668,167 +7644,155 @@ const etfData = {
         },
         {
             "code": "新普",
-            "weight": 0.71
+            "weight": 0.64
         }
     ],
     "兆豐龍頭等權重(00921)": [
         {
             "code": "亞泥",
-            "weight": 3.08
+            "weight": 2.71
         },
         {
             "code": "統一",
-            "weight": 2.93
+            "weight": 3.09
         },
         {
             "code": "南亞",
-            "weight": 2.58
+            "weight": 3.31
         },
         {
-            "code": "遠東新",
-            "weight": 3.04
+            "code": "儒鴻",
+            "weight": 2.73
         },
         {
-            "code": "亞德客-KY",
-            "weight": 3.21
+            "code": "華城",
+            "weight": 3.92
         },
         {
             "code": "大亞",
-            "weight": 2.75
+            "weight": 2.69
         },
         {
             "code": "冠軍",
-            "weight": 0.2
-        },
-        {
-            "code": "和成",
-            "weight": 2.65
+            "weight": 2.62
         },
         {
             "code": "正隆",
-            "weight": 0.21
-        },
-        {
-            "code": "永豐餘",
-            "weight": 1.95
+            "weight": 3.16
         },
         {
             "code": "東和鋼鐵",
-            "weight": 2.84
+            "weight": 2.99
         },
         {
             "code": "正新",
-            "weight": 2.39
-        },
-        {
-            "code": "三陽工業",
-            "weight": 2.8
-        },
-        {
-            "code": "台達電",
-            "weight": 3.12
-        },
-        {
-            "code": "台積電",
-            "weight": 3.13
-        },
-        {
-            "code": "智邦",
-            "weight": 3.1
-        },
-        {
-            "code": "聯強",
-            "weight": 2.74
-        },
-        {
-            "code": "廣達",
-            "weight": 3.2
-        },
-        {
-            "code": "漢唐",
-            "weight": 4.28
-        },
-        {
-            "code": "聯發科",
-            "weight": 2.86
-        },
-        {
-            "code": "國產",
-            "weight": 2.4
-        },
-        {
-            "code": "櫻花建",
-            "weight": 0.37
-        },
-        {
-            "code": "長榮",
-            "weight": 2.78
-        },
-        {
-            "code": "王品",
-            "weight": 3.26
-        },
-        {
-            "code": "富邦金",
-            "weight": 2.85
-        },
-        {
-            "code": "統一超",
-            "weight": 3.01
-        },
-        {
-            "code": "大立光",
             "weight": 2.9
         },
         {
+            "code": "三陽工業",
+            "weight": 2.68
+        },
+        {
+            "code": "台積電",
+            "weight": 3.22
+        },
+        {
+            "code": "智邦",
+            "weight": 2.88
+        },
+        {
+            "code": "聯強",
+            "weight": 2.72
+        },
+        {
+            "code": "廣達",
+            "weight": 2.7
+        },
+        {
+            "code": "台光電",
+            "weight": 3.35
+        },
+        {
+            "code": "漢唐",
+            "weight": 4.05
+        },
+        {
+            "code": "聯發科",
+            "weight": 3.31
+        },
+        {
+            "code": "櫻花建",
+            "weight": 3.08
+        },
+        {
+            "code": "長榮",
+            "weight": 2.45
+        },
+        {
+            "code": "王品",
+            "weight": 2.71
+        },
+        {
+            "code": "富邦金",
+            "weight": 2.79
+        },
+        {
+            "code": "統一超",
+            "weight": 2.93
+        },
+        {
+            "code": "大立光",
+            "weight": 2.93
+        },
+        {
             "code": "材料-KY",
-            "weight": 2.95
+            "weight": 2.63
         },
         {
             "code": "中租-KY",
-            "weight": 3.23
+            "weight": 3.07
         },
         {
             "code": "精誠",
-            "weight": 2.13
+            "weight": 2.81
         },
         {
             "code": "保瑞",
-            "weight": 3.38
+            "weight": 2.96
         },
         {
             "code": "台塑化",
-            "weight": 3.02
+            "weight": 2.86
         },
         {
             "code": "伊雲谷",
-            "weight": 2.31
+            "weight": 2.7
         },
         {
             "code": "泓德能源",
-            "weight": 3.66
+            "weight": 2.58
         },
         {
             "code": "億豐",
-            "weight": 3.12
+            "weight": 2.91
         },
         {
             "code": "豐泰",
-            "weight": 2.63
+            "weight": 2.85
         }
     ],
     "國泰台灣領袖50(00922)": [
         {
             "code": "台泥",
-            "weight": 0.63
+            "weight": 0.56
         },
         {
             "code": "統一",
-            "weight": 1.29
+            "weight": 1.31
         },
         {
             "code": "亞德客-KY",
-            "weight": 0.57
+            "weight": 0.54
         },
         {
             "code": "中鋼",
@@ -7836,159 +7800,155 @@ const etfData = {
         },
         {
             "code": "和泰車",
-            "weight": 0.96
+            "weight": 0.92
         },
         {
             "code": "光寶科",
-            "weight": 1.1
-        },
-        {
-            "code": "聯電",
-            "weight": 1.54
-        },
-        {
-            "code": "台達電",
-            "weight": 3.17
-        },
-        {
-            "code": "鴻海",
-            "weight": 5.35
-        },
-        {
-            "code": "國巨",
-            "weight": 0.82
-        },
-        {
-            "code": "台積電",
-            "weight": 30.9
-        },
-        {
-            "code": "智邦",
-            "weight": 1.73
-        },
-        {
-            "code": "華碩",
-            "weight": 1.87
-        },
-        {
-            "code": "技嘉",
-            "weight": 0.75
-        },
-        {
-            "code": "瑞昱",
-            "weight": 1.11
-        },
-        {
-            "code": "廣達",
-            "weight": 2.62
-        },
-        {
-            "code": "台光電",
-            "weight": 0.91
-        },
-        {
-            "code": "研華",
-            "weight": 0.82
-        },
-        {
-            "code": "中華電",
-            "weight": 1.64
-        },
-        {
-            "code": "聯發科",
-            "weight": 5.39
-        },
-        {
-            "code": "長榮",
-            "weight": 0.91
-        },
-        {
-            "code": "富邦金",
-            "weight": 2.28
-        },
-        {
-            "code": "國泰金",
-            "weight": 2.16
-        },
-        {
-            "code": "凱基金",
-            "weight": 1.09
-        },
-        {
-            "code": "玉山金",
-            "weight": 1.63
-        },
-        {
-            "code": "元大金",
-            "weight": 1.32
-        },
-        {
-            "code": "兆豐金",
-            "weight": 1.42
-        },
-        {
-            "code": "台新金",
-            "weight": 0.86
-        },
-        {
-            "code": "新光金",
-            "weight": 0.89
-        },
-        {
-            "code": "中信金",
-            "weight": 2.46
-        },
-        {
-            "code": "第一金",
             "weight": 1.12
         },
         {
+            "code": "聯電",
+            "weight": 1.46
+        },
+        {
+            "code": "台達電",
+            "weight": 3.68
+        },
+        {
+            "code": "鴻海",
+            "weight": 5.49
+        },
+        {
+            "code": "國巨",
+            "weight": 0.87
+        },
+        {
+            "code": "台積電",
+            "weight": 31.47
+        },
+        {
+            "code": "智邦",
+            "weight": 1.75
+        },
+        {
+            "code": "華碩",
+            "weight": 1.67
+        },
+        {
+            "code": "技嘉",
+            "weight": 0.72
+        },
+        {
+            "code": "瑞昱",
+            "weight": 1.08
+        },
+        {
+            "code": "廣達",
+            "weight": 2.29
+        },
+        {
+            "code": "台光電",
+            "weight": 1.0
+        },
+        {
+            "code": "研華",
+            "weight": 0.79
+        },
+        {
+            "code": "中華電",
+            "weight": 1.47
+        },
+        {
+            "code": "聯發科",
+            "weight": 5.67
+        },
+        {
+            "code": "長榮",
+            "weight": 0.85
+        },
+        {
+            "code": "富邦金",
+            "weight": 2.12
+        },
+        {
+            "code": "國泰金",
+            "weight": 1.94
+        },
+        {
+            "code": "凱基金",
+            "weight": 0.99
+        },
+        {
+            "code": "玉山金",
+            "weight": 1.58
+        },
+        {
+            "code": "元大金",
+            "weight": 1.18
+        },
+        {
+            "code": "兆豐金",
+            "weight": 1.41
+        },
+        {
+            "code": "台新金",
+            "weight": 1.65
+        },
+        {
+            "code": "中信金",
+            "weight": 2.27
+        },
+        {
+            "code": "第一金",
+            "weight": 1.11
+        },
+        {
             "code": "統一超",
-            "weight": 0.75
+            "weight": 0.73
         },
         {
             "code": "大立光",
-            "weight": 0.96
+            "weight": 0.91
         },
         {
             "code": "奇鋐",
-            "weight": 1.04
+            "weight": 1.13
         },
         {
             "code": "聯詠",
-            "weight": 1.19
+            "weight": 1.05
         },
         {
             "code": "台灣大",
-            "weight": 0.9
+            "weight": 0.78
         },
         {
             "code": "緯創",
-            "weight": 1.21
-        },
-        {
-            "code": "鈊象",
-            "weight": 0.83
-        },
-        {
-            "code": "力旺",
-            "weight": 0.7
-        },
-        {
-            "code": "世芯-KY",
             "weight": 1.07
         },
         {
+            "code": "鈊象",
+            "weight": 0.72
+        },
+        {
+            "code": "力旺",
+            "weight": 0.56
+        },
+        {
+            "code": "世芯-KY",
+            "weight": 1.37
+        },
+        {
             "code": "日月光投控",
-            "weight": 1.69
+            "weight": 1.61
         },
         {
             "code": "遠傳",
-            "weight": 0.77
+            "weight": 0.68
         },
         {
             "code": "和碩",
-            "weight": 0.67
+            "weight": 0.68
         },
         {
             "code": "中租-KY",
@@ -7996,45 +7956,41 @@ const etfData = {
         },
         {
             "code": "上海商銀",
-            "weight": 0.95
+            "weight": 0.85
         },
         {
             "code": "合庫金",
-            "weight": 1.03
+            "weight": 1.01
         },
         {
             "code": "旭隼",
-            "weight": 0.51
+            "weight": 0.46
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.63
+            "weight": 0.56
         },
         {
             "code": "緯穎",
-            "weight": 1.46
+            "weight": 1.28
         },
         {
             "code": "元太",
-            "weight": 0.79
+            "weight": 0.73
         }
     ],
     "群益台ESG低碳50(00923)": [
         {
             "code": "統一",
-            "weight": 0.87
+            "weight": 0.85
         },
         {
             "code": "遠東新",
-            "weight": 0.29
+            "weight": 0.25
         },
         {
-            "code": "儒鴻",
-            "weight": 0.22
-        },
-        {
-            "code": "華城",
-            "weight": 0.24
+            "code": "亞德客-KY",
+            "weight": 0.18
         },
         {
             "code": "川湖",
@@ -8046,119 +8002,115 @@ const etfData = {
         },
         {
             "code": "光寶科",
-            "weight": 0.55
+            "weight": 0.54
         },
         {
             "code": "聯電",
-            "weight": 6.18
+            "weight": 6.21
         },
         {
             "code": "台達電",
-            "weight": 2.0
+            "weight": 2.24
         },
         {
             "code": "鴻海",
-            "weight": 4.52
+            "weight": 4.45
         },
         {
             "code": "仁寶",
-            "weight": 0.27
+            "weight": 0.29
         },
         {
             "code": "國巨",
-            "weight": 0.52
+            "weight": 0.57
         },
         {
             "code": "台積電",
-            "weight": 31.71
+            "weight": 30.59
         },
         {
             "code": "智邦",
-            "weight": 0.89
+            "weight": 0.84
         },
         {
             "code": "英業達",
-            "weight": 0.28
+            "weight": 0.3
         },
         {
             "code": "華碩",
-            "weight": 1.12
+            "weight": 0.88
         },
         {
             "code": "致茂",
-            "weight": 0.33
+            "weight": 0.29
         },
         {
             "code": "技嘉",
             "weight": 0.34
         },
         {
-            "code": "微星",
-            "weight": 0.21
-        },
-        {
             "code": "瑞昱",
-            "weight": 5.57
+            "weight": 5.82
         },
         {
             "code": "廣達",
-            "weight": 1.84
+            "weight": 1.52
         },
         {
             "code": "研華",
-            "weight": 0.38
+            "weight": 0.39
         },
         {
             "code": "中華電",
-            "weight": 1.58
+            "weight": 1.37
         },
         {
             "code": "聯發科",
-            "weight": 8.85
+            "weight": 9.92
         },
         {
             "code": "彰銀",
-            "weight": 0.38
+            "weight": 0.36
         },
         {
             "code": "華南金",
-            "weight": 0.64
+            "weight": 0.6
         },
         {
             "code": "富邦金",
-            "weight": 1.95
+            "weight": 1.68
         },
         {
             "code": "國泰金",
-            "weight": 1.49
+            "weight": 1.24
         },
         {
             "code": "玉山金",
-            "weight": 1.15
+            "weight": 1.03
         },
         {
             "code": "元大金",
-            "weight": 0.96
+            "weight": 0.78
         },
         {
             "code": "兆豐金",
-            "weight": 1.1
+            "weight": 1.02
         },
         {
             "code": "台新金",
-            "weight": 0.44
+            "weight": 0.46
         },
         {
             "code": "永豐金",
-            "weight": 0.64
+            "weight": 0.59
         },
         {
             "code": "中信金",
-            "weight": 1.75
+            "weight": 1.52
         },
         {
             "code": "第一金",
-            "weight": 0.76
+            "weight": 0.68
         },
         {
             "code": "統一超",
@@ -8166,165 +8118,173 @@ const etfData = {
         },
         {
             "code": "奇鋐",
-            "weight": 0.51
-        },
-        {
-            "code": "聯詠",
-            "weight": 5.61
-        },
-        {
-            "code": "欣興",
-            "weight": 0.33
-        },
-        {
-            "code": "台灣大",
-            "weight": 0.59
-        },
-        {
-            "code": "緯創",
-            "weight": 0.75
-        },
-        {
-            "code": "嘉澤",
-            "weight": 0.3
-        },
-        {
-            "code": "日月光投控",
-            "weight": 6.01
-        },
-        {
-            "code": "遠傳",
             "weight": 0.5
         },
         {
+            "code": "聯詠",
+            "weight": 5.71
+        },
+        {
+            "code": "欣興",
+            "weight": 0.39
+        },
+        {
+            "code": "台灣大",
+            "weight": 0.49
+        },
+        {
+            "code": "緯創",
+            "weight": 0.6
+        },
+        {
+            "code": "嘉澤",
+            "weight": 0.32
+        },
+        {
+            "code": "貿聯-KY",
+            "weight": 0.27
+        },
+        {
+            "code": "大聯大",
+            "weight": 0.18
+        },
+        {
+            "code": "日月光投控",
+            "weight": 6.56
+        },
+        {
+            "code": "遠傳",
+            "weight": 0.41
+        },
+        {
             "code": "和碩",
-            "weight": 0.34
+            "weight": 0.37
         },
         {
             "code": "中租-KY",
-            "weight": 0.43
+            "weight": 0.46
         },
         {
             "code": "上海商銀",
-            "weight": 0.4
+            "weight": 0.35
         },
         {
             "code": "合庫金",
-            "weight": 0.66
+            "weight": 0.65
         },
         {
             "code": "藥華藥",
-            "weight": 0.3
+            "weight": 0.29
         },
         {
             "code": "緯穎",
-            "weight": 0.65
+            "weight": 0.5
         }
     ],
     "群益半導體收益(00927)": [
         {
             "code": "聯電",
-            "weight": 8.04
+            "weight": 7.72
         },
         {
             "code": "台積電",
-            "weight": 15.42
+            "weight": 15.86
         },
         {
             "code": "瑞昱",
-            "weight": 4.84
+            "weight": 4.79
         },
         {
             "code": "京元電子",
-            "weight": 2.14
+            "weight": 2.38
         },
         {
             "code": "創見",
-            "weight": 2.15
+            "weight": 1.75
         },
         {
             "code": "聯發科",
-            "weight": 10.8
+            "weight": 11.28
         },
         {
             "code": "義隆",
-            "weight": 1.89
+            "weight": 1.99
         },
         {
             "code": "聯陽",
-            "weight": 1.53
+            "weight": 1.54
         },
         {
             "code": "聯詠",
-            "weight": 5.26
+            "weight": 4.61
         },
         {
             "code": "原相",
-            "weight": 1.14
+            "weight": 1.09
         },
         {
             "code": "威剛",
-            "weight": 1.66
+            "weight": 1.49
         },
         {
             "code": "欣銓",
-            "weight": 1.85
+            "weight": 1.64
         },
         {
             "code": "京鼎",
-            "weight": 1.63
+            "weight": 1.5
         },
         {
             "code": "瑞鼎",
-            "weight": 1.4
+            "weight": 1.41
         },
         {
             "code": "世芯-KY",
-            "weight": 2.41
+            "weight": 3.09
         },
         {
             "code": "日月光投控",
-            "weight": 6.21
+            "weight": 5.92
         },
         {
             "code": "天鈺",
-            "weight": 1.33
+            "weight": 1.21
         },
         {
             "code": "譜瑞-KY",
-            "weight": 1.31
+            "weight": 1.39
         },
         {
             "code": "祥碩",
-            "weight": 1.9
+            "weight": 1.74
         },
         {
             "code": "世界",
-            "weight": 4.05
+            "weight": 3.76
         },
         {
             "code": "中美晶",
-            "weight": 2.1
+            "weight": 2.51
         },
         {
             "code": "頎邦",
-            "weight": 1.87
+            "weight": 1.89
         },
         {
             "code": "旺矽",
-            "weight": 2.11
+            "weight": 2.19
         },
         {
             "code": "力成",
-            "weight": 2.8
+            "weight": 3.08
         },
         {
             "code": "矽格",
-            "weight": 1.88
+            "weight": 1.76
         },
         {
             "code": "環球晶",
-            "weight": 3.22
+            "weight": 3.83
         },
         {
             "code": "愛普*",
@@ -8332,511 +8292,507 @@ const etfData = {
         },
         {
             "code": "矽創",
-            "weight": 1.55
+            "weight": 1.34
         },
         {
             "code": "致新",
-            "weight": 1.56
+            "weight": 1.35
         },
         {
             "code": "群聯",
-            "weight": 3.07
+            "weight": 2.9
         }
     ],
     "中信上櫃ESG 30(00928)": [
         {
             "code": "光洋科",
-            "weight": 3.53
-        },
-        {
-            "code": "穩懋",
-            "weight": 1.67
-        },
-        {
-            "code": "順達",
-            "weight": 2.69
-        },
-        {
-            "code": "原相",
-            "weight": 1.25
-        },
-        {
-            "code": "威剛",
-            "weight": 1.22
-        },
-        {
-            "code": "欣銓",
-            "weight": 1.37
-        },
-        {
-            "code": "精材",
-            "weight": 0.97
-        },
-        {
-            "code": "昇達科",
-            "weight": 1.62
-        },
-        {
-            "code": "力旺",
-            "weight": 5.81
-        },
-        {
-            "code": "家登",
-            "weight": 1.25
-        },
-        {
-            "code": "信驊",
-            "weight": 5.88
-        },
-        {
-            "code": "宜鼎",
-            "weight": 2.13
-        },
-        {
-            "code": "世界",
-            "weight": 4.89
-        },
-        {
-            "code": "中光電",
-            "weight": 7.7
-        },
-        {
-            "code": "台半",
-            "weight": 0.42
-        },
-        {
-            "code": "中美晶",
-            "weight": 2.66
-        },
-        {
-            "code": "聖暉*",
-            "weight": 6.2
-        },
-        {
-            "code": "寶雅",
-            "weight": 3.24
-        },
-        {
-            "code": "新普",
-            "weight": 8.05
-        },
-        {
-            "code": "頎邦",
-            "weight": 1.61
-        },
-        {
-            "code": "合晶",
-            "weight": 0.51
-        },
-        {
-            "code": "萬潤",
-            "weight": 2.69
-        },
-        {
-            "code": "旺矽",
-            "weight": 2.22
-        },
-        {
-            "code": "台燿",
-            "weight": 5.8
-        },
-        {
-            "code": "環球晶",
-            "weight": 3.72
-        },
-        {
-            "code": "M31",
-            "weight": 0.43
-        },
-        {
-            "code": "元太",
-            "weight": 12.08
-        },
-        {
-            "code": "宏捷科",
-            "weight": 0.38
-        },
-        {
-            "code": "群聯",
             "weight": 4.27
         },
         {
+            "code": "穩懋",
+            "weight": 1.56
+        },
+        {
+            "code": "順達",
+            "weight": 3.36
+        },
+        {
+            "code": "原相",
+            "weight": 1.05
+        },
+        {
+            "code": "威剛",
+            "weight": 1.03
+        },
+        {
+            "code": "欣銓",
+            "weight": 1.16
+        },
+        {
+            "code": "精材",
+            "weight": 0.88
+        },
+        {
+            "code": "昇達科",
+            "weight": 2.01
+        },
+        {
+            "code": "力旺",
+            "weight": 4.35
+        },
+        {
+            "code": "家登",
+            "weight": 0.9
+        },
+        {
+            "code": "信驊",
+            "weight": 4.94
+        },
+        {
+            "code": "宜鼎",
+            "weight": 2.56
+        },
+        {
+            "code": "世界",
+            "weight": 4.34
+        },
+        {
+            "code": "台半",
+            "weight": 0.4
+        },
+        {
+            "code": "中美晶",
+            "weight": 2.76
+        },
+        {
+            "code": "聖暉*",
+            "weight": 9.47
+        },
+        {
+            "code": "寶雅",
+            "weight": 4.06
+        },
+        {
+            "code": "新普",
+            "weight": 10.41
+        },
+        {
+            "code": "頎邦",
+            "weight": 1.47
+        },
+        {
+            "code": "合晶",
+            "weight": 0.49
+        },
+        {
+            "code": "萬潤",
+            "weight": 0.78
+        },
+        {
+            "code": "旺矽",
+            "weight": 2.16
+        },
+        {
+            "code": "台燿",
+            "weight": 8.46
+        },
+        {
+            "code": "環球晶",
+            "weight": 3.85
+        },
+        {
+            "code": "精測",
+            "weight": 0.61
+        },
+        {
+            "code": "M31",
+            "weight": 0.42
+        },
+        {
+            "code": "元太",
+            "weight": 14.08
+        },
+        {
+            "code": "宏捷科",
+            "weight": 0.41
+        },
+        {
+            "code": "群聯",
+            "weight": 3.85
+        },
+        {
             "code": "國統",
-            "weight": 0.83
+            "weight": 1.01
         }
     ],
     "復華台灣科技優息(00929)": [
         {
             "code": "光寶科",
-            "weight": 5.17
+            "weight": 5.56
         },
         {
             "code": "聯電",
-            "weight": 8.03
+            "weight": 6.94
+        },
+        {
+            "code": "仁寶",
+            "weight": 3.84
         },
         {
             "code": "聯強",
-            "weight": 2.14
+            "weight": 3.34
         },
         {
             "code": "宏碁",
-            "weight": 1.91
+            "weight": 2.83
         },
         {
             "code": "華碩",
-            "weight": 5.62
+            "weight": 6.17
         },
         {
             "code": "群光",
-            "weight": 2.0
-        },
-        {
-            "code": "億光",
-            "weight": 0.25
+            "weight": 2.94
         },
         {
             "code": "漢唐",
-            "weight": 2.43
+            "weight": 4.55
         },
         {
-            "code": "京元電子",
-            "weight": 2.56
+            "code": "美律",
+            "weight": 0.63
         },
         {
-            "code": "聯發科",
-            "weight": 9.01
+            "code": "創見",
+            "weight": 0.98
+        },
+        {
+            "code": "義隆",
+            "weight": 0.97
         },
         {
             "code": "可成",
-            "weight": 2.88
+            "weight": 4.1
         },
         {
             "code": "神基",
-            "weight": 1.57
-        },
-        {
-            "code": "華立",
-            "weight": 0.09
-        },
-        {
-            "code": "聯陽",
-            "weight": 0.07
+            "weight": 2.13
         },
         {
             "code": "聯詠",
             "weight": 6.55
         },
         {
-            "code": "晶技",
-            "weight": 0.19
+            "code": "文曄",
+            "weight": 4.41
         },
         {
             "code": "健鼎",
-            "weight": 2.55
+            "weight": 4.17
         },
         {
-            "code": "台灣大",
-            "weight": 7.34
+            "code": "僑威",
+            "weight": 0.35
+        },
+        {
+            "code": "日電貿",
+            "weight": 0.23
+        },
+        {
+            "code": "順達",
+            "weight": 0.89
+        },
+        {
+            "code": "原相",
+            "weight": 0.87
+        },
+        {
+            "code": "威剛",
+            "weight": 0.86
         },
         {
             "code": "欣銓",
-            "weight": 0.74
+            "weight": 0.92
         },
         {
-            "code": "智易",
-            "weight": 0.5
+            "code": "碩天",
+            "weight": 0.64
         },
         {
             "code": "大聯大",
-            "weight": 2.29
-        },
-        {
-            "code": "日月光投控",
-            "weight": 8.89
-        },
-        {
-            "code": "遠傳",
-            "weight": 5.09
-        },
-        {
-            "code": "致伸",
-            "weight": 0.29
+            "weight": 3.73
         },
         {
             "code": "和碩",
-            "weight": 4.05
+            "weight": 5.92
         },
         {
             "code": "天鈺",
-            "weight": 0.49
+            "weight": 0.44
         },
         {
             "code": "世界",
-            "weight": 3.31
+            "weight": 5.25
         },
         {
             "code": "中磊",
-            "weight": 0.59
+            "weight": 0.64
         },
         {
             "code": "中美晶",
-            "weight": 1.12
+            "weight": 2.35
         },
         {
             "code": "新普",
-            "weight": 1.43
+            "weight": 2.1
         },
         {
             "code": "頎邦",
-            "weight": 0.81
+            "weight": 1.06
         },
         {
             "code": "瑞儀",
-            "weight": 1.25
+            "weight": 1.8
         },
         {
-            "code": "豐藝",
-            "weight": 0.04
+            "code": "佳必琪",
+            "weight": 0.46
         },
         {
-            "code": "精成科",
-            "weight": 0.77
+            "code": "飛捷",
+            "weight": 0.75
         },
         {
             "code": "力成",
-            "weight": 2.0
+            "weight": 3.17
         },
         {
-            "code": "台郡",
-            "weight": 0.04
+            "code": "矽格",
+            "weight": 1.12
         },
         {
             "code": "台表科",
-            "weight": 0.63
+            "weight": 0.9
         },
         {
-            "code": "啟碁",
-            "weight": 1.16
-        },
-        {
-            "code": "樺漢",
-            "weight": 0.91
+            "code": "群電",
+            "weight": 1.25
         },
         {
             "code": "矽創",
-            "weight": 0.48
+            "weight": 0.5
         },
         {
-            "code": "至上",
-            "weight": 0.56
+            "code": "長華*",
+            "weight": 0.66
         }
     ],
     "永豐ESG低碳高息(00930)": [
         {
-            "code": "中宇",
-            "weight": 0.36
+            "code": "聚陽",
+            "weight": 5.21
         },
         {
-            "code": "興農",
-            "weight": 0.61
+            "code": "堤維西",
+            "weight": 0.66
+        },
+        {
+            "code": "勤美",
+            "weight": 0.39
+        },
+        {
+            "code": "伸興",
+            "weight": 0.22
         },
         {
             "code": "中華",
-            "weight": 1.7
+            "weight": 1.05
         },
         {
             "code": "聯電",
-            "weight": 5.22
+            "weight": 5.83
         },
         {
             "code": "鴻海",
-            "weight": 2.98
+            "weight": 4.24
+        },
+        {
+            "code": "華碩",
+            "weight": 5.19
         },
         {
             "code": "廣達",
-            "weight": 4.19
+            "weight": 4.4
         },
         {
-            "code": "友達",
-            "weight": 4.27
+            "code": "群光",
+            "weight": 5.5
         },
         {
-            "code": "中華電",
-            "weight": 4.88
+            "code": "億光",
+            "weight": 1.64
+        },
+        {
+            "code": "美律",
+            "weight": 2.77
         },
         {
             "code": "聯發科",
-            "weight": 5.05
+            "weight": 4.39
         },
         {
-            "code": "京城銀",
-            "weight": 2.71
+            "code": "義隆",
+            "weight": 2.52
         },
         {
-            "code": "統一證",
-            "weight": 1.06
+            "code": "可成",
+            "weight": 7.5
         },
         {
-            "code": "華南金",
-            "weight": 6.25
+            "code": "國產",
+            "weight": 1.77
+        },
+        {
+            "code": "宏璟",
+            "weight": 0.1
+        },
+        {
+            "code": "第一保",
+            "weight": 0.33
         },
         {
             "code": "富邦金",
             "weight": 4.67
         },
         {
-            "code": "玉山金",
-            "weight": 5.73
-        },
-        {
-            "code": "兆豐金",
-            "weight": 4.92
+            "code": "國泰金",
+            "weight": 5.09
         },
         {
             "code": "中信金",
-            "weight": 6.81
-        },
-        {
-            "code": "遠百",
-            "weight": 1.15
+            "weight": 5.48
         },
         {
             "code": "聯陽",
-            "weight": 2.14
-        },
-        {
-            "code": "全漢",
-            "weight": 0.63
+            "weight": 1.1
         },
         {
             "code": "威健",
-            "weight": 1.84
+            "weight": 0.84
         },
         {
             "code": "聯詠",
-            "weight": 5.57
+            "weight": 5.47
         },
         {
             "code": "全台",
-            "weight": 0.15
+            "weight": 0.12
         },
         {
-            "code": "太醫",
-            "weight": 0.2
+            "code": "全科",
+            "weight": 0.62
         },
         {
-            "code": "新鼎",
-            "weight": 0.13
+            "code": "瑞鼎",
+            "weight": 1.15
         },
         {
-            "code": "中租-KY",
-            "weight": 4.15
+            "code": "德淵",
+            "weight": 0.09
         },
         {
-            "code": "元大期",
-            "weight": 0.34
+            "code": "中美晶",
+            "weight": 4.77
         },
         {
-            "code": "群益期",
-            "weight": 0.22
-        },
-        {
-            "code": "新普",
-            "weight": 5.56
+            "code": "群益證",
+            "weight": 1.74
         },
         {
             "code": "頎邦",
-            "weight": 3.25
+            "weight": 2.0
         },
         {
             "code": "瑞儀",
-            "weight": 3.36
+            "weight": 3.58
         },
         {
-            "code": "台郡",
-            "weight": 1.4
+            "code": "橘子",
+            "weight": 0.68
+        },
+        {
+            "code": "倉和",
+            "weight": 0.16
         },
         {
             "code": "朋億*",
-            "weight": 0.48
+            "weight": 0.47
         },
         {
-            "code": "崑鼎",
-            "weight": 0.33
+            "code": "復盛應用",
+            "weight": 2.54
+        },
+        {
+            "code": "匯僑設計",
+            "weight": 0.04
         },
         {
             "code": "至上",
-            "weight": 3.24
+            "weight": 1.0
         },
         {
-            "code": "達方",
-            "weight": 0.59
-        },
-        {
-            "code": "宇瞻",
-            "weight": 0.68
-        },
-        {
-            "code": "可寧衛",
-            "weight": 0.68
-        },
-        {
-            "code": "光隆",
-            "weight": 0.25
+            "code": "大江",
+            "weight": 1.59
         },
         {
             "code": "福興",
-            "weight": 0.35
-        },
-        {
-            "code": "信義",
-            "weight": 0.26
+            "weight": 0.28
         }
     ],
     "兆豐永續高息等權(00932)": [
         {
             "code": "三芳",
-            "weight": 1.94
+            "weight": 1.76
         },
         {
             "code": "聚陽",
-            "weight": 1.66
+            "weight": 1.84
         },
         {
             "code": "堤維西",
-            "weight": 1.83
+            "weight": 1.65
         },
         {
             "code": "勤美",
-            "weight": 1.91
+            "weight": 1.77
         },
         {
             "code": "中華",
-            "weight": 1.7
+            "weight": 1.53
         },
         {
             "code": "長榮鋼",
-            "weight": 1.88
+            "weight": 1.76
         },
         {
             "code": "聯電",
-            "weight": 1.79
+            "weight": 1.76
         },
         {
             "code": "聯強",
-            "weight": 1.74
+            "weight": 1.84
         },
         {
             "code": "敬鵬",
-            "weight": 2.01
+            "weight": 2.06
         },
         {
             "code": "華碩",
-            "weight": 2.47
+            "weight": 2.28
         },
         {
             "code": "廣達",
-            "weight": 2.45
+            "weight": 2.22
         },
         {
             "code": "群光",
@@ -8844,11 +8800,11 @@ const etfData = {
         },
         {
             "code": "億光",
-            "weight": 1.72
+            "weight": 1.85
         },
         {
             "code": "漢唐",
-            "weight": 2.58
+            "weight": 3.15
         },
         {
             "code": "美律",
@@ -8856,11 +8812,11 @@ const etfData = {
         },
         {
             "code": "創見",
-            "weight": 1.98
+            "weight": 1.71
         },
         {
             "code": "義隆",
-            "weight": 2.05
+            "weight": 2.06
         },
         {
             "code": "可成",
@@ -8868,87 +8824,87 @@ const etfData = {
         },
         {
             "code": "國產",
-            "weight": 1.84
+            "weight": 1.73
         },
         {
             "code": "裕民",
-            "weight": 1.81
+            "weight": 1.99
         },
         {
             "code": "晶華",
-            "weight": 1.66
+            "weight": 1.65
         },
         {
             "code": "京城銀",
-            "weight": 1.95
+            "weight": 2.0
         },
         {
             "code": "神基",
-            "weight": 2.32
+            "weight": 2.28
         },
         {
             "code": "聯陽",
-            "weight": 2.05
+            "weight": 1.96
         },
         {
             "code": "威健",
-            "weight": 1.92
+            "weight": 1.96
         },
         {
             "code": "聯詠",
-            "weight": 1.89
+            "weight": 1.72
         },
         {
             "code": "晶技",
-            "weight": 1.8
-        },
-        {
-            "code": "健鼎",
-            "weight": 2.6
-        },
-        {
-            "code": "日電貿",
-            "weight": 2.25
-        },
-        {
-            "code": "欣銓",
-            "weight": 2.11
-        },
-        {
-            "code": "瑞鼎",
-            "weight": 2.14
-        },
-        {
-            "code": "永崴投控",
-            "weight": 1.98
-        },
-        {
-            "code": "瑞智",
-            "weight": 1.79
-        },
-        {
-            "code": "南寶",
-            "weight": 1.81
-        },
-        {
-            "code": "致伸",
-            "weight": 1.87
-        },
-        {
-            "code": "榮剛",
             "weight": 1.77
         },
         {
+            "code": "健鼎",
+            "weight": 2.87
+        },
+        {
+            "code": "日電貿",
+            "weight": 2.22
+        },
+        {
+            "code": "欣銓",
+            "weight": 1.98
+        },
+        {
+            "code": "瑞鼎",
+            "weight": 2.06
+        },
+        {
+            "code": "永崴投控",
+            "weight": 2.09
+        },
+        {
+            "code": "瑞智",
+            "weight": 1.7
+        },
+        {
+            "code": "南寶",
+            "weight": 1.85
+        },
+        {
+            "code": "致伸",
+            "weight": 1.88
+        },
+        {
+            "code": "榮剛",
+            "weight": 1.65
+        },
+        {
             "code": "中美晶",
-            "weight": 1.63
+            "weight": 1.86
         },
         {
             "code": "群益證",
-            "weight": 1.52
+            "weight": 1.53
         },
         {
             "code": "新普",
-            "weight": 2.12
+            "weight": 2.13
         },
         {
             "code": "頎邦",
@@ -8956,97 +8912,97 @@ const etfData = {
         },
         {
             "code": "瑞儀",
-            "weight": 1.53
+            "weight": 1.58
         },
         {
             "code": "橘子",
-            "weight": 1.91
+            "weight": 1.72
         },
         {
             "code": "力成",
-            "weight": 2.17
+            "weight": 2.28
         },
         {
             "code": "矽格",
-            "weight": 2.24
+            "weight": 2.18
         },
         {
             "code": "台表科",
-            "weight": 2.17
+            "weight": 2.06
         },
         {
             "code": "群電",
-            "weight": 1.98
+            "weight": 2.07
         },
         {
             "code": "朋億*",
-            "weight": 1.97
+            "weight": 2.06
         },
         {
             "code": "復盛應用",
-            "weight": 1.71
+            "weight": 1.63
         },
         {
             "code": "志強-KY",
-            "weight": 1.98
+            "weight": 1.84
         },
         {
             "code": "矽創",
-            "weight": 1.99
+            "weight": 1.93
         }
     ],
     "中信成長高股息(00934)": [
         {
             "code": "儒鴻",
-            "weight": 0.41
+            "weight": 0.39
         },
         {
             "code": "聚陽",
-            "weight": 1.81
+            "weight": 2.01
         },
         {
             "code": "東和鋼鐵",
-            "weight": 0.4
+            "weight": 0.41
         },
         {
             "code": "聯電",
-            "weight": 0.44
+            "weight": 0.43
         },
         {
             "code": "國巨",
-            "weight": 2.8
+            "weight": 3.06
         },
         {
             "code": "聯強",
-            "weight": 1.87
+            "weight": 1.97
         },
         {
             "code": "華碩",
-            "weight": 6.38
+            "weight": 5.73
         },
         {
             "code": "瑞昱",
-            "weight": 3.29
+            "weight": 3.32
         },
         {
             "code": "廣達",
-            "weight": 8.41
+            "weight": 7.42
         },
         {
             "code": "群光",
-            "weight": 2.07
+            "weight": 2.06
         },
         {
             "code": "漢唐",
-            "weight": 6.14
+            "weight": 7.51
         },
         {
             "code": "創見",
-            "weight": 0.46
+            "weight": 0.4
         },
         {
             "code": "聯發科",
-            "weight": 5.87
+            "weight": 6.39
         },
         {
             "code": "義隆",
@@ -9058,51 +9014,51 @@ const etfData = {
         },
         {
             "code": "國產",
-            "weight": 0.44
-        },
-        {
-            "code": "潤弘",
-            "weight": 0.43
-        },
-        {
-            "code": "長榮",
-            "weight": 5.86
-        },
-        {
-            "code": "萬海",
-            "weight": 2.51
-        },
-        {
-            "code": "潤泰全",
             "weight": 0.41
         },
         {
-            "code": "大立光",
-            "weight": 2.52
+            "code": "潤弘",
+            "weight": 0.48
         },
         {
-            "code": "信邦",
+            "code": "長榮",
+            "weight": 5.67
+        },
+        {
+            "code": "萬海",
+            "weight": 2.38
+        },
+        {
+            "code": "潤泰全",
             "weight": 0.39
         },
         {
+            "code": "大立光",
+            "weight": 2.49
+        },
+        {
+            "code": "信邦",
+            "weight": 0.42
+        },
+        {
             "code": "聯詠",
-            "weight": 3.97
+            "weight": 3.61
         },
         {
             "code": "健鼎",
-            "weight": 0.56
+            "weight": 0.61
         },
         {
             "code": "順達",
-            "weight": 1.82
+            "weight": 1.75
         },
         {
             "code": "鈊象",
-            "weight": 3.14
+            "weight": 2.84
         },
         {
             "code": "玉晶光",
-            "weight": 1.79
+            "weight": 1.88
         },
         {
             "code": "大聯大",
@@ -9110,11 +9066,11 @@ const etfData = {
         },
         {
             "code": "材料-KY",
-            "weight": 2.89
+            "weight": 2.52
         },
         {
             "code": "南寶",
-            "weight": 1.06
+            "weight": 1.08
         },
         {
             "code": "崇越",
@@ -9122,39 +9078,39 @@ const etfData = {
         },
         {
             "code": "中美晶",
-            "weight": 1.76
+            "weight": 1.99
         },
         {
             "code": "永信建",
-            "weight": 0.92
+            "weight": 0.63
         },
         {
             "code": "聖暉*",
-            "weight": 0.54
+            "weight": 0.64
         },
         {
             "code": "中租-KY",
-            "weight": 0.48
+            "weight": 0.49
         },
         {
             "code": "全家",
-            "weight": 0.51
+            "weight": 0.5
         },
         {
             "code": "寶雅",
-            "weight": 1.05
+            "weight": 1.03
         },
         {
             "code": "群益證",
-            "weight": 0.35
+            "weight": 0.36
         },
         {
             "code": "新普",
-            "weight": 1.45
+            "weight": 1.46
         },
         {
             "code": "亞翔",
-            "weight": 3.05
+            "weight": 3.15
         },
         {
             "code": "頎邦",
@@ -9162,39 +9118,39 @@ const etfData = {
         },
         {
             "code": "瑞儀",
-            "weight": 1.4
+            "weight": 1.44
         },
         {
             "code": "力成",
-            "weight": 0.49
+            "weight": 0.52
         },
         {
             "code": "群電",
-            "weight": 0.96
+            "weight": 1.0
         },
         {
             "code": "樺漢",
-            "weight": 0.49
+            "weight": 0.47
         },
         {
             "code": "緯穎",
-            "weight": 7.57
+            "weight": 6.91
         },
         {
             "code": "復盛應用",
-            "weight": 1.32
+            "weight": 1.26
         },
         {
             "code": "洋基工程",
-            "weight": 1.29
+            "weight": 1.35
         },
         {
             "code": "至上",
-            "weight": 0.4
+            "weight": 0.35
         },
         {
             "code": "群聯",
-            "weight": 2.5
+            "weight": 2.46
         }
     ],
     "野村臺灣新科技50(00935)": [
@@ -9204,91 +9160,91 @@ const etfData = {
         },
         {
             "code": "光寶科",
-            "weight": 1.72
+            "weight": 1.74
         },
         {
             "code": "聯電",
-            "weight": 3.77
+            "weight": 3.53
         },
         {
             "code": "台達電",
-            "weight": 6.57
+            "weight": 7.55
         },
         {
             "code": "華通",
-            "weight": 0.43
+            "weight": 0.45
         },
         {
             "code": "國巨",
-            "weight": 1.68
+            "weight": 1.76
         },
         {
             "code": "台積電",
-            "weight": 30.87
+            "weight": 31.08
         },
         {
             "code": "華邦電",
-            "weight": 0.46
+            "weight": 0.38
         },
         {
             "code": "智邦",
-            "weight": 3.01
+            "weight": 3.03
         },
         {
             "code": "佳世達",
-            "weight": 0.32
+            "weight": 0.31
         },
         {
             "code": "英業達",
-            "weight": 0.93
+            "weight": 0.92
         },
         {
             "code": "致茂",
-            "weight": 1.12
+            "weight": 1.09
         },
         {
             "code": "金像電",
-            "weight": 0.64
+            "weight": 0.75
         },
         {
             "code": "瑞昱",
-            "weight": 2.01
+            "weight": 1.93
         },
         {
             "code": "威盛",
-            "weight": 0.24
+            "weight": 0.21
         },
         {
             "code": "京元電子",
-            "weight": 0.86
+            "weight": 0.87
         },
         {
             "code": "聯發科",
-            "weight": 14.38
+            "weight": 14.94
         },
         {
             "code": "義隆",
-            "weight": 0.25
+            "weight": 0.24
         },
         {
             "code": "華新科",
-            "weight": 0.23
+            "weight": 0.22
         },
         {
             "code": "奇鋐",
-            "weight": 1.81
+            "weight": 1.94
         },
         {
             "code": "信邦",
-            "weight": 0.35
+            "weight": 0.36
         },
         {
             "code": "聯詠",
-            "weight": 2.3
+            "weight": 2.01
         },
         {
             "code": "智原",
-            "weight": 0.31
+            "weight": 0.28
         },
         {
             "code": "穩懋",
@@ -9296,79 +9252,79 @@ const etfData = {
         },
         {
             "code": "景碩",
-            "weight": 0.18
+            "weight": 0.19
         },
         {
             "code": "緯創",
-            "weight": 2.57
+            "weight": 2.25
         },
         {
             "code": "鈊象",
-            "weight": 1.56
+            "weight": 1.35
         },
         {
             "code": "雙鴻",
-            "weight": 0.36
+            "weight": 0.32
         },
         {
             "code": "精材",
-            "weight": 0.17
+            "weight": 0.16
         },
         {
             "code": "創意",
-            "weight": 0.78
+            "weight": 0.73
         },
         {
             "code": "力旺",
-            "weight": 1.22
+            "weight": 0.97
         },
         {
             "code": "嘉澤",
-            "weight": 0.86
+            "weight": 0.85
         },
         {
             "code": "健策",
-            "weight": 1.15
+            "weight": 1.05
         },
         {
             "code": "世芯-KY",
-            "weight": 1.61
+            "weight": 2.06
         },
         {
             "code": "貿聯-KY",
-            "weight": 1.1
+            "weight": 1.08
         },
         {
             "code": "家登",
-            "weight": 0.21
+            "weight": 0.17
         },
         {
             "code": "日月光投控",
-            "weight": 3.69
+            "weight": 3.48
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.47
+            "weight": 0.52
         },
         {
             "code": "祥碩",
-            "weight": 0.68
+            "weight": 0.64
         },
         {
             "code": "信驊",
-            "weight": 1.02
+            "weight": 0.93
         },
         {
             "code": "世界",
-            "weight": 0.74
+            "weight": 0.68
         },
         {
             "code": "頎邦",
-            "weight": 0.28
+            "weight": 0.26
         },
         {
             "code": "旺矽",
-            "weight": 0.56
+            "weight": 0.57
         },
         {
             "code": "力成",
@@ -9376,7 +9332,7 @@ const etfData = {
         },
         {
             "code": "啟碁",
-            "weight": 0.33
+            "weight": 0.3
         },
         {
             "code": "群電",
@@ -9384,11 +9340,11 @@ const etfData = {
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.92
+            "weight": 0.81
         },
         {
             "code": "環球晶",
-            "weight": 0.57
+            "weight": 0.61
         },
         {
             "code": "長科*",
@@ -9396,171 +9352,175 @@ const etfData = {
         },
         {
             "code": "采鈺",
-            "weight": 0.17
+            "weight": 0.16
         }
     ],
     "台新永續高息中小(00936)": [
         {
             "code": "遠東新",
-            "weight": 3.41
+            "weight": 3.29
+        },
+        {
+            "code": "福懋",
+            "weight": 0.9
         },
         {
             "code": "聚陽",
-            "weight": 2.76
+            "weight": 4.21
         },
         {
             "code": "中興電",
-            "weight": 3.86
+            "weight": 3.24
         },
         {
             "code": "東和鋼鐵",
-            "weight": 2.35
+            "weight": 2.79
         },
         {
-            "code": "中華",
-            "weight": 2.62
+            "code": "仁寶",
+            "weight": 3.95
         },
         {
-            "code": "宏碁",
-            "weight": 2.58
+            "code": "聯強",
+            "weight": 3.59
+        },
+        {
+            "code": "大同",
+            "weight": 4.04
         },
         {
             "code": "技嘉",
-            "weight": 3.71
+            "weight": 4.06
         },
         {
             "code": "群光",
             "weight": 3.51
         },
         {
-            "code": "創見",
-            "weight": 2.95
+            "code": "億光",
+            "weight": 2.78
+        },
+        {
+            "code": "漢唐",
+            "weight": 5.54
+        },
+        {
+            "code": "京元電子",
+            "weight": 4.26
         },
         {
             "code": "可成",
-            "weight": 4.67
+            "weight": 4.03
         },
         {
-            "code": "裕民",
-            "weight": 3.27
-        },
-        {
-            "code": "長榮航",
-            "weight": 3.07
-        },
-        {
-            "code": "京城銀",
-            "weight": 3.74
-        },
-        {
-            "code": "統一證",
-            "weight": 1.51
-        },
-        {
-            "code": "國票金",
-            "weight": 2.97
-        },
-        {
-            "code": "神基",
-            "weight": 3.95
-        },
-        {
-            "code": "大聯大",
-            "weight": 3.89
-        },
-        {
-            "code": "世界",
-            "weight": 3.8
-        },
-        {
-            "code": "遠雄",
-            "weight": 1.66
-        },
-        {
-            "code": "中租-KY",
-            "weight": 3.53
-        },
-        {
-            "code": "全家",
-            "weight": 0.66
-        },
-        {
-            "code": "群益證",
+            "code": "國產",
             "weight": 3.06
         },
         {
-            "code": "亞翔",
-            "weight": 5.35
+            "code": "冠德",
+            "weight": 2.29
         },
         {
-            "code": "頎邦",
-            "weight": 3.08
+            "code": "裕民",
+            "weight": 3.45
+        },
+        {
+            "code": "長榮航",
+            "weight": 4.1
+        },
+        {
+            "code": "統一證",
+            "weight": 0.12
+        },
+        {
+            "code": "神基",
+            "weight": 3.13
+        },
+        {
+            "code": "文曄",
+            "weight": 4.86
+        },
+        {
+            "code": "世界",
+            "weight": 3.59
+        },
+        {
+            "code": "中租-KY",
+            "weight": 3.43
+        },
+        {
+            "code": "全家",
+            "weight": 0.87
+        },
+        {
+            "code": "群益證",
+            "weight": 3.12
         },
         {
             "code": "瑞儀",
-            "weight": 2.74
+            "weight": 3.46
         },
         {
-            "code": "力成",
-            "weight": 4.74
+            "code": "橘子",
+            "weight": 1.04
         },
         {
-            "code": "台燿",
-            "weight": 4.56
+            "code": "復盛應用",
+            "weight": 3.86
         },
         {
-            "code": "群電",
-            "weight": 1.73
-        },
-        {
-            "code": "至上",
-            "weight": 2.42
+            "code": "志強-KY",
+            "weight": 1.81
         },
         {
             "code": "群聯",
-            "weight": 5.08
+            "weight": 3.3
+        },
+        {
+            "code": "百和",
+            "weight": 1.47
         }
     ],
     "凱基優選30(00938)": [
         {
             "code": "潤隆",
-            "weight": 0.5
+            "weight": 0.57
         },
         {
             "code": "東和鋼鐵",
-            "weight": 0.56
+            "weight": 0.48
         },
         {
             "code": "三陽工業",
-            "weight": 0.77
+            "weight": 0.78
         },
         {
             "code": "台積電",
-            "weight": 30.41
+            "weight": 30.83
         },
         {
             "code": "聯強",
-            "weight": 1.48
+            "weight": 1.49
         },
         {
             "code": "群光",
-            "weight": 1.45
+            "weight": 1.44
         },
         {
             "code": "億光",
-            "weight": 0.53
+            "weight": 0.63
         },
         {
             "code": "興富發",
-            "weight": 1.42
+            "weight": 1.56
         },
         {
             "code": "華航",
-            "weight": 1.39
+            "weight": 1.31
         },
         {
             "code": "長榮航",
-            "weight": 3.2
+            "weight": 3.03
         },
         {
             "code": "京城銀",
@@ -9568,237 +9528,237 @@ const etfData = {
         },
         {
             "code": "富邦金",
-            "weight": 9.43
+            "weight": 8.92
         },
         {
             "code": "國泰金",
-            "weight": 7.28
+            "weight": 6.4
         },
         {
             "code": "凱基金",
-            "weight": 4.49
+            "weight": 3.86
         },
         {
             "code": "元大金",
-            "weight": 4.73
+            "weight": 4.08
         },
         {
             "code": "台新金",
-            "weight": 3.44
+            "weight": 3.9
         },
         {
             "code": "永豐金",
-            "weight": 4.97
+            "weight": 5.66
         },
         {
             "code": "中信金",
-            "weight": 8.78
+            "weight": 8.13
         },
         {
             "code": "華立",
-            "weight": 0.41
+            "weight": 0.38
         },
         {
             "code": "崇越",
-            "weight": 0.91
+            "weight": 0.92
         },
         {
             "code": "中租-KY",
-            "weight": 3.28
+            "weight": 3.77
         },
         {
             "code": "新普",
-            "weight": 1.23
+            "weight": 1.2
         },
         {
             "code": "矽格",
-            "weight": 0.68
+            "weight": 0.52
         },
         {
             "code": "台表科",
-            "weight": 0.47
+            "weight": 0.45
         },
         {
             "code": "樺漢",
-            "weight": 0.55
+            "weight": 0.51
         },
         {
             "code": "矽創",
-            "weight": 0.43
+            "weight": 0.38
         },
         {
             "code": "至上",
-            "weight": 0.42
+            "weight": 0.32
         },
         {
             "code": "寶成",
-            "weight": 1.45
+            "weight": 1.33
         },
         {
             "code": "裕融",
-            "weight": 0.55
+            "weight": 0.63
         },
         {
             "code": "潤泰新",
-            "weight": 1.1
+            "weight": 1.02
         }
     ],
     "統一台灣高息動能(00939)": [
         {
             "code": "遠東新",
-            "weight": 2.72
+            "weight": 2.52
         },
         {
             "code": "東元",
-            "weight": 1.02
+            "weight": 1.04
         },
         {
             "code": "正新",
-            "weight": 1.67
+            "weight": 1.94
         },
         {
             "code": "中華",
-            "weight": 0.38
+            "weight": 0.37
         },
         {
             "code": "長榮鋼",
-            "weight": 0.45
-        },
-        {
-            "code": "聯電",
-            "weight": 5.16
-        },
-        {
-            "code": "宏碁",
-            "weight": 0.86
-        },
-        {
-            "code": "華碩",
-            "weight": 5.76
-        },
-        {
-            "code": "瑞昱",
-            "weight": 3.83
-        },
-        {
-            "code": "群光",
-            "weight": 1.68
-        },
-        {
-            "code": "漢唐",
-            "weight": 1.16
-        },
-        {
-            "code": "京元電子",
-            "weight": 1.39
-        },
-        {
-            "code": "國產",
             "weight": 0.46
         },
         {
+            "code": "聯電",
+            "weight": 5.07
+        },
+        {
+            "code": "宏碁",
+            "weight": 0.93
+        },
+        {
+            "code": "華碩",
+            "weight": 5.11
+        },
+        {
+            "code": "瑞昱",
+            "weight": 4.42
+        },
+        {
+            "code": "群光",
+            "weight": 1.8
+        },
+        {
+            "code": "漢唐",
+            "weight": 1.44
+        },
+        {
+            "code": "京元電子",
+            "weight": 1.58
+        },
+        {
+            "code": "國產",
+            "weight": 0.43
+        },
+        {
             "code": "長榮",
-            "weight": 6.09
+            "weight": 6.34
         },
         {
             "code": "裕民",
-            "weight": 0.4
+            "weight": 0.48
         },
         {
             "code": "陽明",
-            "weight": 5.4
+            "weight": 4.46
         },
         {
             "code": "長榮航",
-            "weight": 3.56
+            "weight": 3.21
         },
         {
             "code": "富邦金",
-            "weight": 6.65
+            "weight": 6.11
         },
         {
             "code": "國泰金",
-            "weight": 7.04
+            "weight": 6.21
         },
         {
             "code": "凱基金",
-            "weight": 4.31
+            "weight": 3.83
         },
         {
             "code": "元大金",
-            "weight": 4.74
+            "weight": 4.22
         },
         {
             "code": "台新金",
-            "weight": 3.02
+            "weight": 3.46
         },
         {
             "code": "中信金",
-            "weight": 5.45
+            "weight": 5.9
         },
         {
             "code": "神基",
-            "weight": 0.56
+            "weight": 0.5
         },
         {
             "code": "聯詠",
-            "weight": 4.28
+            "weight": 4.19
         },
         {
             "code": "文曄",
-            "weight": 2.33
+            "weight": 2.35
         },
         {
             "code": "晶技",
-            "weight": 0.4
-        },
-        {
-            "code": "健鼎",
-            "weight": 1.07
-        },
-        {
-            "code": "欣銓",
-            "weight": 0.52
-        },
-        {
-            "code": "京鼎",
-            "weight": 0.47
-        },
-        {
-            "code": "大聯大",
-            "weight": 1.15
-        },
-        {
-            "code": "致伸",
             "weight": 0.42
         },
         {
+            "code": "健鼎",
+            "weight": 1.25
+        },
+        {
+            "code": "欣銓",
+            "weight": 0.49
+        },
+        {
+            "code": "京鼎",
+            "weight": 0.48
+        },
+        {
+            "code": "大聯大",
+            "weight": 1.28
+        },
+        {
+            "code": "致伸",
+            "weight": 0.45
+        },
+        {
             "code": "和碩",
-            "weight": 2.85
+            "weight": 3.25
         },
         {
             "code": "世界",
-            "weight": 2.62
+            "weight": 2.57
         },
         {
             "code": "中租-KY",
-            "weight": 2.74
+            "weight": 3.33
         },
         {
             "code": "亞翔",
-            "weight": 0.55
+            "weight": 0.73
         },
         {
             "code": "瑞儀",
-            "weight": 0.64
+            "weight": 0.7
         },
         {
             "code": "力成",
-            "weight": 0.86
+            "weight": 1.05
         },
         {
             "code": "矽格",
-            "weight": 0.59
+            "weight": 0.52
         },
         {
             "code": "樺漢",
@@ -9808,115 +9768,115 @@ const etfData = {
     "元大台灣價值高息(00940)": [
         {
             "code": "亞泥",
-            "weight": 2.23
+            "weight": 2.17
         },
         {
             "code": "統一",
-            "weight": 1.97
+            "weight": 2.14
         },
         {
             "code": "東陽",
-            "weight": 1.48
+            "weight": 1.55
         },
         {
             "code": "東元",
-            "weight": 1.99
+            "weight": 1.97
         },
         {
             "code": "聯電",
-            "weight": 2.99
+            "weight": 2.64
         },
         {
             "code": "華碩",
-            "weight": 3.38
+            "weight": 3.08
         },
         {
             "code": "瑞昱",
-            "weight": 2.55
+            "weight": 2.67
         },
         {
             "code": "廣達",
-            "weight": 3.32
+            "weight": 3.07
         },
         {
             "code": "群光",
-            "weight": 2.54
+            "weight": 2.53
         },
         {
             "code": "億光",
-            "weight": 0.73
+            "weight": 0.85
         },
         {
             "code": "漢唐",
-            "weight": 2.29
+            "weight": 3.08
         },
         {
             "code": "美律",
-            "weight": 0.83
+            "weight": 0.84
         },
         {
             "code": "聯發科",
-            "weight": 0.87
+            "weight": 1.37
         },
         {
             "code": "義隆",
-            "weight": 1.25
+            "weight": 1.17
         },
         {
             "code": "可成",
-            "weight": 1.69
+            "weight": 1.42
         },
         {
             "code": "長榮",
-            "weight": 7.27
+            "weight": 6.59
         },
         {
             "code": "陽明",
-            "weight": 5.55
+            "weight": 4.8
         },
         {
             "code": "華航",
-            "weight": 2.21
+            "weight": 2.04
         },
         {
             "code": "萬海",
-            "weight": 1.72
+            "weight": 1.66
         },
         {
             "code": "長榮航",
-            "weight": 3.2
+            "weight": 3.1
         },
         {
             "code": "富邦金",
-            "weight": 1.0
+            "weight": 0.96
         },
         {
             "code": "兆豐金",
-            "weight": 2.11
+            "weight": 2.32
         },
         {
             "code": "中信金",
-            "weight": 2.97
+            "weight": 2.89
         },
         {
             "code": "第一金",
-            "weight": 2.08
+            "weight": 2.14
         },
         {
             "code": "潤泰全",
-            "weight": 0.7
+            "weight": 0.67
         },
         {
             "code": "神基",
-            "weight": 1.89
+            "weight": 1.9
         },
         {
             "code": "聯詠",
-            "weight": 2.73
+            "weight": 2.47
         },
         {
             "code": "文曄",
-            "weight": 2.76
+            "weight": 2.44
         },
         {
             "code": "晶技",
@@ -9924,43 +9884,43 @@ const etfData = {
         },
         {
             "code": "健鼎",
-            "weight": 2.95
+            "weight": 3.33
         },
         {
             "code": "順達",
-            "weight": 0.88
+            "weight": 0.72
         },
         {
             "code": "鈊象",
-            "weight": 1.96
+            "weight": 1.85
         },
         {
             "code": "玉晶光",
-            "weight": 1.38
+            "weight": 1.44
         },
         {
             "code": "京鼎",
-            "weight": 0.84
+            "weight": 0.79
         },
         {
             "code": "大聯大",
-            "weight": 2.3
+            "weight": 2.33
         },
         {
             "code": "日月光投控",
-            "weight": 2.16
+            "weight": 2.21
         },
         {
             "code": "致伸",
-            "weight": 0.85
+            "weight": 0.87
         },
         {
             "code": "和碩",
-            "weight": 2.4
+            "weight": 2.56
         },
         {
             "code": "天鈺",
-            "weight": 0.64
+            "weight": 0.52
         },
         {
             "code": "頎邦",
@@ -9968,31 +9928,31 @@ const etfData = {
         },
         {
             "code": "瑞儀",
-            "weight": 1.1
+            "weight": 1.25
         },
         {
             "code": "帆宣",
-            "weight": 0.72
+            "weight": 0.8
         },
         {
             "code": "力成",
-            "weight": 2.42
+            "weight": 2.61
         },
         {
             "code": "矽格",
-            "weight": 1.1
+            "weight": 1.04
         },
         {
             "code": "台表科",
-            "weight": 0.66
+            "weight": 0.64
         },
         {
             "code": "啟碁",
-            "weight": 1.33
+            "weight": 1.31
         },
         {
             "code": "樺漢",
-            "weight": 1.08
+            "weight": 1.05
         },
         {
             "code": "矽創",
@@ -10000,281 +9960,273 @@ const etfData = {
         },
         {
             "code": "群聯",
-            "weight": 1.47
+            "weight": 1.43
         },
         {
             "code": "寶成",
-            "weight": 2.22
+            "weight": 2.07
         }
     ],
     "中信上游半導體(00941)": [
         {
+            "code": "景碩",
+            "weight": 0.13
+        },
+        {
             "code": "健策",
-            "weight": 0.37
+            "weight": 0.31
         },
         {
             "code": "崇越",
-            "weight": 0.23
+            "weight": 0.25
+        },
+        {
+            "code": "旺矽",
+            "weight": 0.19
         }
     ],
     "兆豐電子高息等權(00943)": [
         {
             "code": "聯電",
-            "weight": 2.11
+            "weight": 1.81
+        },
+        {
+            "code": "仁寶",
+            "weight": 2.02
         },
         {
             "code": "聯強",
-            "weight": 1.83
-        },
-        {
-            "code": "佳世達",
-            "weight": 1.5
-        },
-        {
-            "code": "瑞昱",
-            "weight": 2.26
-        },
-        {
-            "code": "群光",
-            "weight": 1.84
+            "weight": 1.8
         },
         {
             "code": "精元",
-            "weight": 1.52
-        },
-        {
-            "code": "新巨",
-            "weight": 0.8
-        },
-        {
-            "code": "創見",
-            "weight": 2.29
-        },
-        {
-            "code": "聯發科",
-            "weight": 2.02
-        },
-        {
-            "code": "可成",
-            "weight": 2.39
-        },
-        {
-            "code": "華立",
-            "weight": 1.52
-        },
-        {
-            "code": "聯陽",
-            "weight": 2.0
-        },
-        {
-            "code": "威健",
-            "weight": 2.01
-        },
-        {
-            "code": "聯詠",
-            "weight": 2.31
-        },
-        {
-            "code": "晶技",
-            "weight": 1.69
-        },
-        {
-            "code": "日電貿",
-            "weight": 2.26
-        },
-        {
-            "code": "全科",
-            "weight": 2.24
-        },
-        {
-            "code": "順達",
-            "weight": 2.37
-        },
-        {
-            "code": "茂訊",
-            "weight": 0.67
-        },
-        {
-            "code": "臺慶科",
-            "weight": 1.67
-        },
-        {
-            "code": "漢科",
-            "weight": 1.17
-        },
-        {
-            "code": "由田",
-            "weight": 1.51
-        },
-        {
-            "code": "敦泰",
-            "weight": 1.46
-        },
-        {
-            "code": "瑞鼎",
-            "weight": 2.02
-        },
-        {
-            "code": "大聯大",
-            "weight": 2.04
-        },
-        {
-            "code": "致伸",
-            "weight": 1.96
-        },
-        {
-            "code": "和碩",
-            "weight": 1.66
-        },
-        {
-            "code": "緯軟",
-            "weight": 0.53
-        },
-        {
-            "code": "天鈺",
-            "weight": 1.86
-        },
-        {
-            "code": "宜鼎",
-            "weight": 2.24
-        },
-        {
-            "code": "世界",
-            "weight": 2.21
-        },
-        {
-            "code": "松翰",
-            "weight": 0.61
-        },
-        {
-            "code": "新普",
-            "weight": 2.1
-        },
-        {
-            "code": "耕興",
-            "weight": 1.72
-        },
-        {
-            "code": "頎邦",
-            "weight": 1.83
-        },
-        {
-            "code": "瑞儀",
-            "weight": 1.49
-        },
-        {
-            "code": "力成",
-            "weight": 2.33
-        },
-        {
-            "code": "久元",
-            "weight": 1.09
-        },
-        {
-            "code": "台郡",
-            "weight": 1.7
-        },
-        {
-            "code": "台表科",
-            "weight": 2.19
-        },
-        {
-            "code": "朋億*",
-            "weight": 1.89
-        },
-        {
-            "code": "洋基工程",
-            "weight": 2.49
-        },
-        {
-            "code": "昇佳電子",
-            "weight": 1.43
-        },
-        {
-            "code": "矽創",
-            "weight": 2.09
-        },
-        {
-            "code": "南電",
-            "weight": 2.11
-        },
-        {
-            "code": "廣積",
-            "weight": 1.76
-        },
-        {
-            "code": "長華*",
             "weight": 1.64
         },
         {
-            "code": "致新",
-            "weight": 2.09
+            "code": "友達",
+            "weight": 1.85
         },
         {
-            "code": "翔名",
-            "weight": 0.82
+            "code": "美律",
+            "weight": 1.92
         },
         {
-            "code": "至上",
-            "weight": 1.58
+            "code": "可成",
+            "weight": 1.96
         },
         {
-            "code": "南茂",
+            "code": "敦陽科",
+            "weight": 1.93
+        },
+        {
+            "code": "華立",
+            "weight": 1.79
+        },
+        {
+            "code": "聯陽",
+            "weight": 1.87
+        },
+        {
+            "code": "威健",
+            "weight": 1.96
+        },
+        {
+            "code": "聯詠",
+            "weight": 1.88
+        },
+        {
+            "code": "日電貿",
+            "weight": 1.87
+        },
+        {
+            "code": "全科",
+            "weight": 1.82
+        },
+        {
+            "code": "茂訊",
+            "weight": 2.14
+        },
+        {
+            "code": "臺慶科",
+            "weight": 1.81
+        },
+        {
+            "code": "漢科",
+            "weight": 1.95
+        },
+        {
+            "code": "安勤",
             "weight": 1.86
         },
         {
+            "code": "凡甲",
+            "weight": 2.07
+        },
+        {
+            "code": "台勝科",
+            "weight": 2.31
+        },
+        {
+            "code": "瑞鼎",
+            "weight": 1.92
+        },
+        {
+            "code": "大聯大",
+            "weight": 1.89
+        },
+        {
+            "code": "永崴投控",
+            "weight": 1.86
+        },
+        {
+            "code": "正文",
+            "weight": 1.77
+        },
+        {
+            "code": "致伸",
+            "weight": 1.74
+        },
+        {
+            "code": "和碩",
+            "weight": 1.81
+        },
+        {
+            "code": "緯軟",
+            "weight": 1.89
+        },
+        {
+            "code": "天鈺",
+            "weight": 1.65
+        },
+        {
+            "code": "世界",
+            "weight": 1.99
+        },
+        {
+            "code": "中光電",
+            "weight": 2.29
+        },
+        {
+            "code": "台半",
+            "weight": 1.97
+        },
+        {
+            "code": "中美晶",
+            "weight": 2.13
+        },
+        {
+            "code": "新普",
+            "weight": 2.0
+        },
+        {
+            "code": "茂達",
+            "weight": 2.13
+        },
+        {
+            "code": "頎邦",
+            "weight": 1.71
+        },
+        {
+            "code": "瑞儀",
+            "weight": 1.74
+        },
+        {
+            "code": "豐藝",
+            "weight": 1.98
+        },
+        {
+            "code": "力成",
+            "weight": 2.09
+        },
+        {
+            "code": "立端",
+            "weight": 1.92
+        },
+        {
+            "code": "台表科",
+            "weight": 1.8
+        },
+        {
+            "code": "朋億*",
+            "weight": 2.02
+        },
+        {
+            "code": "矽創",
+            "weight": 1.81
+        },
+        {
+            "code": "南電",
+            "weight": 3.19
+        },
+        {
+            "code": "廣積",
+            "weight": 1.77
+        },
+        {
+            "code": "長華*",
+            "weight": 1.88
+        },
+        {
+            "code": "致新",
+            "weight": 1.81
+        },
+        {
+            "code": "翔名",
+            "weight": 1.93
+        },
+        {
+            "code": "至上",
+            "weight": 1.65
+        },
+        {
+            "code": "南茂",
+            "weight": 1.73
+        },
+        {
             "code": "達方",
-            "weight": 1.55
-        },
-        {
-            "code": "富鼎",
-            "weight": 1.4
-        },
-        {
-            "code": "金居",
-            "weight": 2.05
+            "weight": 1.82
         }
     ],
     "野村趨勢動能高息(00944)": [
         {
             "code": "亞泥",
-            "weight": 2.57
+            "weight": 2.42
         },
         {
             "code": "大成",
-            "weight": 2.06
+            "weight": 2.03
         },
         {
             "code": "卜蜂",
-            "weight": 0.97
+            "weight": 0.99
         },
         {
             "code": "遠東新",
-            "weight": 2.26
+            "weight": 1.96
         },
         {
             "code": "葡萄王",
-            "weight": 0.63
+            "weight": 0.67
         },
         {
             "code": "興農",
-            "weight": 0.75
+            "weight": 0.73
         },
         {
             "code": "中碳",
-            "weight": 0.59
+            "weight": 0.56
         },
         {
             "code": "東和鋼鐵",
-            "weight": 1.93
+            "weight": 1.98
         },
         {
             "code": "聯電",
-            "weight": 2.55
+            "weight": 2.48
         },
         {
             "code": "聯強",
-            "weight": 2.2
+            "weight": 2.3
         },
         {
             "code": "瑞昱",
@@ -10282,27 +10234,27 @@ const etfData = {
         },
         {
             "code": "億光",
-            "weight": 1.82
+            "weight": 1.95
         },
         {
             "code": "漢唐",
-            "weight": 3.6
+            "weight": 4.37
         },
         {
             "code": "中華電",
-            "weight": 2.4
+            "weight": 2.22
         },
         {
             "code": "超豐",
-            "weight": 0.92
+            "weight": 0.96
         },
         {
             "code": "創見",
-            "weight": 2.21
+            "weight": 1.9
         },
         {
             "code": "聯發科",
-            "weight": 2.3
+            "weight": 2.48
         },
         {
             "code": "可成",
@@ -10310,63 +10262,63 @@ const etfData = {
         },
         {
             "code": "敦陽科",
-            "weight": 1.02
+            "weight": 1.05
         },
         {
             "code": "長榮",
-            "weight": 2.89
+            "weight": 2.78
         },
         {
             "code": "榮運",
-            "weight": 1.09
+            "weight": 1.1
         },
         {
             "code": "陽明",
-            "weight": 2.89
+            "weight": 2.46
         },
         {
             "code": "華南金",
-            "weight": 2.23
+            "weight": 2.33
         },
         {
             "code": "兆豐金",
-            "weight": 2.43
+            "weight": 2.49
         },
         {
             "code": "中信金",
-            "weight": 2.84
+            "weight": 2.7
         },
         {
             "code": "王道銀行",
-            "weight": 0.74
+            "weight": 0.72
         },
         {
             "code": "神基",
-            "weight": 2.65
+            "weight": 2.58
         },
         {
             "code": "威健",
-            "weight": 0.96
+            "weight": 0.97
         },
         {
             "code": "聯詠",
-            "weight": 2.85
+            "weight": 2.57
         },
         {
             "code": "晶技",
-            "weight": 1.51
+            "weight": 1.47
         },
         {
             "code": "台灣大",
-            "weight": 2.35
+            "weight": 2.1
         },
         {
             "code": "欣銓",
-            "weight": 2.9
+            "weight": 2.7
         },
         {
             "code": "瑞鼎",
-            "weight": 1.6
+            "weight": 1.55
         },
         {
             "code": "東洋",
@@ -10374,23 +10326,23 @@ const etfData = {
         },
         {
             "code": "南寶",
-            "weight": 1.91
+            "weight": 1.94
         },
         {
             "code": "遠傳",
-            "weight": 2.33
+            "weight": 2.1
         },
         {
             "code": "榮剛",
-            "weight": 1.77
+            "weight": 1.64
         },
         {
             "code": "上海商銀",
-            "weight": 2.31
+            "weight": 2.14
         },
         {
             "code": "寶雅",
-            "weight": 2.27
+            "weight": 2.22
         },
         {
             "code": "群益證",
@@ -10398,15 +10350,15 @@ const etfData = {
         },
         {
             "code": "新普",
-            "weight": 3.05
+            "weight": 3.04
         },
         {
             "code": "頎邦",
-            "weight": 2.09
+            "weight": 2.07
         },
         {
             "code": "矽格",
-            "weight": 2.92
+            "weight": 2.83
         },
         {
             "code": "長科*",
@@ -10414,343 +10366,343 @@ const etfData = {
         },
         {
             "code": "復盛應用",
-            "weight": 2.37
+            "weight": 2.25
         },
         {
             "code": "矽創",
-            "weight": 1.77
+            "weight": 1.71
         },
         {
             "code": "可寧衛",
-            "weight": 0.9
+            "weight": 0.94
         },
         {
             "code": "大江",
-            "weight": 1.69
+            "weight": 1.79
         },
         {
             "code": "統一實",
-            "weight": 0.87
+            "weight": 0.82
         },
         {
             "code": "櫻花",
-            "weight": 0.82
+            "weight": 0.83
         }
     ],
     "群益科技高息成長(00946)": [
         {
             "code": "信錦",
-            "weight": 0.49
+            "weight": 0.41
         },
         {
             "code": "聯電",
-            "weight": 8.22
+            "weight": 7.86
         },
         {
             "code": "聯強",
-            "weight": 2.25
+            "weight": 2.31
         },
         {
             "code": "敬鵬",
-            "weight": 0.36
+            "weight": 0.29
         },
         {
             "code": "華碩",
-            "weight": 9.84
+            "weight": 9.1
         },
         {
             "code": "藍天",
-            "weight": 0.49
-        },
-        {
-            "code": "瑞昱",
-            "weight": 0.53
-        },
-        {
-            "code": "群光",
-            "weight": 3.22
-        },
-        {
-            "code": "億光",
-            "weight": 0.49
-        },
-        {
-            "code": "漢唐",
-            "weight": 8.34
-        },
-        {
-            "code": "美律",
-            "weight": 1.78
-        },
-        {
-            "code": "義隆",
-            "weight": 2.43
-        },
-        {
-            "code": "可成",
-            "weight": 5.88
-        },
-        {
-            "code": "神基",
-            "weight": 0.6
-        },
-        {
-            "code": "聯陽",
-            "weight": 0.95
-        },
-        {
-            "code": "威強電",
             "weight": 0.44
         },
         {
-            "code": "威健",
+            "code": "瑞昱",
+            "weight": 0.57
+        },
+        {
+            "code": "群光",
+            "weight": 3.13
+        },
+        {
+            "code": "億光",
+            "weight": 0.84
+        },
+        {
+            "code": "漢唐",
+            "weight": 11.09
+        },
+        {
+            "code": "美律",
+            "weight": 1.89
+        },
+        {
+            "code": "義隆",
+            "weight": 2.59
+        },
+        {
+            "code": "可成",
+            "weight": 5.82
+        },
+        {
+            "code": "神基",
+            "weight": 0.37
+        },
+        {
+            "code": "聯陽",
+            "weight": 0.86
+        },
+        {
+            "code": "威強電",
             "weight": 0.33
         },
         {
+            "code": "威健",
+            "weight": 0.37
+        },
+        {
             "code": "聯詠",
-            "weight": 3.39
+            "weight": 3.05
         },
         {
             "code": "晶技",
-            "weight": 0.42
+            "weight": 0.37
         },
         {
             "code": "健鼎",
-            "weight": 0.64
-        },
-        {
-            "code": "僑威",
-            "weight": 0.51
-        },
-        {
-            "code": "順達",
-            "weight": 4.93
-        },
-        {
-            "code": "威剛",
-            "weight": 2.17
-        },
-        {
-            "code": "欣銓",
-            "weight": 4.65
-        },
-        {
-            "code": "京鼎",
-            "weight": 0.5
-        },
-        {
-            "code": "瑞鼎",
-            "weight": 0.71
-        },
-        {
-            "code": "碩天",
-            "weight": 1.04
-        },
-        {
-            "code": "致伸",
-            "weight": 0.9
-        },
-        {
-            "code": "和碩",
-            "weight": 0.43
-        },
-        {
-            "code": "臻鼎-KY",
-            "weight": 0.48
-        },
-        {
-            "code": "天鈺",
-            "weight": 0.77
-        },
-        {
-            "code": "世界",
-            "weight": 0.53
-        },
-        {
-            "code": "崇越",
             "weight": 0.55
         },
         {
-            "code": "中美晶",
-            "weight": 2.64
+            "code": "僑威",
+            "weight": 0.54
         },
         {
-            "code": "新普",
-            "weight": 2.12
+            "code": "順達",
+            "weight": 4.78
         },
         {
-            "code": "茂達",
-            "weight": 0.87
+            "code": "威剛",
+            "weight": 1.96
         },
         {
-            "code": "亞翔",
-            "weight": 8.32
+            "code": "欣銓",
+            "weight": 4.3
         },
         {
-            "code": "耕興",
-            "weight": 0.18
+            "code": "京鼎",
+            "weight": 0.38
         },
         {
-            "code": "頎邦",
-            "weight": 1.04
+            "code": "瑞鼎",
+            "weight": 0.58
         },
         {
-            "code": "瑞儀",
-            "weight": 2.28
+            "code": "碩天",
+            "weight": 0.9
         },
         {
-            "code": "飛捷",
-            "weight": 0.49
+            "code": "致伸",
+            "weight": 0.83
         },
         {
-            "code": "力成",
-            "weight": 3.55
+            "code": "和碩",
+            "weight": 0.32
         },
         {
-            "code": "立端",
+            "code": "臻鼎-KY",
+            "weight": 0.4
+        },
+        {
+            "code": "天鈺",
+            "weight": 0.56
+        },
+        {
+            "code": "世界",
             "weight": 0.45
         },
         {
-            "code": "矽格",
-            "weight": 1.58
+            "code": "崇越",
+            "weight": 0.43
         },
         {
-            "code": "良維",
-            "weight": 0.5
+            "code": "中美晶",
+            "weight": 2.96
         },
         {
-            "code": "群電",
-            "weight": 0.72
+            "code": "新普",
+            "weight": 2.09
         },
         {
-            "code": "矽創",
-            "weight": 1.18
+            "code": "茂達",
+            "weight": 1.0
         },
         {
-            "code": "台虹",
+            "code": "亞翔",
+            "weight": 9.13
+        },
+        {
+            "code": "耕興",
+            "weight": 0.12
+        },
+        {
+            "code": "頎邦",
+            "weight": 0.98
+        },
+        {
+            "code": "瑞儀",
+            "weight": 2.36
+        },
+        {
+            "code": "飛捷",
+            "weight": 0.43
+        },
+        {
+            "code": "力成",
+            "weight": 3.94
+        },
+        {
+            "code": "立端",
             "weight": 0.49
         },
         {
+            "code": "矽格",
+            "weight": 1.47
+        },
+        {
+            "code": "良維",
+            "weight": 0.42
+        },
+        {
+            "code": "群電",
+            "weight": 0.74
+        },
+        {
+            "code": "矽創",
+            "weight": 1.1
+        },
+        {
+            "code": "台虹",
+            "weight": 0.44
+        },
+        {
             "code": "致新",
-            "weight": 0.78
+            "weight": 0.63
         },
         {
             "code": "群聯",
-            "weight": 0.52
+            "weight": 0.41
         }
     ],
     "台新臺灣IC設計(00947)": [
         {
             "code": "台達電",
-            "weight": 10.45
+            "weight": 13.23
         },
         {
             "code": "旺宏",
-            "weight": 2.33
+            "weight": 2.13
         },
         {
             "code": "華邦電",
-            "weight": 3.8
+            "weight": 3.25
         },
         {
             "code": "矽統",
-            "weight": 1.25
+            "weight": 1.35
         },
         {
             "code": "瑞昱",
-            "weight": 9.25
+            "weight": 9.56
         },
         {
             "code": "威盛",
-            "weight": 0.08
+            "weight": 0.05
         },
         {
             "code": "凌陽",
-            "weight": 0.4
+            "weight": 0.38
         },
         {
             "code": "南亞科",
-            "weight": 3.9
+            "weight": 3.03
         },
         {
             "code": "偉詮電",
-            "weight": 0.35
+            "weight": 0.28
         },
         {
             "code": "聯發科",
-            "weight": 8.51
+            "weight": 9.34
         },
         {
             "code": "義隆",
-            "weight": 2.02
+            "weight": 2.03
         },
         {
             "code": "晶豪科",
-            "weight": 0.1
+            "weight": 0.05
         },
         {
             "code": "聯陽",
-            "weight": 0.99
+            "weight": 0.91
         },
         {
             "code": "聯詠",
-            "weight": 9.0
+            "weight": 8.34
         },
         {
             "code": "晶宏",
-            "weight": 0.08
+            "weight": 0.06
         },
         {
             "code": "亞信",
-            "weight": 0.18
+            "weight": 0.15
         },
         {
             "code": "原相",
-            "weight": 1.8
+            "weight": 1.61
         },
         {
             "code": "金麗科",
-            "weight": 0.09
-        },
-        {
-            "code": "敦泰",
-            "weight": 0.09
-        },
-        {
-            "code": "瑞鼎",
-            "weight": 0.22
-        },
-        {
-            "code": "新唐",
             "weight": 0.1
         },
         {
+            "code": "敦泰",
+            "weight": 0.07
+        },
+        {
+            "code": "瑞鼎",
+            "weight": 0.14
+        },
+        {
+            "code": "新唐",
+            "weight": 0.06
+        },
+        {
             "code": "天鈺",
-            "weight": 0.76
+            "weight": 0.59
         },
         {
             "code": "譜瑞-KY",
-            "weight": 2.59
+            "weight": 2.61
         },
         {
             "code": "立積",
-            "weight": 0.09
+            "weight": 0.06
         },
         {
             "code": "凌陽創新",
-            "weight": 0.21
+            "weight": 0.16
         },
         {
             "code": "祥碩",
-            "weight": 5.57
+            "weight": 5.58
         },
         {
             "code": "信驊",
-            "weight": 8.22
+            "weight": 8.04
         },
         {
             "code": "世紀*",
-            "weight": 0.7
+            "weight": 1.15
         },
         {
             "code": "鈺創",
@@ -10758,35 +10710,35 @@ const etfData = {
         },
         {
             "code": "創惟",
-            "weight": 0.8
+            "weight": 0.67
         },
         {
             "code": "茂達",
-            "weight": 0.74
+            "weight": 0.72
         },
         {
             "code": "盛群",
-            "weight": 0.23
+            "weight": 0.18
         },
         {
             "code": "晶焱",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "矽力*-KY",
-            "weight": 7.61
+            "weight": 7.1
         },
         {
             "code": "神盾",
-            "weight": 0.12
+            "weight": 0.1
         },
         {
             "code": "達發",
-            "weight": 1.78
+            "weight": 1.72
         },
         {
             "code": "愛普*",
-            "weight": 2.37
+            "weight": 2.45
         },
         {
             "code": "鈺太",
@@ -10794,81 +10746,81 @@ const etfData = {
         },
         {
             "code": "力智",
-            "weight": 0.7
+            "weight": 0.62
         },
         {
             "code": "昇佳電子",
-            "weight": 0.1
-        },
-        {
-            "code": "威鋒電子",
-            "weight": 0.09
-        },
-        {
-            "code": "奕力-KY",
-            "weight": 0.86
-        },
-        {
-            "code": "力領科技",
             "weight": 0.08
         },
         {
+            "code": "威鋒電子",
+            "weight": 0.07
+        },
+        {
+            "code": "奕力-KY",
+            "weight": 0.79
+        },
+        {
+            "code": "力領科技",
+            "weight": 0.07
+        },
+        {
             "code": "博盛半導體",
-            "weight": 0.09
+            "weight": 0.07
         },
         {
             "code": "矽創",
-            "weight": 1.19
+            "weight": 1.13
         },
         {
             "code": "九暘",
-            "weight": 0.14
+            "weight": 0.13
         },
         {
             "code": "安國",
-            "weight": 0.15
+            "weight": 0.13
         },
         {
             "code": "致新",
-            "weight": 0.93
+            "weight": 0.82
         },
         {
             "code": "富鼎",
-            "weight": 0.4
+            "weight": 0.38
         },
         {
             "code": "群聯",
-            "weight": 5.34
+            "weight": 5.33
         }
     ],
     "凱基台灣AI50(00952)": [
         {
             "code": "光寶科",
-            "weight": 3.93
+            "weight": 4.14
         },
         {
             "code": "聯電",
-            "weight": 3.33
+            "weight": 3.24
         },
         {
             "code": "金寶",
-            "weight": 1.75
+            "weight": 1.55
         },
         {
             "code": "鴻海",
-            "weight": 3.91
+            "weight": 4.17
         },
         {
             "code": "中環",
-            "weight": 1.03
+            "weight": 1.02
         },
         {
             "code": "廣宇",
-            "weight": 1.13
+            "weight": 1.14
         },
         {
             "code": "華泰",
-            "weight": 1.35
+            "weight": 1.24
         },
         {
             "code": "佳世達",
@@ -10876,51 +10828,51 @@ const etfData = {
         },
         {
             "code": "英業達",
-            "weight": 3.48
+            "weight": 3.59
         },
         {
             "code": "技嘉",
-            "weight": 4.3
+            "weight": 4.29
         },
         {
             "code": "廣達",
-            "weight": 4.27
+            "weight": 3.83
         },
         {
             "code": "台光電",
-            "weight": 5.33
+            "weight": 6.13
         },
         {
             "code": "新巨",
-            "weight": 1.03
+            "weight": 1.04
         },
         {
             "code": "建準",
-            "weight": 2.02
+            "weight": 2.21
         },
         {
             "code": "創見",
-            "weight": 1.75
+            "weight": 1.53
         },
         {
             "code": "普安",
-            "weight": 0.94
+            "weight": 0.89
         },
         {
             "code": "全漢",
-            "weight": 1.06
+            "weight": 1.04
         },
         {
             "code": "信邦",
-            "weight": 1.75
+            "weight": 1.81
         },
         {
             "code": "偉訓",
-            "weight": 1.38
+            "weight": 1.78
         },
         {
             "code": "力特",
-            "weight": 0.86
+            "weight": 0.82
         },
         {
             "code": "僑威",
@@ -10928,79 +10880,79 @@ const etfData = {
         },
         {
             "code": "艾訊",
-            "weight": 0.91
+            "weight": 0.92
         },
         {
             "code": "亞信",
-            "weight": 0.94
+            "weight": 0.93
         },
         {
             "code": "緯創",
-            "weight": 4.24
+            "weight": 3.88
         },
         {
             "code": "威剛",
-            "weight": 1.94
+            "weight": 1.84
         },
         {
             "code": "台星科",
-            "weight": 1.16
+            "weight": 1.15
         },
         {
             "code": "明泰",
-            "weight": 1.1
+            "weight": 1.01
         },
         {
             "code": "京鼎",
-            "weight": 2.0
+            "weight": 1.92
         },
         {
             "code": "力致",
-            "weight": 1.12
+            "weight": 1.08
         },
         {
             "code": "康普",
-            "weight": 1.12
+            "weight": 1.29
         },
         {
             "code": "三福化",
-            "weight": 1.16
+            "weight": 1.13
         },
         {
             "code": "晶呈科技",
-            "weight": 0.81
+            "weight": 0.87
         },
         {
             "code": "友輝",
-            "weight": 0.97
+            "weight": 0.89
         },
         {
             "code": "和碩",
-            "weight": 3.21
+            "weight": 3.38
         },
         {
             "code": "譜瑞-KY",
-            "weight": 1.89
+            "weight": 1.83
         },
         {
             "code": "達興材料",
-            "weight": 1.77
+            "weight": 1.53
         },
         {
             "code": "宜鼎",
-            "weight": 1.76
+            "weight": 1.63
         },
         {
             "code": "世界",
-            "weight": 1.86
+            "weight": 1.8
         },
         {
             "code": "崇越",
-            "weight": 1.94
+            "weight": 2.01
         },
         {
             "code": "帆宣",
-            "weight": 1.21
+            "weight": 1.31
         },
         {
             "code": "海韻電",
@@ -11008,611 +10960,603 @@ const etfData = {
         },
         {
             "code": "聯茂",
-            "weight": 1.41
+            "weight": 1.54
         },
         {
             "code": "啟碁",
-            "weight": 1.64
+            "weight": 1.59
         },
         {
             "code": "群電",
-            "weight": 1.75
+            "weight": 1.82
         },
         {
             "code": "達發",
-            "weight": 1.91
+            "weight": 1.84
         },
         {
             "code": "愛普*",
-            "weight": 2.07
+            "weight": 2.24
         },
         {
             "code": "是方",
-            "weight": 1.01
+            "weight": 0.93
         },
         {
             "code": "緯穎",
-            "weight": 4.83
+            "weight": 4.56
         },
         {
             "code": "台虹",
-            "weight": 1.05
+            "weight": 1.09
         },
         {
             "code": "明基材",
-            "weight": 1.05
+            "weight": 1.0
         }
     ],
     "野村全球航運龍頭(00960)": [
         {
             "code": "長榮",
-            "weight": 8.2
+            "weight": 7.84
         },
         {
             "code": "裕民",
-            "weight": 0.95
+            "weight": 1.02
         },
         {
             "code": "陽明",
-            "weight": 6.8
+            "weight": 5.75
         },
         {
             "code": "萬海",
-            "weight": 5.87
+            "weight": 5.49
         },
         {
             "code": "慧洋-KY",
-            "weight": 0.9
+            "weight": 0.98
         }
     ],
     "FT臺灣永續高息(00961)": [
         {
             "code": "亞泥",
-            "weight": 1.31
+            "weight": 1.29
         },
         {
             "code": "遠東新",
-            "weight": 4.75
+            "weight": 4.36
         },
         {
             "code": "聚陽",
-            "weight": 1.65
+            "weight": 1.91
         },
         {
             "code": "正新",
-            "weight": 1.05
+            "weight": 1.17
         },
         {
             "code": "光寶科",
-            "weight": 1.53
+            "weight": 1.71
         },
         {
             "code": "聯電",
-            "weight": 1.56
+            "weight": 1.59
         },
         {
             "code": "聯強",
-            "weight": 4.55
+            "weight": 5.04
         },
         {
             "code": "宏碁",
-            "weight": 1.18
+            "weight": 1.23
         },
         {
             "code": "華碩",
-            "weight": 5.6
+            "weight": 5.31
         },
         {
             "code": "群光",
-            "weight": 4.39
+            "weight": 4.61
         },
         {
             "code": "可成",
-            "weight": 2.16
+            "weight": 2.23
         },
         {
             "code": "長榮",
-            "weight": 8.18
+            "weight": 8.13
         },
         {
             "code": "陽明",
-            "weight": 7.3
+            "weight": 6.48
         },
         {
             "code": "長榮航",
-            "weight": 4.86
+            "weight": 4.9
         },
         {
             "code": "慧洋-KY",
-            "weight": 1.74
+            "weight": 1.96
         },
         {
             "code": "凱基金",
-            "weight": 4.3
+            "weight": 4.16
         },
         {
             "code": "台新金",
-            "weight": 4.74
+            "weight": 5.04
         },
         {
             "code": "聯詠",
-            "weight": 1.61
+            "weight": 1.51
         },
         {
             "code": "文曄",
-            "weight": 4.79
+            "weight": 5.17
         },
         {
             "code": "健鼎",
-            "weight": 5.92
+            "weight": 6.87
         },
         {
             "code": "大聯大",
-            "weight": 1.4
+            "weight": 1.44
         },
         {
             "code": "和碩",
-            "weight": 4.23
+            "weight": 4.7
         },
         {
             "code": "世界",
-            "weight": 1.62
+            "weight": 1.63
         },
         {
             "code": "中租-KY",
-            "weight": 1.38
+            "weight": 1.5
         },
         {
             "code": "群益證",
-            "weight": 1.31
+            "weight": 1.36
         },
         {
             "code": "新普",
-            "weight": 1.87
+            "weight": 1.94
         },
         {
             "code": "瑞儀",
-            "weight": 1.81
-        },
-        {
-            "code": "力成",
             "weight": 1.95
         },
         {
+            "code": "力成",
+            "weight": 2.14
+        },
+        {
             "code": "群聯",
-            "weight": 4.79
+            "weight": 4.93
         },
         {
             "code": "寶成",
-            "weight": 1.55
+            "weight": 1.5
         }
     ],
     "台新AI優息動能(00962)": [
         {
             "code": "聯華",
-            "weight": 0.48
+            "weight": 0.53
         },
         {
             "code": "士電",
-            "weight": 2.06
+            "weight": 2.04
         },
         {
             "code": "東元",
-            "weight": 1.76
+            "weight": 1.72
         },
         {
             "code": "裕隆",
-            "weight": 0.84
+            "weight": 0.85
         },
         {
             "code": "和泰車",
-            "weight": 1.0
+            "weight": 1.06
         },
         {
             "code": "金寶",
-            "weight": 1.45
+            "weight": 1.32
         },
         {
             "code": "鴻海",
-            "weight": 3.86
+            "weight": 4.18
         },
         {
             "code": "佳世達",
-            "weight": 0.99
+            "weight": 1.02
         },
         {
             "code": "宏碁",
-            "weight": 2.56
+            "weight": 2.63
         },
         {
             "code": "英業達",
-            "weight": 3.36
+            "weight": 3.55
         },
         {
             "code": "華碩",
-            "weight": 5.5
+            "weight": 5.34
         },
         {
             "code": "技嘉",
-            "weight": 4.2
-        },
-        {
-            "code": "微星",
-            "weight": 2.71
-        },
-        {
-            "code": "廣達",
-            "weight": 6.03
-        },
-        {
-            "code": "研華",
-            "weight": 2.51
-        },
-        {
-            "code": "建準",
-            "weight": 1.4
-        },
-        {
-            "code": "美律",
-            "weight": 1.42
-        },
-        {
-            "code": "超豐",
-            "weight": 0.44
-        },
-        {
-            "code": "京元電子",
-            "weight": 4.45
-        },
-        {
-            "code": "聯發科",
-            "weight": 3.39
-        },
-        {
-            "code": "義隆",
-            "weight": 1.87
-        },
-        {
-            "code": "敦陽科",
-            "weight": 0.61
-        },
-        {
-            "code": "普安",
-            "weight": 0.29
-        },
-        {
-            "code": "聯詠",
-            "weight": 3.69
-        },
-        {
-            "code": "原相",
-            "weight": 1.6
-        },
-        {
-            "code": "緯創",
             "weight": 4.29
         },
         {
-            "code": "欣銓",
-            "weight": 1.75
+            "code": "微星",
+            "weight": 2.78
         },
         {
-            "code": "明泰",
-            "weight": 0.24
+            "code": "廣達",
+            "weight": 5.59
         },
         {
-            "code": "華擎",
-            "weight": 0.81
+            "code": "研華",
+            "weight": 2.57
         },
         {
-            "code": "敦泰",
+            "code": "建準",
+            "weight": 1.57
+        },
+        {
+            "code": "美律",
+            "weight": 1.45
+        },
+        {
+            "code": "超豐",
             "weight": 0.47
         },
         {
-            "code": "遠傳",
-            "weight": 2.28
+            "code": "京元電子",
+            "weight": 4.82
         },
         {
-            "code": "新盛力",
-            "weight": 0.34
+            "code": "聯發科",
+            "weight": 3.41
         },
         {
-            "code": "緯軟",
-            "weight": 0.3
-        },
-        {
-            "code": "譜瑞-KY",
-            "weight": 2.08
-        },
-        {
-            "code": "訊連",
-            "weight": 0.31
-        },
-        {
-            "code": "世界",
-            "weight": 4.35
-        },
-        {
-            "code": "聖暉*",
-            "weight": 2.34
-        },
-        {
-            "code": "萬潤",
+            "code": "義隆",
             "weight": 1.93
         },
         {
+            "code": "敦陽科",
+            "weight": 0.64
+        },
+        {
+            "code": "普安",
+            "weight": 0.28
+        },
+        {
+            "code": "聯詠",
+            "weight": 3.41
+        },
+        {
+            "code": "原相",
+            "weight": 1.48
+        },
+        {
+            "code": "緯創",
+            "weight": 4.02
+        },
+        {
+            "code": "欣銓",
+            "weight": 1.68
+        },
+        {
+            "code": "明泰",
+            "weight": 0.22
+        },
+        {
+            "code": "華擎",
+            "weight": 0.93
+        },
+        {
+            "code": "敦泰",
+            "weight": 0.51
+        },
+        {
+            "code": "遠傳",
+            "weight": 2.12
+        },
+        {
+            "code": "新盛力",
+            "weight": 0.43
+        },
+        {
+            "code": "緯軟",
+            "weight": 0.29
+        },
+        {
+            "code": "譜瑞-KY",
+            "weight": 2.17
+        },
+        {
+            "code": "訊連",
+            "weight": 0.28
+        },
+        {
+            "code": "世界",
+            "weight": 4.31
+        },
+        {
+            "code": "聖暉*",
+            "weight": 2.82
+        },
+        {
+            "code": "萬潤",
+            "weight": 1.74
+        },
+        {
             "code": "精誠",
-            "weight": 1.35
+            "weight": 1.44
         },
         {
             "code": "普萊德",
-            "weight": 0.14
+            "weight": 0.15
         },
         {
             "code": "佳邦",
-            "weight": 0.4
+            "weight": 0.38
         },
         {
             "code": "啟碁",
-            "weight": 2.51
+            "weight": 2.46
         },
         {
             "code": "群電",
-            "weight": 0.74
+            "weight": 0.79
         },
         {
             "code": "樺漢",
-            "weight": 1.86
+            "weight": 1.85
         },
         {
             "code": "是方",
-            "weight": 0.39
-        },
-        {
-            "code": "緯穎",
-            "weight": 5.81
-        },
-        {
-            "code": "綠界科技*",
             "weight": 0.4
         },
         {
+            "code": "緯穎",
+            "weight": 5.05
+        },
+        {
+            "code": "綠界科技*",
+            "weight": 0.44
+        },
+        {
             "code": "南茂",
-            "weight": 0.65
+            "weight": 0.62
         },
         {
             "code": "勤誠",
-            "weight": 2.1
+            "weight": 2.26
         },
         {
             "code": "中保科",
-            "weight": 0.42
+            "weight": 0.43
         }
     ],
     "中信亞太高股息(00964)": [
         {
             "code": "聯電",
-            "weight": 1.55
+            "weight": 1.44
         },
         {
             "code": "群光",
-            "weight": 1.36
+            "weight": 1.28
         },
         {
             "code": "億光",
-            "weight": 1.39
+            "weight": 1.42
         },
         {
             "code": "漢唐",
-            "weight": 2.0
+            "weight": 2.31
         },
         {
             "code": "美律",
-            "weight": 1.61
+            "weight": 1.53
         },
         {
             "code": "可成",
-            "weight": 1.88
+            "weight": 1.78
         },
         {
             "code": "長榮",
-            "weight": 3.48
+            "weight": 3.2
         },
         {
             "code": "陽明",
-            "weight": 2.56
+            "weight": 2.08
         },
         {
             "code": "慧洋-KY",
-            "weight": 1.49
+            "weight": 1.55
         },
         {
             "code": "中信金",
-            "weight": 1.59
+            "weight": 1.44
         },
         {
             "code": "欣銓",
-            "weight": 1.93
+            "weight": 1.72
         },
         {
             "code": "群創",
-            "weight": 1.4
+            "weight": 1.34
         },
         {
             "code": "飛捷",
-            "weight": 1.74
+            "weight": 1.67
         },
         {
             "code": "良維",
-            "weight": 2.1
+            "weight": 1.95
         },
         {
             "code": "長華*",
-            "weight": 1.32
+            "weight": 1.29
         },
         {
             "code": "大江",
-            "weight": 1.63
+            "weight": 1.65
         }
     ],
     "元大航太防衛科技(00965)": [
         {
             "code": "台船",
-            "weight": 0.19
+            "weight": 0.09
         },
         {
             "code": "台積電",
-            "weight": 4.52
+            "weight": 4.68
         },
         {
             "code": "漢翔",
-            "weight": 0.24
+            "weight": 0.21
         },
         {
             "code": "長榮航太",
-            "weight": 0.4
+            "weight": 0.21
         },
         {
             "code": "全訊",
             "weight": 0.06
-        },
-        {
-            "code": "jpp-KY",
-            "weight": 0.07
-        },
-        {
-            "code": "龍德造船",
-            "weight": 0.08
-        },
-        {
-            "code": "宏捷科",
-            "weight": 0.11
         }
     ],
     "元大富櫃50(006201)": [
         {
             "code": "光洋科",
-            "weight": 1.33
+            "weight": 1.22
         },
         {
             "code": "僑威",
-            "weight": 0.77
-        },
-        {
-            "code": "穩懋",
-            "weight": 1.51
-        },
-        {
-            "code": "弘塑",
-            "weight": 1.79
-        },
-        {
-            "code": "大學光",
-            "weight": 0.46
-        },
-        {
-            "code": "原相",
-            "weight": 1.34
-        },
-        {
-            "code": "威剛",
-            "weight": 1.27
-        },
-        {
-            "code": "欣銓",
-            "weight": 1.49
-        },
-        {
-            "code": "鈊象",
-            "weight": 9.17
-        },
-        {
-            "code": "雙鴻",
-            "weight": 2.15
-        },
-        {
-            "code": "先進光",
-            "weight": 0.41
-        },
-        {
-            "code": "精材",
-            "weight": 1.02
-        },
-        {
-            "code": "昇達科",
-            "weight": 0.89
-        },
-        {
-            "code": "力旺",
-            "weight": 7.25
-        },
-        {
-            "code": "家登",
-            "weight": 1.28
-        },
-        {
-            "code": "東洋",
             "weight": 0.74
         },
         {
-            "code": "新應材",
-            "weight": 2.3
+            "code": "聯亞",
+            "weight": 1.38
         },
         {
-            "code": "台特化",
-            "weight": 1.16
+            "code": "穩懋",
+            "weight": 1.52
         },
         {
-            "code": "譜瑞-KY",
-            "weight": 1.97
+            "code": "弘塑",
+            "weight": 1.59
         },
         {
-            "code": "華星光",
+            "code": "順達",
+            "weight": 1.35
+        },
+        {
+            "code": "大學光",
+            "weight": 0.49
+        },
+        {
+            "code": "原相",
+            "weight": 1.2
+        },
+        {
+            "code": "威剛",
+            "weight": 1.15
+        },
+        {
+            "code": "欣銓",
+            "weight": 1.39
+        },
+        {
+            "code": "鈊象",
+            "weight": 8.14
+        },
+        {
+            "code": "雙鴻",
+            "weight": 2.02
+        },
+        {
+            "code": "先進光",
+            "weight": 0.39
+        },
+        {
+            "code": "精材",
+            "weight": 0.99
+        },
+        {
+            "code": "昇達科",
+            "weight": 0.83
+        },
+        {
+            "code": "力旺",
+            "weight": 5.91
+        },
+        {
+            "code": "家登",
             "weight": 1.02
         },
         {
+            "code": "新應材",
+            "weight": 2.12
+        },
+        {
+            "code": "台特化",
+            "weight": 1.03
+        },
+        {
+            "code": "譜瑞-KY",
+            "weight": 1.96
+        },
+        {
+            "code": "華星光",
+            "weight": 1.06
+        },
+        {
             "code": "榮剛",
-            "weight": 0.9
+            "weight": 0.82
         },
         {
             "code": "信驊",
-            "weight": 6.35
+            "weight": 5.88
         },
         {
             "code": "宜鼎",
-            "weight": 0.81
-        },
-        {
-            "code": "世紀*",
-            "weight": 0.52
+            "weight": 0.74
         },
         {
             "code": "世界",
-            "weight": 4.44
+            "weight": 4.22
         },
         {
             "code": "中光電",
-            "weight": 0.76
+            "weight": 0.92
         },
         {
-            "code": "智冠",
-            "weight": 0.48
+            "code": "高技",
+            "weight": 0.91
         },
         {
             "code": "中美晶",
-            "weight": 2.48
+            "weight": 2.77
+        },
+        {
+            "code": "永信建",
+            "weight": 0.45
         },
         {
             "code": "聖暉*",
-            "weight": 2.14
+            "weight": 2.48
         },
         {
             "code": "寶雅",
-            "weight": 1.71
+            "weight": 1.65
         },
         {
             "code": "新普",
-            "weight": 3.06
+            "weight": 3.0
         },
         {
             "code": "耕興",
@@ -11620,121 +11564,117 @@ const etfData = {
         },
         {
             "code": "頎邦",
-            "weight": 1.65
+            "weight": 1.61
         },
         {
             "code": "萬潤",
-            "weight": 1.43
+            "weight": 1.28
         },
         {
             "code": "廣明",
-            "weight": 0.76
+            "weight": 0.75
         },
         {
             "code": "旺矽",
-            "weight": 3.5
+            "weight": 3.73
         },
         {
             "code": "台燿",
-            "weight": 2.58
+            "weight": 2.87
         },
         {
             "code": "胡連",
-            "weight": 0.43
+            "weight": 0.42
         },
         {
             "code": "大樹",
-            "weight": 0.5
+            "weight": 0.53
         },
         {
             "code": "環球晶",
-            "weight": 3.19
+            "weight": 3.56
         },
         {
             "code": "精測",
-            "weight": 0.76
+            "weight": 0.72
         },
         {
             "code": "長科*",
-            "weight": 0.62
+            "weight": 0.61
+        },
+        {
+            "code": "是方",
+            "weight": 0.52
         },
         {
             "code": "M31",
-            "weight": 0.7
+            "weight": 0.66
         },
         {
             "code": "印能科技",
-            "weight": 0.69
+            "weight": 0.74
         },
         {
             "code": "元太",
-            "weight": 8.96
+            "weight": 8.42
         },
         {
             "code": "宏捷科",
-            "weight": 0.47
-        },
-        {
-            "code": "朋程",
-            "weight": 0.33
+            "weight": 0.56
         },
         {
             "code": "群聯",
-            "weight": 3.81
-        },
-        {
-            "code": "大江",
-            "weight": 0.58
+            "weight": 3.7
         },
         {
             "code": "北基",
-            "weight": 0.51
+            "weight": 0.55
         }
     ],
     "元大MSCI台灣(006203)": [
         {
             "code": "台泥",
-            "weight": 0.35
+            "weight": 0.31
         },
         {
             "code": "亞泥",
-            "weight": 0.2
+            "weight": 0.18
         },
         {
             "code": "統一",
-            "weight": 0.77
+            "weight": 0.78
         },
         {
             "code": "台塑",
-            "weight": 0.27
+            "weight": 0.28
         },
         {
             "code": "南亞",
-            "weight": 0.27
+            "weight": 0.31
         },
         {
             "code": "台化",
-            "weight": 0.15
+            "weight": 0.17
         },
         {
             "code": "遠東新",
-            "weight": 0.19
+            "weight": 0.16
         },
         {
             "code": "儒鴻",
-            "weight": 0.17
+            "weight": 0.16
         },
         {
             "code": "華城",
-            "weight": 0.17
+            "weight": 0.2
         },
         {
             "code": "亞德客-KY",
-            "weight": 0.26
+            "weight": 0.25
         },
         {
             "code": "中鋼",
-            "weight": 0.45
+            "weight": 0.44
         },
         {
             "code": "正新",
@@ -11742,23 +11682,23 @@ const etfData = {
         },
         {
             "code": "和泰車",
-            "weight": 0.37
+            "weight": 0.35
         },
         {
             "code": "光寶科",
-            "weight": 0.47
+            "weight": 0.48
         },
         {
             "code": "聯電",
-            "weight": 1.0
+            "weight": 0.94
         },
         {
             "code": "台達電",
-            "weight": 1.66
+            "weight": 1.92
         },
         {
             "code": "鴻海",
-            "weight": 4.04
+            "weight": 4.13
         },
         {
             "code": "仁寶",
@@ -11766,19 +11706,19 @@ const etfData = {
         },
         {
             "code": "國巨",
-            "weight": 0.35
+            "weight": 0.37
         },
         {
             "code": "台積電",
-            "weight": 53.3
+            "weight": 54.12
         },
         {
             "code": "智邦",
-            "weight": 0.78
+            "weight": 0.79
         },
         {
             "code": "聯強",
-            "weight": 0.16
+            "weight": 0.17
         },
         {
             "code": "宏碁",
@@ -11786,35 +11726,35 @@ const etfData = {
         },
         {
             "code": "英業達",
-            "weight": 0.23
+            "weight": 0.22
         },
         {
             "code": "華碩",
-            "weight": 1.01
+            "weight": 0.9
         },
         {
             "code": "技嘉",
-            "weight": 0.31
+            "weight": 0.3
         },
         {
             "code": "微星",
-            "weight": 0.21
+            "weight": 0.2
         },
         {
             "code": "瑞昱",
-            "weight": 0.55
+            "weight": 0.53
         },
         {
             "code": "廣達",
-            "weight": 1.59
+            "weight": 1.38
         },
         {
             "code": "台光電",
-            "weight": 0.47
+            "weight": 0.52
         },
         {
             "code": "研華",
-            "weight": 0.32
+            "weight": 0.31
         },
         {
             "code": "友達",
@@ -11822,39 +11762,39 @@ const etfData = {
         },
         {
             "code": "中華電",
-            "weight": 1.06
+            "weight": 0.94
         },
         {
             "code": "聯發科",
-            "weight": 4.01
+            "weight": 4.2
         },
         {
             "code": "可成",
-            "weight": 0.27
-        },
-        {
-            "code": "長榮",
-            "weight": 0.46
-        },
-        {
-            "code": "陽明",
             "weight": 0.26
         },
         {
+            "code": "長榮",
+            "weight": 0.43
+        },
+        {
+            "code": "陽明",
+            "weight": 0.21
+        },
+        {
             "code": "華航",
-            "weight": 0.13
+            "weight": 0.12
         },
         {
             "code": "萬海",
-            "weight": 0.14
+            "weight": 0.12
         },
         {
             "code": "長榮航",
-            "weight": 0.22
+            "weight": 0.2
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.11
+            "weight": 0.1
         },
         {
             "code": "彰銀",
@@ -11862,7 +11802,7 @@ const etfData = {
         },
         {
             "code": "臺企銀",
-            "weight": 0.21
+            "weight": 0.22
         },
         {
             "code": "華南金",
@@ -11870,35 +11810,31 @@ const etfData = {
         },
         {
             "code": "富邦金",
-            "weight": 1.37
+            "weight": 1.26
         },
         {
             "code": "國泰金",
-            "weight": 1.23
+            "weight": 1.1
         },
         {
             "code": "凱基金",
-            "weight": 0.52
+            "weight": 0.47
         },
         {
             "code": "玉山金",
-            "weight": 0.94
+            "weight": 0.91
         },
         {
             "code": "元大金",
-            "weight": 0.71
+            "weight": 0.63
         },
         {
             "code": "兆豐金",
-            "weight": 0.98
+            "weight": 0.97
         },
         {
             "code": "台新金",
-            "weight": 0.37
-        },
-        {
-            "code": "新光金",
-            "weight": 0.35
+            "weight": 0.65
         },
         {
             "code": "永豐金",
@@ -11906,47 +11842,47 @@ const etfData = {
         },
         {
             "code": "中信金",
-            "weight": 1.48
+            "weight": 1.36
         },
         {
             "code": "第一金",
-            "weight": 0.65
-        },
-        {
-            "code": "統一超",
-            "weight": 0.3
-        },
-        {
-            "code": "大立光",
-            "weight": 0.49
-        },
-        {
-            "code": "奇鋐",
-            "weight": 0.49
-        },
-        {
-            "code": "聯詠",
             "weight": 0.64
         },
         {
+            "code": "統一超",
+            "weight": 0.29
+        },
+        {
+            "code": "大立光",
+            "weight": 0.46
+        },
+        {
+            "code": "奇鋐",
+            "weight": 0.53
+        },
+        {
+            "code": "聯詠",
+            "weight": 0.56
+        },
+        {
             "code": "欣興",
-            "weight": 0.3
+            "weight": 0.33
         },
         {
             "code": "台灣大",
-            "weight": 0.41
+            "weight": 0.36
         },
         {
             "code": "緯創",
-            "weight": 0.7
+            "weight": 0.62
         },
         {
             "code": "鈊象",
-            "weight": 0.43
+            "weight": 0.38
         },
         {
             "code": "創意",
-            "weight": 0.22
+            "weight": 0.21
         },
         {
             "code": "群創",
@@ -11954,7 +11890,7 @@ const etfData = {
         },
         {
             "code": "力旺",
-            "weight": 0.32
+            "weight": 0.26
         },
         {
             "code": "嘉澤",
@@ -11962,35 +11898,35 @@ const etfData = {
         },
         {
             "code": "健策",
-            "weight": 0.26
+            "weight": 0.24
         },
         {
             "code": "世芯-KY",
-            "weight": 0.47
+            "weight": 0.61
         },
         {
             "code": "大聯大",
-            "weight": 0.22
+            "weight": 0.21
         },
         {
             "code": "日月光投控",
-            "weight": 1.02
+            "weight": 0.97
         },
         {
             "code": "遠傳",
-            "weight": 0.32
+            "weight": 0.28
         },
         {
             "code": "和碩",
-            "weight": 0.3
+            "weight": 0.31
         },
         {
             "code": "臻鼎-KY",
-            "weight": 0.13
+            "weight": 0.14
         },
         {
             "code": "世界",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "中租-KY",
@@ -11998,47 +11934,47 @@ const etfData = {
         },
         {
             "code": "上海商銀",
-            "weight": 0.37
+            "weight": 0.33
         },
         {
             "code": "合庫金",
-            "weight": 0.53
+            "weight": 0.52
         },
         {
             "code": "旭隼",
-            "weight": 0.17
-        },
-        {
-            "code": "矽力*-KY",
-            "weight": 0.26
-        },
-        {
-            "code": "藥華藥",
-            "weight": 0.27
-        },
-        {
-            "code": "環球晶",
-            "weight": 0.17
-        },
-        {
-            "code": "緯穎",
-            "weight": 0.63
-        },
-        {
-            "code": "元太",
-            "weight": 0.38
-        },
-        {
-            "code": "億豐",
             "weight": 0.15
         },
         {
+            "code": "矽力*-KY",
+            "weight": 0.23
+        },
+        {
+            "code": "藥華藥",
+            "weight": 0.24
+        },
+        {
+            "code": "環球晶",
+            "weight": 0.19
+        },
+        {
+            "code": "緯穎",
+            "weight": 0.55
+        },
+        {
+            "code": "元太",
+            "weight": 0.35
+        },
+        {
+            "code": "億豐",
+            "weight": 0.14
+        },
+        {
             "code": "寶成",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "豐泰",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "潤泰新",
@@ -12048,19 +11984,19 @@ const etfData = {
     "永豐臺灣加權(006204)": [
         {
             "code": "台泥",
-            "weight": 0.32
+            "weight": 0.28
         },
         {
             "code": "亞泥",
-            "weight": 0.24
+            "weight": 0.22
         },
         {
             "code": "大成",
-            "weight": 0.1
+            "weight": 0.09
         },
         {
             "code": "統一",
-            "weight": 0.77
+            "weight": 0.78
         },
         {
             "code": "佳格",
@@ -12072,15 +12008,15 @@ const etfData = {
         },
         {
             "code": "台塑",
-            "weight": 0.39
+            "weight": 0.41
         },
         {
             "code": "南亞",
-            "weight": 0.37
+            "weight": 0.42
         },
         {
             "code": "中石化",
-            "weight": 0.04
+            "weight": 0.05
         },
         {
             "code": "東陽",
@@ -12088,11 +12024,11 @@ const etfData = {
         },
         {
             "code": "台化",
-            "weight": 0.23
+            "weight": 0.26
         },
         {
             "code": "遠東新",
-            "weight": 0.3
+            "weight": 0.25
         },
         {
             "code": "福懋",
@@ -12104,35 +12040,35 @@ const etfData = {
         },
         {
             "code": "儒鴻",
-            "weight": 0.19
-        },
-        {
-            "code": "聚陽",
-            "weight": 0.1
-        },
-        {
-            "code": "士電",
-            "weight": 0.16
-        },
-        {
-            "code": "東元",
             "weight": 0.18
         },
         {
+            "code": "聚陽",
+            "weight": 0.11
+        },
+        {
+            "code": "士電",
+            "weight": 0.15
+        },
+        {
+            "code": "東元",
+            "weight": 0.16
+        },
+        {
             "code": "中興電",
-            "weight": 0.14
+            "weight": 0.13
         },
         {
             "code": "華城",
-            "weight": 0.28
+            "weight": 0.32
         },
         {
             "code": "華新",
-            "weight": 0.14
+            "weight": 0.13
         },
         {
             "code": "大亞",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "長興",
@@ -12144,7 +12080,7 @@ const etfData = {
         },
         {
             "code": "中碳",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "勝一",
@@ -12156,7 +12092,7 @@ const etfData = {
         },
         {
             "code": "台玻",
-            "weight": 0.08
+            "weight": 0.1
         },
         {
             "code": "潤隆",
@@ -12188,7 +12124,7 @@ const etfData = {
         },
         {
             "code": "豐興",
-            "weight": 0.06
+            "weight": 0.07
         },
         {
             "code": "燁輝",
@@ -12196,7 +12132,7 @@ const etfData = {
         },
         {
             "code": "大成鋼",
-            "weight": 0.14
+            "weight": 0.15
         },
         {
             "code": "上銀",
@@ -12204,7 +12140,7 @@ const etfData = {
         },
         {
             "code": "川湖",
-            "weight": 0.26
+            "weight": 0.3
         },
         {
             "code": "南港",
@@ -12224,15 +12160,15 @@ const etfData = {
         },
         {
             "code": "中華",
-            "weight": 0.12
+            "weight": 0.11
         },
         {
             "code": "三陽工業",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "和泰車",
-            "weight": 0.54
+            "weight": 0.51
         },
         {
             "code": "長榮鋼",
@@ -12244,15 +12180,15 @@ const etfData = {
         },
         {
             "code": "光寶科",
-            "weight": 0.45
+            "weight": 0.46
         },
         {
             "code": "聯電",
-            "weight": 1.06
+            "weight": 1.0
         },
         {
             "code": "台達電",
-            "weight": 1.9
+            "weight": 2.2
         },
         {
             "code": "華通",
@@ -12260,7 +12196,7 @@ const etfData = {
         },
         {
             "code": "鴻海",
-            "weight": 3.49
+            "weight": 3.57
         },
         {
             "code": "仁寶",
@@ -12268,7 +12204,7 @@ const etfData = {
         },
         {
             "code": "國巨",
-            "weight": 0.42
+            "weight": 0.44
         },
         {
             "code": "華泰",
@@ -12276,19 +12212,19 @@ const etfData = {
         },
         {
             "code": "台積電",
-            "weight": 36.72
+            "weight": 37.29
         },
         {
             "code": "旺宏",
-            "weight": 0.07
+            "weight": 0.06
         },
         {
             "code": "華邦電",
-            "weight": 0.14
+            "weight": 0.11
         },
         {
             "code": "智邦",
-            "weight": 0.72
+            "weight": 0.73
         },
         {
             "code": "聯強",
@@ -12300,23 +12236,23 @@ const etfData = {
         },
         {
             "code": "宏碁",
-            "weight": 0.17
-        },
-        {
-            "code": "鴻準",
             "weight": 0.16
         },
         {
+            "code": "鴻準",
+            "weight": 0.15
+        },
+        {
             "code": "英業達",
-            "weight": 0.26
+            "weight": 0.25
         },
         {
             "code": "華碩",
-            "weight": 0.9
+            "weight": 0.8
         },
         {
             "code": "致茂",
-            "weight": 0.29
+            "weight": 0.28
         },
         {
             "code": "藍天",
@@ -12328,31 +12264,31 @@ const etfData = {
         },
         {
             "code": "金像電",
-            "weight": 0.23
+            "weight": 0.27
         },
         {
             "code": "大同",
-            "weight": 0.14
+            "weight": 0.12
         },
         {
             "code": "技嘉",
-            "weight": 0.31
+            "weight": 0.3
         },
         {
             "code": "微星",
-            "weight": 0.21
+            "weight": 0.2
         },
         {
             "code": "瑞昱",
-            "weight": 0.5
+            "weight": 0.48
         },
         {
             "code": "廣達",
-            "weight": 1.96
+            "weight": 1.7
         },
         {
             "code": "台光電",
-            "weight": 0.49
+            "weight": 0.54
         },
         {
             "code": "群光",
@@ -12368,27 +12304,27 @@ const etfData = {
         },
         {
             "code": "研華",
-            "weight": 0.5
+            "weight": 0.48
         },
         {
             "code": "漢唐",
-            "weight": 0.21
+            "weight": 0.25
         },
         {
             "code": "南亞科",
-            "weight": 0.29
+            "weight": 0.22
         },
         {
             "code": "友達",
-            "weight": 0.16
+            "weight": 0.15
         },
         {
             "code": "中華電",
-            "weight": 1.84
+            "weight": 1.64
         },
         {
             "code": "建準",
-            "weight": 0.04
+            "weight": 0.05
         },
         {
             "code": "超豐",
@@ -12400,11 +12336,11 @@ const etfData = {
         },
         {
             "code": "創見",
-            "weight": 0.08
+            "weight": 0.06
         },
         {
             "code": "聯發科",
-            "weight": 3.58
+            "weight": 3.75
         },
         {
             "code": "全新",
@@ -12416,11 +12352,11 @@ const etfData = {
         },
         {
             "code": "義隆",
-            "weight": 0.07
+            "weight": 0.06
         },
         {
             "code": "可成",
-            "weight": 0.25
+            "weight": 0.24
         },
         {
             "code": "華新科",
@@ -12428,7 +12364,7 @@ const etfData = {
         },
         {
             "code": "宏達電",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "國建",
@@ -12436,7 +12372,7 @@ const etfData = {
         },
         {
             "code": "國產",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "冠德",
@@ -12460,7 +12396,7 @@ const etfData = {
         },
         {
             "code": "興富發",
-            "weight": 0.15
+            "weight": 0.14
         },
         {
             "code": "華固",
@@ -12472,11 +12408,11 @@ const etfData = {
         },
         {
             "code": "長榮",
-            "weight": 0.75
+            "weight": 0.7
         },
         {
             "code": "裕民",
-            "weight": 0.07
+            "weight": 0.08
         },
         {
             "code": "榮運",
@@ -12484,23 +12420,23 @@ const etfData = {
         },
         {
             "code": "陽明",
-            "weight": 0.44
+            "weight": 0.36
         },
         {
             "code": "華航",
-            "weight": 0.22
+            "weight": 0.21
         },
         {
             "code": "萬海",
-            "weight": 0.46
+            "weight": 0.42
         },
         {
             "code": "長榮航",
-            "weight": 0.37
+            "weight": 0.34
         },
         {
             "code": "台灣高鐵",
-            "weight": 0.13
+            "weight": 0.12
         },
         {
             "code": "漢翔",
@@ -12528,7 +12464,7 @@ const etfData = {
         },
         {
             "code": "臺企銀",
-            "weight": 0.24
+            "weight": 0.25
         },
         {
             "code": "聯邦銀",
@@ -12544,7 +12480,7 @@ const etfData = {
         },
         {
             "code": "統一證",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "三商壽",
@@ -12552,43 +12488,39 @@ const etfData = {
         },
         {
             "code": "華南金",
-            "weight": 0.64
+            "weight": 0.65
         },
         {
             "code": "富邦金",
-            "weight": 1.99
+            "weight": 1.84
         },
         {
             "code": "國泰金",
-            "weight": 1.69
+            "weight": 1.51
         },
         {
             "code": "凱基金",
-            "weight": 0.47
+            "weight": 0.42
         },
         {
             "code": "玉山金",
-            "weight": 0.89
+            "weight": 0.86
         },
         {
             "code": "元大金",
-            "weight": 0.76
+            "weight": 0.68
         },
         {
             "code": "兆豐金",
-            "weight": 1.03
+            "weight": 1.02
         },
         {
             "code": "台新金",
-            "weight": 0.35
-        },
-        {
-            "code": "新光金",
-            "weight": 0.31
+            "weight": 0.63
         },
         {
             "code": "國票金",
-            "weight": 0.08
+            "weight": 0.09
         },
         {
             "code": "永豐金",
@@ -12596,7 +12528,7 @@ const etfData = {
         },
         {
             "code": "中信金",
-            "weight": 1.49
+            "weight": 1.37
         },
         {
             "code": "第一金",
@@ -12612,7 +12544,7 @@ const etfData = {
         },
         {
             "code": "統一超",
-            "weight": 0.46
+            "weight": 0.45
         },
         {
             "code": "潤泰全",
@@ -12620,15 +12552,15 @@ const etfData = {
         },
         {
             "code": "神基",
-            "weight": 0.13
+            "weight": 0.12
         },
         {
             "code": "大立光",
-            "weight": 0.55
+            "weight": 0.52
         },
         {
             "code": "奇鋐",
-            "weight": 0.37
+            "weight": 0.4
         },
         {
             "code": "信邦",
@@ -12640,31 +12572,31 @@ const etfData = {
         },
         {
             "code": "聯詠",
-            "weight": 0.56
+            "weight": 0.49
         },
         {
             "code": "智原",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "文曄",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "欣興",
-            "weight": 0.3
+            "weight": 0.33
         },
         {
             "code": "晶技",
-            "weight": 0.05
+            "weight": 0.04
         },
         {
             "code": "健鼎",
-            "weight": 0.17
+            "weight": 0.18
         },
         {
             "code": "台灣大",
-            "weight": 0.71
+            "weight": 0.61
         },
         {
             "code": "景碩",
@@ -12672,11 +12604,11 @@ const etfData = {
         },
         {
             "code": "緯創",
-            "weight": 0.63
+            "weight": 0.55
         },
         {
             "code": "新日興",
-            "weight": 0.19
+            "weight": 0.2
         },
         {
             "code": "玉晶光",
@@ -12684,11 +12616,11 @@ const etfData = {
         },
         {
             "code": "創意",
-            "weight": 0.28
+            "weight": 0.27
         },
         {
             "code": "群創",
-            "weight": 0.16
+            "weight": 0.15
         },
         {
             "code": "華擎",
@@ -12696,7 +12628,7 @@ const etfData = {
         },
         {
             "code": "台勝科",
-            "weight": 0.05
+            "weight": 0.06
         },
         {
             "code": "嘉澤",
@@ -12708,7 +12640,7 @@ const etfData = {
         },
         {
             "code": "健策",
-            "weight": 0.35
+            "weight": 0.33
         },
         {
             "code": "貿聯-KY",
@@ -12716,7 +12648,7 @@ const etfData = {
         },
         {
             "code": "大聯大",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "欣陸",
@@ -12724,11 +12656,11 @@ const etfData = {
         },
         {
             "code": "神達",
-            "weight": 0.14
+            "weight": 0.15
         },
         {
             "code": "日月光投控",
-            "weight": 1.16
+            "weight": 1.1
         },
         {
             "code": "富采",
@@ -12740,7 +12672,7 @@ const etfData = {
         },
         {
             "code": "遠傳",
-            "weight": 0.5
+            "weight": 0.44
         },
         {
             "code": "致伸",
@@ -12760,7 +12692,7 @@ const etfData = {
         },
         {
             "code": "祥碩",
-            "weight": 0.23
+            "weight": 0.22
         },
         {
             "code": "中磊",
@@ -12772,11 +12704,11 @@ const etfData = {
         },
         {
             "code": "瀚宇博",
-            "weight": 0.05
+            "weight": 0.06
         },
         {
             "code": "遠雄",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "長虹",
@@ -12784,11 +12716,11 @@ const etfData = {
         },
         {
             "code": "上海商銀",
-            "weight": 0.39
+            "weight": 0.35
         },
         {
             "code": "合庫金",
-            "weight": 0.65
+            "weight": 0.64
         },
         {
             "code": "群益證",
@@ -12796,7 +12728,7 @@ const etfData = {
         },
         {
             "code": "彩晶",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "亞翔",
@@ -12808,15 +12740,15 @@ const etfData = {
         },
         {
             "code": "精成科",
-            "weight": 0.07
+            "weight": 0.09
         },
         {
             "code": "帆宣",
-            "weight": 0.06
+            "weight": 0.07
         },
         {
             "code": "聯茂",
-            "weight": 0.05
+            "weight": 0.06
         },
         {
             "code": "精誠",
@@ -12836,7 +12768,7 @@ const etfData = {
         },
         {
             "code": "台郡",
-            "weight": 0.03
+            "weight": 0.04
         },
         {
             "code": "同欣電",
@@ -12844,7 +12776,7 @@ const etfData = {
         },
         {
             "code": "台表科",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "康舒",
@@ -12852,11 +12784,11 @@ const etfData = {
         },
         {
             "code": "啟碁",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "旭隼",
-            "weight": 0.2
+            "weight": 0.17
         },
         {
             "code": "群電",
@@ -12868,7 +12800,7 @@ const etfData = {
         },
         {
             "code": "矽力*-KY",
-            "weight": 0.11
+            "weight": 0.1
         },
         {
             "code": "藥華藥",
@@ -12880,7 +12812,7 @@ const etfData = {
         },
         {
             "code": "台塑化",
-            "weight": 0.59
+            "weight": 0.62
         },
         {
             "code": "達發",
@@ -12892,7 +12824,7 @@ const etfData = {
         },
         {
             "code": "和潤企業",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "帝寶",
@@ -12900,11 +12832,11 @@ const etfData = {
         },
         {
             "code": "緯穎",
-            "weight": 0.82
+            "weight": 0.72
         },
         {
             "code": "復盛應用",
-            "weight": 0.07
+            "weight": 0.06
         },
         {
             "code": "洋基工程",
@@ -12912,7 +12844,7 @@ const etfData = {
         },
         {
             "code": "力積電",
-            "weight": 0.11
+            "weight": 0.1
         },
         {
             "code": "采鈺",
@@ -12920,7 +12852,7 @@ const etfData = {
         },
         {
             "code": "富世達",
-            "weight": 0.26
+            "weight": 0.25
         },
         {
             "code": "矽創",
@@ -12928,7 +12860,7 @@ const etfData = {
         },
         {
             "code": "南電",
-            "weight": 0.13
+            "weight": 0.19
         },
         {
             "code": "長華*",
@@ -12936,15 +12868,15 @@ const etfData = {
         },
         {
             "code": "至上",
-            "weight": 0.07
+            "weight": 0.06
         },
         {
             "code": "南茂",
-            "weight": 0.04
+            "weight": 0.03
         },
         {
             "code": "勤誠",
-            "weight": 0.11
+            "weight": 0.1
         },
         {
             "code": "富邦媒",
@@ -12960,7 +12892,7 @@ const etfData = {
         },
         {
             "code": "台汽電",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "高力",
@@ -12968,7 +12900,7 @@ const etfData = {
         },
         {
             "code": "寶成",
-            "weight": 0.15
+            "weight": 0.14
         },
         {
             "code": "統一實",
@@ -12976,19 +12908,19 @@ const etfData = {
         },
         {
             "code": "豐泰",
-            "weight": 0.2
+            "weight": 0.19
         },
         {
             "code": "美利達",
-            "weight": 0.05
+            "weight": 0.06
         },
         {
             "code": "中保科",
-            "weight": 0.09
+            "weight": 0.08
         },
         {
             "code": "巨大",
-            "weight": 0.07
+            "weight": 0.08
         },
         {
             "code": "中鼎",
@@ -12996,7 +12928,7 @@ const etfData = {
         },
         {
             "code": "宏全",
-            "weight": 0.08
+            "weight": 0.07
         },
         {
             "code": "裕融",
@@ -13004,29 +12936,29 @@ const etfData = {
         },
         {
             "code": "潤泰新",
-            "weight": 0.15
+            "weight": 0.14
         },
         {
             "code": "世紀鋼",
-            "weight": 0.09
+            "weight": 0.07
         }
     ],
     "富邦台50(006208)": [
         {
             "code": "台泥",
-            "weight": 0.38
+            "weight": 0.34
         },
         {
             "code": "統一",
-            "weight": 0.87
+            "weight": 0.89
         },
         {
             "code": "台塑",
-            "weight": 0.33
+            "weight": 0.35
         },
         {
             "code": "南亞",
-            "weight": 0.31
+            "weight": 0.35
         },
         {
             "code": "中鋼",
@@ -13034,75 +12966,75 @@ const etfData = {
         },
         {
             "code": "和泰車",
-            "weight": 0.35
+            "weight": 0.33
         },
         {
             "code": "光寶科",
-            "weight": 0.48
+            "weight": 0.49
         },
         {
             "code": "聯電",
-            "weight": 1.14
+            "weight": 1.08
         },
         {
             "code": "台達電",
-            "weight": 1.83
+            "weight": 2.12
         },
         {
             "code": "鴻海",
-            "weight": 4.41
+            "weight": 4.53
         },
         {
             "code": "國巨",
-            "weight": 0.41
+            "weight": 0.44
         },
         {
             "code": "台積電",
-            "weight": 58.47
+            "weight": 59.35
         },
         {
             "code": "智邦",
-            "weight": 0.82
+            "weight": 0.83
         },
         {
             "code": "華碩",
-            "weight": 1.07
+            "weight": 0.95
         },
         {
             "code": "瑞昱",
-            "weight": 0.61
+            "weight": 0.59
         },
         {
             "code": "廣達",
-            "weight": 1.73
+            "weight": 1.5
         },
         {
             "code": "台光電",
-            "weight": 0.53
+            "weight": 0.58
         },
         {
             "code": "研華",
-            "weight": 0.34
+            "weight": 0.33
         },
         {
             "code": "中華電",
-            "weight": 1.17
+            "weight": 1.04
         },
         {
             "code": "聯發科",
-            "weight": 4.25
+            "weight": 4.47
         },
         {
             "code": "長榮",
-            "weight": 0.5
+            "weight": 0.47
         },
         {
             "code": "陽明",
-            "weight": 0.28
+            "weight": 0.23
         },
         {
             "code": "萬海",
-            "weight": 0.3
+            "weight": 0.27
         },
         {
             "code": "華南金",
@@ -13110,31 +13042,31 @@ const etfData = {
         },
         {
             "code": "富邦金",
-            "weight": 1.56
+            "weight": 1.44
         },
         {
             "code": "國泰金",
-            "weight": 1.39
+            "weight": 1.24
         },
         {
             "code": "凱基金",
-            "weight": 0.56
+            "weight": 0.51
         },
         {
             "code": "玉山金",
-            "weight": 1.1
+            "weight": 1.06
         },
         {
             "code": "元大金",
-            "weight": 0.8
+            "weight": 0.72
         },
         {
             "code": "兆豐金",
-            "weight": 1.08
+            "weight": 1.07
         },
         {
             "code": "台新金",
-            "weight": 0.41
+            "weight": 0.76
         },
         {
             "code": "永豐金",
@@ -13142,51 +13074,51 @@ const etfData = {
         },
         {
             "code": "中信金",
-            "weight": 1.57
+            "weight": 1.44
         },
         {
             "code": "第一金",
-            "weight": 0.68
+            "weight": 0.67
         },
         {
             "code": "統一超",
-            "weight": 0.31
+            "weight": 0.3
         },
         {
             "code": "大立光",
-            "weight": 0.51
+            "weight": 0.48
         },
         {
             "code": "奇鋐",
-            "weight": 0.54
+            "weight": 0.58
         },
         {
             "code": "聯詠",
-            "weight": 0.69
+            "weight": 0.6
         },
         {
             "code": "台灣大",
-            "weight": 0.37
+            "weight": 0.32
         },
         {
             "code": "緯創",
-            "weight": 0.78
+            "weight": 0.69
         },
         {
             "code": "世芯-KY",
-            "weight": 0.51
+            "weight": 0.66
         },
         {
             "code": "日月光投控",
-            "weight": 1.12
+            "weight": 1.07
         },
         {
             "code": "遠傳",
-            "weight": 0.35
+            "weight": 0.31
         },
         {
             "code": "和碩",
-            "weight": 0.32
+            "weight": 0.33
         },
         {
             "code": "中租-KY",
@@ -13194,15 +13126,15 @@ const etfData = {
         },
         {
             "code": "上海商銀",
-            "weight": 0.4
+            "weight": 0.36
         },
         {
             "code": "合庫金",
-            "weight": 0.56
+            "weight": 0.55
         },
         {
             "code": "藥華藥",
-            "weight": 0.31
+            "weight": 0.28
         },
         {
             "code": "台塑化",
@@ -13210,33 +13142,33 @@ const etfData = {
         },
         {
             "code": "緯穎",
-            "weight": 0.63
+            "weight": 0.55
         }
     ],
     "富邦旗艦50(009802)": [
         {
             "code": "亞泥",
-            "weight": 0.13
+            "weight": 0.12
         },
         {
             "code": "大成",
-            "weight": 0.74
+            "weight": 0.71
         },
         {
             "code": "統一",
-            "weight": 2.36
+            "weight": 2.42
         },
         {
             "code": "南亞",
-            "weight": 2.01
+            "weight": 2.33
         },
         {
             "code": "東陽",
-            "weight": 1.38
+            "weight": 1.4
         },
         {
             "code": "遠東新",
-            "weight": 0.65
+            "weight": 0.55
         },
         {
             "code": "東元",
@@ -13248,19 +13180,19 @@ const etfData = {
         },
         {
             "code": "聯電",
-            "weight": 4.46
+            "weight": 4.25
         },
         {
             "code": "台達電",
-            "weight": 5.57
+            "weight": 6.52
         },
         {
             "code": "仁寶",
-            "weight": 0.99
+            "weight": 1.0
         },
         {
             "code": "國巨",
-            "weight": 1.35
+            "weight": 1.44
         },
         {
             "code": "鴻準",
@@ -13268,79 +13200,79 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 4.93
+            "weight": 4.43
         },
         {
             "code": "群光",
-            "weight": 1.03
+            "weight": 1.0
         },
         {
             "code": "研華",
-            "weight": 2.21
+            "weight": 2.16
         },
         {
             "code": "聯發科",
-            "weight": 14.72
+            "weight": 15.58
         },
         {
             "code": "義隆",
-            "weight": 0.39
+            "weight": 0.38
         },
         {
             "code": "可成",
-            "weight": 1.08
-        },
-        {
-            "code": "長榮",
-            "weight": 4.01
-        },
-        {
-            "code": "臺企銀",
             "weight": 1.05
         },
         {
+            "code": "長榮",
+            "weight": 3.78
+        },
+        {
+            "code": "臺企銀",
+            "weight": 1.08
+        },
+        {
             "code": "富邦金",
-            "weight": 5.43
+            "weight": 5.06
         },
         {
             "code": "國泰金",
-            "weight": 4.34
+            "weight": 3.91
         },
         {
             "code": "凱基金",
-            "weight": 2.74
+            "weight": 2.49
         },
         {
             "code": "玉山金",
-            "weight": 3.35
+            "weight": 3.27
         },
         {
             "code": "元大金",
-            "weight": 3.17
+            "weight": 2.85
         },
         {
             "code": "中信金",
-            "weight": 5.9
+            "weight": 5.48
         },
         {
             "code": "文曄",
-            "weight": 1.69
+            "weight": 1.7
         },
         {
             "code": "健鼎",
-            "weight": 2.52
+            "weight": 2.69
         },
         {
             "code": "穩懋",
-            "weight": 1.27
+            "weight": 1.26
         },
         {
             "code": "景碩",
-            "weight": 0.05
+            "weight": 0.06
         },
         {
             "code": "緯創",
-            "weight": 3.08
+            "weight": 2.74
         },
         {
             "code": "玉晶光",
@@ -13348,15 +13280,15 @@ const etfData = {
         },
         {
             "code": "家登",
-            "weight": 0.85
+            "weight": 0.67
         },
         {
             "code": "日月光投控",
-            "weight": 2.86
+            "weight": 2.76
         },
         {
             "code": "材料-KY",
-            "weight": 1.51
+            "weight": 1.31
         },
         {
             "code": "崇越",
@@ -13364,23 +13296,23 @@ const etfData = {
         },
         {
             "code": "合庫金",
-            "weight": 0.67
+            "weight": 0.66
         },
         {
             "code": "群益證",
-            "weight": 0.31
+            "weight": 0.3
         },
         {
             "code": "台燿",
-            "weight": 1.32
+            "weight": 1.45
         },
         {
             "code": "樺漢",
-            "weight": 1.73
+            "weight": 1.63
         },
         {
             "code": "台塑化",
-            "weight": 2.03
+            "weight": 2.12
         },
         {
             "code": "愛普*",
@@ -13388,27 +13320,27 @@ const etfData = {
         },
         {
             "code": "復盛應用",
-            "weight": 0.21
+            "weight": 0.19
         },
         {
             "code": "南電",
-            "weight": 0.05
+            "weight": 0.08
         },
         {
             "code": "寶成",
-            "weight": 1.11
+            "weight": 1.02
         },
         {
             "code": "美利達",
-            "weight": 0.5
+            "weight": 0.53
         },
         {
             "code": "中保科",
-            "weight": 0.06
+            "weight": 0.05
         },
         {
             "code": "宏全",
-            "weight": 1.71
+            "weight": 1.53
         },
         {
             "code": "潤泰新",
@@ -13418,35 +13350,35 @@ const etfData = {
     "保德信市值動能50(009803)": [
         {
             "code": "川湖",
-            "weight": 0.14
+            "weight": 0.2
         },
         {
             "code": "聯電",
-            "weight": 3.47
+            "weight": 3.3
         },
         {
             "code": "台達電",
-            "weight": 2.18
+            "weight": 2.53
         },
         {
             "code": "鴻海",
-            "weight": 8.34
+            "weight": 8.59
         },
         {
             "code": "國巨",
-            "weight": 2.04
+            "weight": 2.17
         },
         {
             "code": "台積電",
-            "weight": 30.96
+            "weight": 31.66
         },
         {
             "code": "智邦",
-            "weight": 0.15
+            "weight": 0.13
         },
         {
             "code": "華碩",
-            "weight": 1.54
+            "weight": 1.4
         },
         {
             "code": "致茂",
@@ -13454,7 +13386,7 @@ const etfData = {
         },
         {
             "code": "金像電",
-            "weight": 0.02
+            "weight": 0.03
         },
         {
             "code": "技嘉",
@@ -13462,63 +13394,63 @@ const etfData = {
         },
         {
             "code": "瑞昱",
-            "weight": 0.67
+            "weight": 0.68
         },
         {
             "code": "廣達",
-            "weight": 2.6
+            "weight": 2.27
         },
         {
             "code": "台光電",
-            "weight": 0.06
+            "weight": 0.08
         },
         {
             "code": "群光",
-            "weight": 0.98
+            "weight": 0.95
         },
         {
             "code": "漢唐",
-            "weight": 0.43
+            "weight": 0.5
         },
         {
             "code": "京元電子",
-            "weight": 0.78
+            "weight": 0.8
         },
         {
             "code": "聯發科",
-            "weight": 7.1
+            "weight": 7.45
         },
         {
             "code": "長榮",
-            "weight": 2.9
+            "weight": 2.73
         },
         {
             "code": "陽明",
-            "weight": 1.96
+            "weight": 1.63
         },
         {
             "code": "華航",
-            "weight": 0.53
+            "weight": 0.5
         },
         {
             "code": "萬海",
-            "weight": 1.48
+            "weight": 1.36
         },
         {
             "code": "長榮航",
-            "weight": 1.94
+            "weight": 1.82
         },
         {
             "code": "王品",
-            "weight": 0.03
+            "weight": 0.02
         },
         {
             "code": "富邦金",
-            "weight": 4.94
+            "weight": 4.6
         },
         {
             "code": "國泰金",
-            "weight": 3.71
+            "weight": 3.34
         },
         {
             "code": "玉山金",
@@ -13526,23 +13458,23 @@ const etfData = {
         },
         {
             "code": "永豐金",
-            "weight": 1.54
+            "weight": 1.53
         },
         {
             "code": "中信金",
-            "weight": 1.9
+            "weight": 1.76
         },
         {
             "code": "大立光",
-            "weight": 1.9
+            "weight": 1.86
         },
         {
             "code": "奇鋐",
-            "weight": 0.05
+            "weight": 0.07
         },
         {
             "code": "聯詠",
-            "weight": 2.29
+            "weight": 2.03
         },
         {
             "code": "文曄",
@@ -13550,19 +13482,19 @@ const etfData = {
         },
         {
             "code": "健鼎",
-            "weight": 1.12
+            "weight": 1.2
         },
         {
             "code": "台灣大",
-            "weight": 0.22
+            "weight": 0.19
         },
         {
             "code": "緯創",
-            "weight": 0.81
+            "weight": 0.73
         },
         {
             "code": "嘉澤",
-            "weight": 0.28
+            "weight": 0.23
         },
         {
             "code": "智易",
@@ -13570,35 +13502,35 @@ const etfData = {
         },
         {
             "code": "世芯-KY",
-            "weight": 0.19
+            "weight": 0.31
         },
         {
             "code": "貿聯-KY",
-            "weight": 0.05
+            "weight": 0.07
         },
         {
             "code": "日月光投控",
-            "weight": 2.62
+            "weight": 2.51
         },
         {
             "code": "材料-KY",
-            "weight": 0.65
+            "weight": 0.57
         },
         {
             "code": "祥碩",
-            "weight": 0.13
+            "weight": 0.15
         },
         {
             "code": "崇越",
-            "weight": 0.4
+            "weight": 0.39
         },
         {
             "code": "中租-KY",
-            "weight": 2.08
+            "weight": 2.09
         },
         {
             "code": "台表科",
-            "weight": 0.55
+            "weight": 0.5
         },
         {
             "code": "穎崴",
@@ -13606,11 +13538,11 @@ const etfData = {
         },
         {
             "code": "緯穎",
-            "weight": 0.36
+            "weight": 0.4
         },
         {
             "code": "復盛應用",
-            "weight": 0.57
+            "weight": 0.52
         },
         {
             "code": "億豐",
@@ -13620,19 +13552,19 @@ const etfData = {
     "聯邦台精彩50(009804)": [
         {
             "code": "台泥",
-            "weight": 0.64
+            "weight": 0.58
         },
         {
             "code": "統一",
-            "weight": 1.47
+            "weight": 1.49
         },
         {
             "code": "台塑",
-            "weight": 0.55
+            "weight": 0.59
         },
         {
             "code": "南亞",
-            "weight": 0.51
+            "weight": 0.59
         },
         {
             "code": "中鋼",
@@ -13640,99 +13572,99 @@ const etfData = {
         },
         {
             "code": "和泰車",
-            "weight": 0.59
+            "weight": 0.56
         },
         {
             "code": "光寶科",
-            "weight": 0.81
+            "weight": 0.83
         },
         {
             "code": "聯電",
-            "weight": 1.91
+            "weight": 1.81
         },
         {
             "code": "台達電",
-            "weight": 3.07
+            "weight": 3.57
         },
         {
             "code": "鴻海",
-            "weight": 7.41
+            "weight": 7.61
         },
         {
             "code": "國巨",
-            "weight": 0.69
+            "weight": 0.74
         },
         {
             "code": "台積電",
-            "weight": 30.21
+            "weight": 30.97
         },
         {
             "code": "智邦",
-            "weight": 1.38
+            "weight": 1.41
         },
         {
             "code": "華碩",
-            "weight": 1.79
+            "weight": 1.6
         },
         {
             "code": "瑞昱",
-            "weight": 1.02
+            "weight": 0.99
         },
         {
             "code": "廣達",
-            "weight": 2.9
+            "weight": 2.53
         },
         {
             "code": "台光電",
-            "weight": 0.89
+            "weight": 0.98
         },
         {
             "code": "研華",
-            "weight": 0.58
+            "weight": 0.56
         },
         {
             "code": "中華電",
-            "weight": 1.96
+            "weight": 1.76
         },
         {
             "code": "聯發科",
-            "weight": 7.19
+            "weight": 7.56
         },
         {
             "code": "長榮",
-            "weight": 0.84
+            "weight": 0.78
         },
         {
             "code": "陽明",
-            "weight": 0.48
+            "weight": 0.4
         },
         {
             "code": "萬海",
-            "weight": 0.5
+            "weight": 0.46
         },
         {
             "code": "華南金",
-            "weight": 0.93
+            "weight": 0.95
         },
         {
             "code": "富邦金",
-            "weight": 2.62
+            "weight": 2.43
         },
         {
             "code": "國泰金",
-            "weight": 2.34
+            "weight": 2.1
         },
         {
             "code": "凱基金",
-            "weight": 0.94
+            "weight": 0.85
         },
         {
             "code": "玉山金",
-            "weight": 1.84
+            "weight": 1.79
         },
         {
             "code": "元大金",
-            "weight": 1.35
+            "weight": 1.21
         },
         {
             "code": "兆豐金",
@@ -13740,7 +13672,7 @@ const etfData = {
         },
         {
             "code": "台新金",
-            "weight": 0.69
+            "weight": 1.28
         },
         {
             "code": "永豐金",
@@ -13748,117 +13680,117 @@ const etfData = {
         },
         {
             "code": "中信金",
-            "weight": 2.63
+            "weight": 2.43
         },
         {
             "code": "第一金",
-            "weight": 1.14
+            "weight": 1.13
         },
         {
             "code": "統一超",
-            "weight": 0.52
+            "weight": 0.5
         },
         {
             "code": "大立光",
-            "weight": 0.85
+            "weight": 0.81
         },
         {
             "code": "奇鋐",
-            "weight": 0.91
+            "weight": 0.98
         },
         {
             "code": "聯詠",
-            "weight": 1.15
+            "weight": 1.02
         },
         {
             "code": "台灣大",
-            "weight": 0.61
+            "weight": 0.53
         },
         {
             "code": "緯創",
-            "weight": 1.31
+            "weight": 1.16
         },
         {
             "code": "世芯-KY",
-            "weight": 0.86
+            "weight": 1.1
         },
         {
             "code": "日月光投控",
-            "weight": 1.88
+            "weight": 1.8
         },
         {
             "code": "遠傳",
-            "weight": 0.59
-        },
-        {
-            "code": "和碩",
-            "weight": 0.55
-        },
-        {
-            "code": "中租-KY",
-            "weight": 0.67
-        },
-        {
-            "code": "上海商銀",
-            "weight": 0.67
-        },
-        {
-            "code": "合庫金",
-            "weight": 0.95
-        },
-        {
-            "code": "藥華藥",
             "weight": 0.52
         },
         {
+            "code": "和碩",
+            "weight": 0.56
+        },
+        {
+            "code": "中租-KY",
+            "weight": 0.68
+        },
+        {
+            "code": "上海商銀",
+            "weight": 0.6
+        },
+        {
+            "code": "合庫金",
+            "weight": 0.93
+        },
+        {
+            "code": "藥華藥",
+            "weight": 0.47
+        },
+        {
             "code": "台塑化",
-            "weight": 0.16
+            "weight": 0.17
         },
         {
             "code": "緯穎",
-            "weight": 1.05
+            "weight": 0.93
         }
     ],
     "華南永昌優選50(009808)": [
         {
             "code": "台泥",
-            "weight": 0.66
+            "weight": 0.6
         },
         {
             "code": "亞泥",
-            "weight": 0.4
+            "weight": 0.36
         },
         {
             "code": "統一",
-            "weight": 1.4
+            "weight": 1.43
         },
         {
             "code": "華城",
-            "weight": 0.41
+            "weight": 0.49
         },
         {
             "code": "亞德客-KY",
-            "weight": 0.4
+            "weight": 0.35
         },
         {
             "code": "正新",
-            "weight": 0.26
+            "weight": 0.27
         },
         {
             "code": "光寶科",
-            "weight": 0.86
+            "weight": 0.89
         },
         {
             "code": "聯電",
-            "weight": 1.89
+            "weight": 1.8
         },
         {
             "code": "台達電",
-            "weight": 3.29
+            "weight": 3.86
         },
         {
             "code": "鴻海",
-            "weight": 7.24
+            "weight": 7.47
         },
         {
             "code": "仁寶",
@@ -13866,11 +13798,11 @@ const etfData = {
         },
         {
             "code": "台積電",
-            "weight": 31.29
+            "weight": 32.05
         },
         {
             "code": "智邦",
-            "weight": 1.49
+            "weight": 1.54
         },
         {
             "code": "英業達",
@@ -13878,83 +13810,83 @@ const etfData = {
         },
         {
             "code": "華碩",
-            "weight": 1.79
+            "weight": 1.61
         },
         {
             "code": "大同",
-            "weight": 0.35
+            "weight": 0.25
         },
         {
             "code": "技嘉",
-            "weight": 0.55
+            "weight": 0.53
         },
         {
             "code": "微星",
-            "weight": 0.35
+            "weight": 0.34
         },
         {
             "code": "瑞昱",
-            "weight": 0.97
+            "weight": 0.93
         },
         {
             "code": "廣達",
-            "weight": 2.97
+            "weight": 2.61
         },
         {
             "code": "台光電",
-            "weight": 0.94
+            "weight": 1.02
         },
         {
             "code": "群光",
-            "weight": 0.3
+            "weight": 0.29
         },
         {
             "code": "中華電",
-            "weight": 2.55
+            "weight": 2.29
         },
         {
             "code": "聯發科",
-            "weight": 7.1
+            "weight": 7.6
         },
         {
             "code": "長榮",
-            "weight": 1.48
+            "weight": 1.4
         },
         {
             "code": "陽明",
-            "weight": 0.64
+            "weight": 0.53
         },
         {
             "code": "萬海",
-            "weight": 0.82
+            "weight": 0.75
         },
         {
             "code": "長榮航",
-            "weight": 0.67
+            "weight": 0.63
         },
         {
             "code": "華南金",
-            "weight": 1.03
+            "weight": 1.05
         },
         {
             "code": "富邦金",
-            "weight": 3.12
+            "weight": 2.9
         },
         {
             "code": "國泰金",
-            "weight": 2.38
+            "weight": 2.14
         },
         {
             "code": "凱基金",
-            "weight": 0.98
+            "weight": 0.89
         },
         {
             "code": "玉山金",
-            "weight": 1.87
+            "weight": 1.83
         },
         {
             "code": "元大金",
-            "weight": 1.55
+            "weight": 1.39
         },
         {
             "code": "永豐金",
@@ -13962,47 +13894,47 @@ const etfData = {
         },
         {
             "code": "中信金",
-            "weight": 2.87
+            "weight": 2.66
         },
         {
             "code": "統一超",
-            "weight": 0.52
+            "weight": 0.51
         },
         {
             "code": "大立光",
-            "weight": 0.86
+            "weight": 0.72
         },
         {
             "code": "聯詠",
-            "weight": 1.12
+            "weight": 1.01
         },
         {
             "code": "健鼎",
-            "weight": 0.44
+            "weight": 0.47
         },
         {
             "code": "台灣大",
-            "weight": 0.95
+            "weight": 0.83
         },
         {
             "code": "緯創",
-            "weight": 1.28
+            "weight": 1.14
         },
         {
             "code": "嘉澤",
-            "weight": 0.38
+            "weight": 0.3
         },
         {
             "code": "日月光投控",
-            "weight": 1.85
+            "weight": 1.77
         },
         {
             "code": "遠傳",
-            "weight": 0.81
+            "weight": 0.71
         },
         {
             "code": "和碩",
-            "weight": 0.56
+            "weight": 0.58
         },
         {
             "code": "中租-KY",
@@ -14010,281 +13942,289 @@ const etfData = {
         },
         {
             "code": "藥華藥",
-            "weight": 0.5
+            "weight": 0.42
         },
         {
             "code": "緯穎",
-            "weight": 0.99
+            "weight": 0.77
         },
         {
             "code": "寶成",
-            "weight": 0.3
+            "weight": 0.28
         }
     ],
     "富邦上証正2(00633L)": [
         {
             "code": "詮欣",
-            "weight": 3.35
+            "weight": 3.29
         }
     ],
     "主動野村臺灣優選(00980A)": [
         {
             "code": "東陽",
-            "weight": 0.64
+            "weight": 0.62
         },
         {
             "code": "川湖",
-            "weight": 1.23
+            "weight": 1.6
         },
         {
             "code": "台達電",
-            "weight": 3.31
+            "weight": 3.7
         },
         {
             "code": "鴻海",
-            "weight": 5.18
+            "weight": 4.86
         },
         {
             "code": "台積電",
-            "weight": 5.52
+            "weight": 5.25
         },
         {
             "code": "智邦",
-            "weight": 1.78
+            "weight": 2.07
         },
         {
             "code": "華碩",
-            "weight": 4.64
+            "weight": 3.95
         },
         {
             "code": "致茂",
-            "weight": 1.18
+            "weight": 1.07
         },
         {
             "code": "瑞昱",
-            "weight": 1.39
+            "weight": 1.29
         },
         {
             "code": "廣達",
-            "weight": 3.26
+            "weight": 4.57
         },
         {
             "code": "台光電",
-            "weight": 1.83
+            "weight": 1.93
         },
         {
             "code": "億光",
-            "weight": 2.15
+            "weight": 2.14
         },
         {
             "code": "聯發科",
-            "weight": 5.12
+            "weight": 5.17
         },
         {
             "code": "華航",
-            "weight": 0.89
-        },
-        {
-            "code": "美食-KY",
-            "weight": 0.26
-        },
-        {
-            "code": "富邦金",
-            "weight": 3.75
-        },
-        {
-            "code": "中信金",
-            "weight": 2.93
-        },
-        {
-            "code": "奇鋐",
-            "weight": 1.06
-        },
-        {
-            "code": "健鼎",
-            "weight": 3.61
-        },
-        {
-            "code": "弘塑",
-            "weight": 2.02
-        },
-        {
-            "code": "順達",
-            "weight": 0.78
-        },
-        {
-            "code": "原相",
-            "weight": 0.8
-        },
-        {
-            "code": "鈊象",
-            "weight": 1.47
-        },
-        {
-            "code": "聯鈞",
-            "weight": 0.92
-        },
-        {
-            "code": "昇達科",
-            "weight": 0.72
-        },
-        {
-            "code": "凡甲",
-            "weight": 0.61
-        },
-        {
-            "code": "力旺",
-            "weight": 0.97
-        },
-        {
-            "code": "宏致",
-            "weight": 0.45
-        },
-        {
-            "code": "健策",
-            "weight": 1.32
-        },
-        {
-            "code": "貿聯-KY",
-            "weight": 1.55
-        },
-        {
-            "code": "大聯大",
-            "weight": 2.7
-        },
-        {
-            "code": "富采",
-            "weight": 0.42
-        },
-        {
-            "code": "致伸",
-            "weight": 2.49
-        },
-        {
-            "code": "達興材料",
-            "weight": 0.56
-        },
-        {
-            "code": "崇越",
-            "weight": 2.82
-        },
-        {
-            "code": "寶雅",
-            "weight": 2.5
-        },
-        {
-            "code": "新普",
-            "weight": 2.96
-        },
-        {
-            "code": "旺矽",
-            "weight": 0.99
-        },
-        {
-            "code": "台燿",
-            "weight": 0.66
-        },
-        {
-            "code": "光聖",
-            "weight": 1.1
-        },
-        {
-            "code": "藥華藥",
-            "weight": 0.82
-        },
-        {
-            "code": "是方",
-            "weight": 0.59
-        },
-        {
-            "code": "緯穎",
-            "weight": 1.81
-        },
-        {
-            "code": "復盛應用",
-            "weight": 0.7
-        },
-        {
-            "code": "台灣虎航",
             "weight": 0.77
         },
         {
-            "code": "宏碁資訊",
-            "weight": 0.41
+            "code": "美食-KY",
+            "weight": 0.24
         },
         {
-            "code": "矽創",
-            "weight": 2.91
+            "code": "富邦金",
+            "weight": 3.58
         },
         {
-            "code": "昇陽半導體",
-            "weight": 0.73
+            "code": "玉山金",
+            "weight": 1.95
         },
         {
-            "code": "台虹",
+            "code": "中信金",
+            "weight": 2.59
+        },
+        {
+            "code": "奇鋐",
+            "weight": 1.52
+        },
+        {
+            "code": "健鼎",
+            "weight": 2.47
+        },
+        {
+            "code": "順達",
             "weight": 0.67
         },
         {
+            "code": "原相",
+            "weight": 0.67
+        },
+        {
+            "code": "鈊象",
+            "weight": 1.24
+        },
+        {
+            "code": "聯鈞",
+            "weight": 0.81
+        },
+        {
+            "code": "昇達科",
+            "weight": 0.43
+        },
+        {
+            "code": "凡甲",
+            "weight": 0.58
+        },
+        {
+            "code": "力旺",
+            "weight": 0.88
+        },
+        {
+            "code": "宏致",
+            "weight": 0.4
+        },
+        {
+            "code": "健策",
+            "weight": 1.12
+        },
+        {
+            "code": "貿聯-KY",
+            "weight": 1.11
+        },
+        {
+            "code": "大聯大",
+            "weight": 2.03
+        },
+        {
+            "code": "致伸",
+            "weight": 0.43
+        },
+        {
+            "code": "達興材料",
+            "weight": 0.58
+        },
+        {
+            "code": "崇越",
+            "weight": 2.17
+        },
+        {
+            "code": "高技",
+            "weight": 0.98
+        },
+        {
+            "code": "長虹",
+            "weight": 0.49
+        },
+        {
+            "code": "寶雅",
+            "weight": 0.9
+        },
+        {
+            "code": "新普",
+            "weight": 2.29
+        },
+        {
+            "code": "旺矽",
+            "weight": 0.94
+        },
+        {
+            "code": "矽格",
+            "weight": 1.45
+        },
+        {
+            "code": "台燿",
+            "weight": 0.69
+        },
+        {
+            "code": "光聖",
+            "weight": 1.31
+        },
+        {
+            "code": "精測",
+            "weight": 0.7
+        },
+        {
+            "code": "是方",
+            "weight": 0.76
+        },
+        {
+            "code": "緯穎",
+            "weight": 1.56
+        },
+        {
+            "code": "復盛應用",
+            "weight": 0.61
+        },
+        {
+            "code": "台灣虎航",
+            "weight": 0.73
+        },
+        {
+            "code": "宏碁資訊",
+            "weight": 0.61
+        },
+        {
+            "code": "矽創",
+            "weight": 0.91
+        },
+        {
+            "code": "昇陽半導體",
+            "weight": 0.62
+        },
+        {
             "code": "振樺電",
-            "weight": 0.55
+            "weight": 0.58
+        },
+        {
+            "code": "鈺齊-KY",
+            "weight": 2.53
         },
         {
             "code": "統一實",
-            "weight": 0.74
+            "weight": 0.89
         }
     ],
     "主動統一台股增長(00981A)": [
         {
             "code": "大成",
-            "weight": 1.3
+            "weight": 0.96
+        },
+        {
+            "code": "南亞",
+            "weight": 0.55
         },
         {
             "code": "中砂",
-            "weight": 0.46
+            "weight": 0.01
         },
         {
             "code": "川湖",
-            "weight": 0.54
+            "weight": 2.37
         },
         {
             "code": "台達電",
-            "weight": 2.75
+            "weight": 5.03
         },
         {
             "code": "鴻海",
-            "weight": 2.57
+            "weight": 3.61
         },
         {
             "code": "國巨",
-            "weight": 1.3
+            "weight": 1.39
         },
         {
             "code": "台積電",
-            "weight": 9.2
+            "weight": 8.59
         },
         {
             "code": "智邦",
-            "weight": 4.11
+            "weight": 2.14
         },
         {
             "code": "華碩",
-            "weight": 2.57
+            "weight": 2.46
         },
         {
             "code": "金像電",
-            "weight": 2.22
-        },
-        {
-            "code": "瑞昱",
-            "weight": 0.02
+            "weight": 3.72
         },
         {
             "code": "廣達",
-            "weight": 5.59
+            "weight": 3.25
         },
         {
             "code": "台光電",
-            "weight": 1.6
+            "weight": 3.4
         },
         {
             "code": "漢唐",
@@ -14292,23 +14232,19 @@ const etfData = {
         },
         {
             "code": "美律",
-            "weight": 0.22
-        },
-        {
-            "code": "京元電子",
-            "weight": 0.0
+            "weight": 0.14
         },
         {
             "code": "聯發科",
-            "weight": 2.42
+            "weight": 2.75
         },
         {
             "code": "陽明",
-            "weight": 1.31
+            "weight": 0.59
         },
         {
             "code": "長榮航",
-            "weight": 0.54
+            "weight": 0.34
         },
         {
             "code": "玉山金",
@@ -14316,285 +14252,313 @@ const etfData = {
         },
         {
             "code": "兆豐金",
-            "weight": 0.17
+            "weight": 0.12
         },
         {
             "code": "中信金",
-            "weight": 3.29
+            "weight": 2.48
         },
         {
             "code": "大立光",
-            "weight": 0.07
+            "weight": 1.69
         },
         {
             "code": "奇鋐",
-            "weight": 4.15
-        },
-        {
-            "code": "聯詠",
-            "weight": 1.08
+            "weight": 5.1
         },
         {
             "code": "晶技",
-            "weight": 0.48
+            "weight": 0.29
         },
         {
             "code": "健鼎",
-            "weight": 1.94
+            "weight": 1.0
         },
         {
             "code": "台灣大",
-            "weight": 0.16
+            "weight": 0.09
         },
         {
             "code": "優群",
-            "weight": 0.77
+            "weight": 0.84
         },
         {
             "code": "緯創",
-            "weight": 5.02
+            "weight": 3.53
         },
         {
             "code": "欣銓",
-            "weight": 2.58
+            "weight": 1.83
         },
         {
-            "code": "新日興",
-            "weight": 0.01
+            "code": "華擎",
+            "weight": 0.87
         },
         {
             "code": "嘉澤",
-            "weight": 2.79
+            "weight": 2.06
+        },
+        {
+            "code": "宏致",
+            "weight": 0.4
         },
         {
             "code": "健策",
-            "weight": 4.18
+            "weight": 3.33
         },
         {
             "code": "世芯-KY",
-            "weight": 1.55
+            "weight": 4.62
         },
         {
             "code": "貿聯-KY",
-            "weight": 4.84
+            "weight": 5.2
         },
         {
             "code": "神達",
-            "weight": 0.48
+            "weight": 2.67
         },
         {
             "code": "信驊",
-            "weight": 0.15
+            "weight": 0.09
+        },
+        {
+            "code": "世界",
+            "weight": 0.45
         },
         {
             "code": "茂達",
-            "weight": 0.35
+            "weight": 0.23
         },
         {
             "code": "亞翔",
-            "weight": 2.12
+            "weight": 2.46
         },
         {
             "code": "振曜",
-            "weight": 1.24
+            "weight": 0.82
         },
         {
             "code": "旺矽",
-            "weight": 3.45
+            "weight": 1.37
         },
         {
             "code": "台燿",
-            "weight": 0.01
+            "weight": 0.23
         },
         {
             "code": "台表科",
-            "weight": 0.97
-        },
-        {
-            "code": "保瑞",
-            "weight": 1.13
+            "weight": 0.32
         },
         {
             "code": "精測",
-            "weight": 0.88
+            "weight": 0.67
+        },
+        {
+            "code": "穎崴",
+            "weight": 0.16
         },
         {
             "code": "緯穎",
-            "weight": 2.83
+            "weight": 2.58
         },
         {
             "code": "台灣虎航",
-            "weight": 0.51
+            "weight": 0.34
+        },
+        {
+            "code": "南電",
+            "weight": 1.77
         },
         {
             "code": "元太",
-            "weight": 0.72
+            "weight": 0.46
         },
         {
             "code": "勤誠",
-            "weight": 4.07
+            "weight": 2.99
         }
     ],
     "主動群益台灣強棒(00982A)": [
         {
             "code": "大成",
-            "weight": 0.52
+            "weight": 0.5
+        },
+        {
+            "code": "華城",
+            "weight": 0.1
         },
         {
             "code": "川湖",
-            "weight": 1.98
+            "weight": 2.24
         },
         {
             "code": "光寶科",
-            "weight": 1.18
+            "weight": 2.35
         },
         {
             "code": "台達電",
-            "weight": 2.11
+            "weight": 2.69
         },
         {
             "code": "鴻海",
-            "weight": 2.86
+            "weight": 6.29
         },
         {
             "code": "台積電",
-            "weight": 8.94
-        },
-        {
-            "code": "智邦",
-            "weight": 1.96
-        },
-        {
-            "code": "英業達",
-            "weight": 1.04
-        },
-        {
-            "code": "致茂",
-            "weight": 2.17
-        },
-        {
-            "code": "廣達",
-            "weight": 2.64
-        },
-        {
-            "code": "台光電",
             "weight": 2.38
         },
         {
+            "code": "智邦",
+            "weight": 2.9
+        },
+        {
+            "code": "英業達",
+            "weight": 2.05
+        },
+        {
+            "code": "致茂",
+            "weight": 2.09
+        },
+        {
+            "code": "廣達",
+            "weight": 2.33
+        },
+        {
+            "code": "台光電",
+            "weight": 0.61
+        },
+        {
             "code": "建準",
-            "weight": 1.8
+            "weight": 2.97
         },
         {
             "code": "京元電子",
-            "weight": 3.33
+            "weight": 5.76
+        },
+        {
+            "code": "聯發科",
+            "weight": 1.52
         },
         {
             "code": "華固",
             "weight": 0.03
         },
         {
-            "code": "長榮",
-            "weight": 0.97
-        },
-        {
             "code": "陽明",
-            "weight": 3.23
+            "weight": 0.75
         },
         {
             "code": "元大金",
-            "weight": 2.76
+            "weight": 1.22
         },
         {
             "code": "中信金",
-            "weight": 2.87
-        },
-        {
-            "code": "奇鋐",
-            "weight": 4.24
-        },
-        {
-            "code": "威健",
-            "weight": 1.77
-        },
-        {
-            "code": "文曄",
-            "weight": 1.87
-        },
-        {
-            "code": "欣興",
-            "weight": 1.01
-        },
-        {
-            "code": "健鼎",
-            "weight": 1.2
-        },
-        {
-            "code": "緯創",
-            "weight": 4.47
-        },
-        {
-            "code": "嘉澤",
-            "weight": 2.0
-        },
-        {
-            "code": "健策",
-            "weight": 1.67
-        },
-        {
-            "code": "貿聯-KY",
-            "weight": 2.45
-        },
-        {
-            "code": "神達",
-            "weight": 1.47
-        },
-        {
-            "code": "信驊",
             "weight": 2.64
         },
         {
+            "code": "大立光",
+            "weight": 0.61
+        },
+        {
+            "code": "奇鋐",
+            "weight": 0.88
+        },
+        {
+            "code": "威健",
+            "weight": 1.78
+        },
+        {
+            "code": "文曄",
+            "weight": 1.88
+        },
+        {
+            "code": "欣興",
+            "weight": 0.54
+        },
+        {
+            "code": "健鼎",
+            "weight": 0.01
+        },
+        {
+            "code": "緯創",
+            "weight": 4.93
+        },
+        {
+            "code": "創意",
+            "weight": 1.04
+        },
+        {
+            "code": "昇達科",
+            "weight": 0.01
+        },
+        {
+            "code": "嘉澤",
+            "weight": 0.45
+        },
+        {
+            "code": "健策",
+            "weight": 2.99
+        },
+        {
+            "code": "貿聯-KY",
+            "weight": 1.77
+        },
+        {
+            "code": "神達",
+            "weight": 1.57
+        },
+        {
+            "code": "信驊",
+            "weight": 1.48
+        },
+        {
             "code": "創惟",
-            "weight": 1.43
+            "weight": 1.32
         },
         {
             "code": "茂達",
-            "weight": 0.15
+            "weight": 0.28
         },
         {
             "code": "達麗",
-            "weight": 2.49
+            "weight": 2.39
         },
         {
             "code": "帆宣",
-            "weight": 1.97
+            "weight": 2.9
         },
         {
             "code": "聯茂",
-            "weight": 2.24
+            "weight": 2.86
         },
         {
             "code": "矽力*-KY",
-            "weight": 2.08
+            "weight": 3.95
         },
         {
             "code": "藥華藥",
-            "weight": 1.38
+            "weight": 1.18
         },
         {
             "code": "精測",
-            "weight": 1.96
+            "weight": 1.8
+        },
+        {
+            "code": "達發",
+            "weight": 0.89
         },
         {
             "code": "緯穎",
-            "weight": 2.2
+            "weight": 2.14
         },
         {
             "code": "AES-KY",
-            "weight": 2.18
+            "weight": 3.09
         },
         {
             "code": "富世達",
-            "weight": 3.15
+            "weight": 0.02
         },
         {
             "code": "LINEPAY",
@@ -14602,18 +14566,714 @@ const etfData = {
         },
         {
             "code": "昇陽半導體",
-            "weight": 3.07
+            "weight": 2.65
         },
         {
             "code": "振樺電",
-            "weight": 1.8
+            "weight": 1.5
         },
         {
             "code": "勤誠",
-            "weight": 3.27
+            "weight": 0.31
+        },
+        {
+            "code": "金居",
+            "weight": 1.06
+        },
+        {
+            "code": "百和",
+            "weight": 1.23
+        }
+    ],
+    "主動安聯台灣高息(00984A)": [
+        {
+            "code": "亞泥",
+            "weight": 2.09
+        },
+        {
+            "code": "大成",
+            "weight": 0.21
+        },
+        {
+            "code": "卜蜂",
+            "weight": 0.43
+        },
+        {
+            "code": "統一",
+            "weight": 1.77
+        },
+        {
+            "code": "聯華食",
+            "weight": 0.23
+        },
+        {
+            "code": "遠東新",
+            "weight": 1.63
+        },
+        {
+            "code": "新紡",
+            "weight": 0.24
+        },
+        {
+            "code": "福懋",
+            "weight": 0.23
+        },
+        {
+            "code": "儒鴻",
+            "weight": 1.74
+        },
+        {
+            "code": "東元",
+            "weight": 0.23
+        },
+        {
+            "code": "喬山",
+            "weight": 0.21
+        },
+        {
+            "code": "美時",
+            "weight": 0.25
+        },
+        {
+            "code": "富喬",
+            "weight": 0.3
+        },
+        {
+            "code": "東和鋼鐵",
+            "weight": 0.25
+        },
+        {
+            "code": "川湖",
+            "weight": 0.17
+        },
+        {
+            "code": "正新",
+            "weight": 0.25
+        },
+        {
+            "code": "中華",
+            "weight": 1.73
+        },
+        {
+            "code": "三陽工業",
+            "weight": 0.23
+        },
+        {
+            "code": "長榮鋼",
+            "weight": 1.76
+        },
+        {
+            "code": "光寶科",
+            "weight": 0.22
+        },
+        {
+            "code": "聯電",
+            "weight": 0.45
+        },
+        {
+            "code": "台達電",
+            "weight": 0.27
+        },
+        {
+            "code": "國巨",
+            "weight": 0.14
+        },
+        {
+            "code": "台積電",
+            "weight": 0.22
+        },
+        {
+            "code": "智邦",
+            "weight": 0.56
+        },
+        {
+            "code": "聯強",
+            "weight": 0.24
+        },
+        {
+            "code": "順德",
+            "weight": 1.98
+        },
+        {
+            "code": "華碩",
+            "weight": 0.21
+        },
+        {
+            "code": "致茂",
+            "weight": 0.21
+        },
+        {
+            "code": "金像電",
+            "weight": 0.63
+        },
+        {
+            "code": "技嘉",
+            "weight": 0.24
+        },
+        {
+            "code": "瑞昱",
+            "weight": 0.37
+        },
+        {
+            "code": "廣達",
+            "weight": 0.31
+        },
+        {
+            "code": "台光電",
+            "weight": 0.83
+        },
+        {
+            "code": "群光",
+            "weight": 0.24
+        },
+        {
+            "code": "漢唐",
+            "weight": 2.09
+        },
+        {
+            "code": "友達",
+            "weight": 0.24
+        },
+        {
+            "code": "中華電",
+            "weight": 0.63
+        },
+        {
+            "code": "可成",
+            "weight": 0.22
+        },
+        {
+            "code": "敦陽科",
+            "weight": 0.21
+        },
+        {
+            "code": "宏達電",
+            "weight": 0.26
+        },
+        {
+            "code": "長榮",
+            "weight": 0.47
+        },
+        {
+            "code": "新興",
+            "weight": 0.94
+        },
+        {
+            "code": "榮運",
+            "weight": 0.47
+        },
+        {
+            "code": "陽明",
+            "weight": 1.78
+        },
+        {
+            "code": "華航",
+            "weight": 1.75
+        },
+        {
+            "code": "長榮航",
+            "weight": 1.8
+        },
+        {
+            "code": "台灣高鐵",
+            "weight": 0.24
+        },
+        {
+            "code": "長榮航太",
+            "weight": 2.19
+        },
+        {
+            "code": "王品",
+            "weight": 0.22
+        },
+        {
+            "code": "雄獅",
+            "weight": 1.71
+        },
+        {
+            "code": "彰銀",
+            "weight": 0.24
+        },
+        {
+            "code": "台中銀",
+            "weight": 0.23
+        },
+        {
+            "code": "富邦金",
+            "weight": 0.07
+        },
+        {
+            "code": "國泰金",
+            "weight": 0.16
+        },
+        {
+            "code": "玉山金",
+            "weight": 0.22
+        },
+        {
+            "code": "兆豐金",
+            "weight": 0.24
+        },
+        {
+            "code": "中信金",
+            "weight": 2.27
+        },
+        {
+            "code": "第一金",
+            "weight": 0.24
+        },
+        {
+            "code": "統一超",
+            "weight": 1.98
+        },
+        {
+            "code": "大立光",
+            "weight": 0.3
+        },
+        {
+            "code": "奇鋐",
+            "weight": 0.22
+        },
+        {
+            "code": "信邦",
+            "weight": 0.23
+        },
+        {
+            "code": "聯詠",
+            "weight": 1.75
+        },
+        {
+            "code": "文曄",
+            "weight": 0.21
+        },
+        {
+            "code": "健鼎",
+            "weight": 2.43
+        },
+        {
+            "code": "台灣大",
+            "weight": 1.98
+        },
+        {
+            "code": "日電貿",
+            "weight": 0.25
+        },
+        {
+            "code": "原相",
+            "weight": 1.68
+        },
+        {
+            "code": "緯創",
+            "weight": 0.57
+        },
+        {
+            "code": "威剛",
+            "weight": 1.81
+        },
+        {
+            "code": "欣銓",
+            "weight": 0.68
+        },
+        {
+            "code": "創意",
+            "weight": 0.24
+        },
+        {
+            "code": "華擎",
+            "weight": 0.21
+        },
+        {
+            "code": "嘉澤",
+            "weight": 1.81
+        },
+        {
+            "code": "瑞鼎",
+            "weight": 0.23
+        },
+        {
+            "code": "碩天",
+            "weight": 1.65
+        },
+        {
+            "code": "貿聯-KY",
+            "weight": 0.16
+        },
+        {
+            "code": "大聯大",
+            "weight": 0.23
+        },
+        {
+            "code": "日月光投控",
+            "weight": 0.04
+        },
+        {
+            "code": "拓凱",
+            "weight": 1.79
+        },
+        {
+            "code": "材料-KY",
+            "weight": 1.75
+        },
+        {
+            "code": "南寶",
+            "weight": 0.23
+        },
+        {
+            "code": "台特化",
+            "weight": 0.23
+        },
+        {
+            "code": "遠傳",
+            "weight": 1.77
+        },
+        {
+            "code": "致伸",
+            "weight": 0.24
+        },
+        {
+            "code": "和碩",
+            "weight": 0.24
+        },
+        {
+            "code": "天鈺",
+            "weight": 0.23
+        },
+        {
+            "code": "譜瑞-KY",
+            "weight": 0.23
+        },
+        {
+            "code": "祥碩",
+            "weight": 0.12
+        },
+        {
+            "code": "中磊",
+            "weight": 0.24
+        },
+        {
+            "code": "瀚宇博",
+            "weight": 1.96
+        },
+        {
+            "code": "聖暉*",
+            "weight": 0.23
+        },
+        {
+            "code": "中租-KY",
+            "weight": 1.81
+        },
+        {
+            "code": "寶雅",
+            "weight": 1.94
+        },
+        {
+            "code": "亞翔",
+            "weight": 0.5
+        },
+        {
+            "code": "頎邦",
+            "weight": 0.24
+        },
+        {
+            "code": "豐藝",
+            "weight": 1.69
+        },
+        {
+            "code": "帆宣",
+            "weight": 0.23
+        },
+        {
+            "code": "佳必琪",
+            "weight": 1.63
+        },
+        {
+            "code": "飛捷",
+            "weight": 1.14
+        },
+        {
+            "code": "力成",
+            "weight": 1.82
+        },
+        {
+            "code": "矽格",
+            "weight": 1.82
+        },
+        {
+            "code": "台燿",
+            "weight": 0.61
+        },
+        {
+            "code": "台表科",
+            "weight": 1.81
+        },
+        {
+            "code": "旭隼",
+            "weight": 1.72
+        },
+        {
+            "code": "藥華藥",
+            "weight": 0.03
+        },
+        {
+            "code": "精測",
+            "weight": 0.26
+        },
+        {
+            "code": "帝寶",
+            "weight": 1.8
+        },
+        {
+            "code": "群翊",
+            "weight": 1.69
+        },
+        {
+            "code": "緯穎",
+            "weight": 0.32
+        },
+        {
+            "code": "洋基工程",
+            "weight": 0.22
+        },
+        {
+            "code": "兆聯實業",
+            "weight": 0.19
+        },
+        {
+            "code": "奕力-KY",
+            "weight": 1.73
+        },
+        {
+            "code": "勤誠",
+            "weight": 0.65
+        },
+        {
+            "code": "大國鋼",
+            "weight": 0.49
+        },
+        {
+            "code": "億豐",
+            "weight": 0.46
+        },
+        {
+            "code": "台汽電",
+            "weight": 0.49
+        },
+        {
+            "code": "智通*",
+            "weight": 0.23
+        },
+        {
+            "code": "統一實",
+            "weight": 1.94
+        },
+        {
+            "code": "宏全",
+            "weight": 0.36
+        }
+    ],
+    "主動野村台灣50(00985A)": [
+        {
+            "code": "亞泥",
+            "weight": 1.74
+        },
+        {
+            "code": "統一",
+            "weight": 1.1
+        },
+        {
+            "code": "東陽",
+            "weight": 1.57
+        },
+        {
+            "code": "亞德客-KY",
+            "weight": 1.42
+        },
+        {
+            "code": "大成鋼",
+            "weight": 0.5
+        },
+        {
+            "code": "川湖",
+            "weight": 0.77
+        },
+        {
+            "code": "光寶科",
+            "weight": 0.14
+        },
+        {
+            "code": "台達電",
+            "weight": 1.34
+        },
+        {
+            "code": "鴻海",
+            "weight": 6.16
+        },
+        {
+            "code": "台積電",
+            "weight": 19.13
+        },
+        {
+            "code": "智邦",
+            "weight": 1.3
+        },
+        {
+            "code": "華碩",
+            "weight": 2.54
+        },
+        {
+            "code": "致茂",
+            "weight": 0.35
+        },
+        {
+            "code": "金像電",
+            "weight": 0.8
+        },
+        {
+            "code": "技嘉",
+            "weight": 0.95
+        },
+        {
+            "code": "瑞昱",
+            "weight": 1.85
+        },
+        {
+            "code": "廣達",
+            "weight": 1.98
+        },
+        {
+            "code": "台光電",
+            "weight": 1.2
+        },
+        {
+            "code": "中華電",
+            "weight": 2.22
+        },
+        {
+            "code": "京元電子",
+            "weight": 1.94
+        },
+        {
+            "code": "聯發科",
+            "weight": 5.24
+        },
+        {
+            "code": "長榮",
+            "weight": 2.42
+        },
+        {
+            "code": "華航",
+            "weight": 0.57
+        },
+        {
+            "code": "富邦金",
+            "weight": 3.62
+        },
+        {
+            "code": "玉山金",
+            "weight": 0.48
+        },
+        {
+            "code": "永豐金",
+            "weight": 0.61
+        },
+        {
+            "code": "中信金",
+            "weight": 3.28
+        },
+        {
+            "code": "奇鋐",
+            "weight": 2.3
+        },
+        {
+            "code": "健鼎",
+            "weight": 1.91
+        },
+        {
+            "code": "緯創",
+            "weight": 0.53
+        },
+        {
+            "code": "鈊象",
+            "weight": 2.38
+        },
+        {
+            "code": "雙鴻",
+            "weight": 0.41
+        },
+        {
+            "code": "創意",
+            "weight": 1.79
+        },
+        {
+            "code": "力旺",
+            "weight": 1.77
+        },
+        {
+            "code": "嘉澤",
+            "weight": 0.51
+        },
+        {
+            "code": "健策",
+            "weight": 1.98
+        },
+        {
+            "code": "世芯-KY",
+            "weight": 1.67
+        },
+        {
+            "code": "貿聯-KY",
+            "weight": 0.9
+        },
+        {
+            "code": "神達",
+            "weight": 1.13
+        },
+        {
+            "code": "新應材",
+            "weight": 1.7
+        },
+        {
+            "code": "遠傳",
+            "weight": 0.18
+        },
+        {
+            "code": "信驊",
+            "weight": 1.16
+        },
+        {
+            "code": "上海商銀",
+            "weight": 0.11
+        },
+        {
+            "code": "旺矽",
+            "weight": 1.13
+        },
+        {
+            "code": "台燿",
+            "weight": 1.43
+        },
+        {
+            "code": "緯穎",
+            "weight": 1.52
+        },
+        {
+            "code": "AES-KY",
+            "weight": 1.46
+        },
+        {
+            "code": "富世達",
+            "weight": 0.48
+        },
+        {
+            "code": "勤誠",
+            "weight": 0.48
+        },
+        {
+            "code": "億豐",
+            "weight": 0.04
         }
     ]
-}     
+}    
 ;
 
 function populateSelects() {
